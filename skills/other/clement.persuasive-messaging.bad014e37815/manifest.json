@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.persuasive-messaging.bad014e37815/SKILL.md",
+  "dependencies": [],
+  "description": "Uses persuasive messaging to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1367,
+  "id": "clement.persuasive-messaging.bad014e37815",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "messaging",
+    "objective",
+    "other",
+    "persuasive",
+    "persuasive-messaging",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "persuasive-messaging",
+  "schema_version": "1.0.0",
+  "sha256": "BAD014E378153BA80252A74BEC5095CF30E79B3AD6058532D5EEA00FF8C84E34",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/persuasive-messaging/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "86FFC8AAACD4969183203ED0F8E4817C1FBFFAA36CE6D68D8433B951311C3C2E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/persuasive-messaging/SKILL.md",
+      "red-blue-team-suite/skills/persuasive-messaging/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

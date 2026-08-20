@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.high-conviction-decider.911672ca52d3/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a high conviction decider operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1454,
+  "id": "clement.high-conviction-decider.911672ca52d3",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "conviction",
+    "decider",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "high",
+    "high-conviction-decider",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "high-conviction-decider",
+  "schema_version": "1.0.0",
+  "sha256": "911672CA52D361F8E64EF87126D1B0E8A1DB005911449E0AC511B4652359CC3A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/high-conviction-decider/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "F213D2370FC5CC3728767F55A4F4AC0D026D43B898DE99D4EB4494A220B28D6D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/high-conviction-decider/SKILL.md",
+      "red-blue-team-suite/skills/high-conviction-decider/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

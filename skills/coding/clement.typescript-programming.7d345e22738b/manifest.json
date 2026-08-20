@@ -1,0 +1,48 @@
+{
+  "category": "coding",
+  "conflicts": [],
+  "content_path": "skills/coding/clement.typescript-programming.7d345e22738b/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Typescript Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1452,
+  "id": "clement.typescript-programming.7d345e22738b",
+  "keywords": [
+    "and",
+    "built",
+    "coding",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "typescript",
+    "typescript-programming",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "typescript-programming",
+  "schema_version": "1.0.0",
+  "sha256": "7D345E22738B17E5F04CEDFF0458A28A5D437F4E89733E7DC5B54296AB86390B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/typescript-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5291E8C1268EA59F4A0928878A4868E0F1BA84C64F420A683514AB3E5FF86A65",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/typescript-programming/SKILL.md",
+      "red-blue-team-suite/skills/typescript-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

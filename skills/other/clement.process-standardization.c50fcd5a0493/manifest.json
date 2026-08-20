@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.process-standardization.c50fcd5a0493/SKILL.md",
+  "dependencies": [],
+  "description": "Applies process standardization to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1427,
+  "id": "clement.process-standardization.c50fcd5a0493",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "process",
+    "process-standardization",
+    "progress",
+    "quality",
+    "standardization",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "process-standardization",
+  "schema_version": "1.0.0",
+  "sha256": "C50FCD5A04933A20F669D7272B3DEFE0C086D71F5F34F269C14BCE5FB8EEF7D3",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/process-standardization/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B1F66F3001554767FE39B9714967A1B3777CBE3ECE19A5700B4A72946B8E515B",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/process-standardization/SKILL.md",
+      "red-blue-team-suite/skills/process-standardization/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.calm-crisis-leader.01c32526ed40/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a calm crisis leader operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1444,
+  "id": "clement.calm-crisis-leader.01c32526ed40",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "calm",
+    "calm-crisis-leader",
+    "crisis",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "leader",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "calm-crisis-leader",
+  "schema_version": "1.0.0",
+  "sha256": "01C32526ED4029151412B0952DA9571928C4A901AC09DC3A1276BCEC69F4B289",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/calm-crisis-leader/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "E088EFC44F514C488F4A91C4020608CFB4DFE58CFF91A6A3976E9857B97B49BF",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/calm-crisis-leader/SKILL.md",
+      "red-blue-team-suite/skills/calm-crisis-leader/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

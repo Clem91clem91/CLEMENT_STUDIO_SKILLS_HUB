@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.version-control-governance.1fc405fdafdb/SKILL.md",
+  "dependencies": [],
+  "description": "Applies version control governance to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1485,
+  "id": "clement.version-control-governance.1fc405fdafdb",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "governance",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "version",
+    "version-control-governance",
+    "work"
+  ],
+  "name": "version-control-governance",
+  "schema_version": "1.0.0",
+  "sha256": "1FC405FDAFDB05798803662848A8327FA906D8840BA1BAE7502C2654E24A05D0",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/version-control-governance/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0ADEBF1BDF85DD4CB103ACC70A99E61FB17A3200F169BBB4F3024D2B3C20768A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/version-control-governance/SKILL.md",
+      "red-blue-team-suite/skills/version-control-governance/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

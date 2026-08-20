@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.hypothesis-prioritization.b4d4cefa9f82/SKILL.md",
+  "dependencies": [],
+  "description": "Uses hypothesis prioritization as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1394,
+  "id": "clement.hypothesis-prioritization.b4d4cefa9f82",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "hypothesis",
+    "hypothesis-prioritization",
+    "improve",
+    "other",
+    "prioritization",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "hypothesis-prioritization",
+  "schema_version": "1.0.0",
+  "sha256": "B4D4CEFA9F8254C2308FB5DF3AEE286ECA8256D245028A678C2918A84C0D72A8",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/hypothesis-prioritization/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "018F555E254A66AAA30F97AE0D10768B32E35D994DC59585C135E19F900FAB64",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/hypothesis-prioritization/SKILL.md",
+      "red-blue-team-suite/skills/hypothesis-prioritization/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

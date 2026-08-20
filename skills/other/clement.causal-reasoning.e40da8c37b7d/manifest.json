@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.causal-reasoning.e40da8c37b7d/SKILL.md",
+  "dependencies": [],
+  "description": "Uses causal reasoning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1376,
+  "id": "clement.causal-reasoning.e40da8c37b7d",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "causal",
+    "causal-reasoning",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "causal-reasoning",
+  "schema_version": "1.0.0",
+  "sha256": "E40DA8C37B7D24B88A836B03D0AE1828CE4148A8BF0177C9178A6A0B47A805A7",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/causal-reasoning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4821DE5C07EEDC61725BD218458602450066B05076ECACD60372B8971408794C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/causal-reasoning/SKILL.md",
+      "red-blue-team-suite/skills/causal-reasoning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

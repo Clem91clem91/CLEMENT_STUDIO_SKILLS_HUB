@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.contract-negotiation.20dd94a3bd8a/SKILL.md",
+  "dependencies": [],
+  "description": "Applies contract negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1493,
+  "id": "clement.contract-negotiation.20dd94a3bd8a",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "contract",
+    "contract-negotiation",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "contract-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "20DD94A3BD8AE7BC381551F1F7EA1680F1B9FEA88E2179C605AB237E158D67E2",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/contract-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "9001D7A69E530A961B66E9578AFBAD1FACFA5B71A60B873F2A3C4F5BFBB3658D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/contract-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/contract-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

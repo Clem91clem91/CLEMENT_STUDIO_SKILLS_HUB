@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.boundary-pushing-creator.1859e02dba38/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a boundary pushing creator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1456,
+  "id": "clement.boundary-pushing-creator.1859e02dba38",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "boundary",
+    "boundary-pushing-creator",
+    "creator",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "pushing",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "boundary-pushing-creator",
+  "schema_version": "1.0.0",
+  "sha256": "1859E02DBA3857EBFE5FAD9AB4B771AC439DB3352E1A58D455C97D85B4E0370C",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/boundary-pushing-creator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5F5FDEB94277528901978FEB8FB521DFA31F554A30001A56C0F8B5F22B6955A7",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/boundary-pushing-creator/SKILL.md",
+      "red-blue-team-suite/skills/boundary-pushing-creator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

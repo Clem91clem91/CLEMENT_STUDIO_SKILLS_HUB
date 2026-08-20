@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.adobe-illustrator.47c0d6f161eb/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Adobe Illustrator, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1441,
+  "id": "clement.adobe-illustrator.47c0d6f161eb",
+  "keywords": [
+    "adobe",
+    "adobe-illustrator",
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "illustrator",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "adobe-illustrator",
+  "schema_version": "1.0.0",
+  "sha256": "47C0D6F161EB055101BB1D55AAA29E2261462E2C1E75C0CF28340CAE96AF8053",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/adobe-illustrator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4A48FF63E7A31C89C1FA266A8CEE6C4F787B64614F4A12EAD61493075E636F25",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/adobe-illustrator/SKILL.md",
+      "red-blue-team-suite/skills/adobe-illustrator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.service-oriented-professional.cd7ccccc942d/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a service oriented professional operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1470,
+  "id": "clement.service-oriented-professional.cd7ccccc942d",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "oriented",
+    "other",
+    "preserving",
+    "professional",
+    "service",
+    "service-oriented-professional",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "service-oriented-professional",
+  "schema_version": "1.0.0",
+  "sha256": "CD7CCCCC942DF37EAA5976C5CDC8C3541B29EEBAF35FB5A9C0F0124F4C5727C7",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/service-oriented-professional/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "7BCFB942236CB470BD7F1D890A33B337D41218A9F7BDBB50CCD4E143E5C99DCA",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/service-oriented-professional/SKILL.md",
+      "red-blue-team-suite/skills/service-oriented-professional/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

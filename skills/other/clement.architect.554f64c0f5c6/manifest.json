@@ -1,0 +1,53 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.architect.554f64c0f5c6/SKILL.md",
+  "dependencies": [],
+  "description": "Applies the Architect professional role to plan, execute, review, and deliver reliable construction engineering work with explicit assumptions, controls, and human escalation where required.",
+  "estimated_context_cost": 1421,
+  "id": "clement.architect.554f64c0f5c6",
+  "keywords": [
+    "and",
+    "applies",
+    "architect",
+    "assumptions",
+    "construction",
+    "controls",
+    "deliver",
+    "engineering",
+    "escalation",
+    "execute",
+    "explicit",
+    "human",
+    "other",
+    "plan",
+    "professional",
+    "reliable",
+    "required",
+    "review",
+    "role",
+    "the",
+    "to",
+    "where",
+    "with",
+    "work"
+  ],
+  "name": "architect",
+  "schema_version": "1.0.0",
+  "sha256": "554F64C0F5C651C23102C25F22E7FACFFE8FEF1EEA5B5D84E0F7BA098B380B8E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/architect/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4424BA14F9DD00735B5222C0E394AA3ECA57142472F33D271FF5DBC1CD3162A1",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/architect/SKILL.md",
+      "red-blue-team-suite/skills/architect/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.tradeoff-evaluation.f01dfa051497/SKILL.md",
+  "dependencies": [],
+  "description": "Uses tradeoff evaluation as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1383,
+  "id": "clement.tradeoff-evaluation.f01dfa051497",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evaluation",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "tradeoff",
+    "tradeoff-evaluation",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "tradeoff-evaluation",
+  "schema_version": "1.0.0",
+  "sha256": "F01DFA051497ACDBD23583F6C9509F0A3281FF7B0FF8BF65D38A9B83A2AE1223",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/tradeoff-evaluation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D6CF49BB9A811EA327898ACCDD728A6D2713F552E6FEDAEE6C7C6EE031D08DE0",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/tradeoff-evaluation/SKILL.md",
+      "red-blue-team-suite/skills/tradeoff-evaluation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

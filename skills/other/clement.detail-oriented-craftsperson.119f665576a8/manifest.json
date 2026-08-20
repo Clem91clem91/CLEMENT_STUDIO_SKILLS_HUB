@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.detail-oriented-craftsperson.119f665576a8/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a detail oriented craftsperson operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1475,
+  "id": "clement.detail-oriented-craftsperson.119f665576a8",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "craftsperson",
+    "decisions",
+    "detail",
+    "detail-oriented-craftsperson",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "oriented",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "detail-oriented-craftsperson",
+  "schema_version": "1.0.0",
+  "sha256": "119F665576A8C774B1CD5B82D27957FC8CF89A98B8265C7D8BA36FC41CEED6B4",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/detail-oriented-craftsperson/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "50E202A19F83F07980260E17202B66DFC073839BA4F5AF21BBA8FB481F915516",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/detail-oriented-craftsperson/SKILL.md",
+      "red-blue-team-suite/skills/detail-oriented-craftsperson/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

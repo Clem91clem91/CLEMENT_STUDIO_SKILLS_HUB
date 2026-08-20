@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.analytical-realist.7eb75d4b0bd0/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a analytical realist operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1444,
+  "id": "clement.analytical-realist.7eb75d4b0bd0",
+  "keywords": [
+    "analytical",
+    "analytical-realist",
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "realist",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "analytical-realist",
+  "schema_version": "1.0.0",
+  "sha256": "7EB75D4B0BD0A34430B875F3A45C168A22AEF0FE7F9EA69B14908E037E9BC0E4",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/analytical-realist/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "7B8B976BBA8633FAE25A16AFA6901F654A3A74D54F72C610DC6225A91D9CD138",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/analytical-realist/SKILL.md",
+      "red-blue-team-suite/skills/analytical-realist/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

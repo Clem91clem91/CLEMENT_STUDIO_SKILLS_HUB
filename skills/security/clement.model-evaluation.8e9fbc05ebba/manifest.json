@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.model-evaluation.8e9fbc05ebba/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Model Evaluation, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1445,
+  "id": "clement.model-evaluation.8e9fbc05ebba",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "evaluation",
+    "implements",
+    "in",
+    "maintainability",
+    "model",
+    "model-evaluation",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "model-evaluation",
+  "schema_version": "1.0.0",
+  "sha256": "8E9FBC05EBBAEBCFB79C39C81155BAF6A1813997B839D8C39069925DBB6803C1",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/model-evaluation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "29AD7C45766B12794FC7E095033B415D16578A54FCCC7EFA2F1F413AEB8A9488",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/model-evaluation/SKILL.md",
+      "red-blue-team-suite/skills/model-evaluation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

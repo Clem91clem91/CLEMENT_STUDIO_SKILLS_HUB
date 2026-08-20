@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.idea-generation.6acb8f42ea97/SKILL.md",
+  "dependencies": [],
+  "description": "Uses idea generation to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1371,
+  "id": "clement.idea-generation.6acb8f42ea97",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "generation",
+    "idea",
+    "idea-generation",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "idea-generation",
+  "schema_version": "1.0.0",
+  "sha256": "6ACB8F42EA97EBEE09CAD598EB1B6C86A4828FBC47F4AE0279C487F36700E47F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/idea-generation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "25F0C3E19EFA7686B91EB0B8F4E04DA0C538081BD21412DE6DE2DDA673C56A7F",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/idea-generation/SKILL.md",
+      "red-blue-team-suite/skills/idea-generation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

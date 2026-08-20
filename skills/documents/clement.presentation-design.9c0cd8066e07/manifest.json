@@ -1,0 +1,50 @@
+{
+  "category": "documents",
+  "conflicts": [],
+  "content_path": "skills/documents/clement.presentation-design.9c0cd8066e07/SKILL.md",
+  "dependencies": [],
+  "description": "Uses presentation design to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1371,
+  "id": "clement.presentation-design.9c0cd8066e07",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "design",
+    "documents",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "presentation",
+    "presentation-design",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "presentation-design",
+  "schema_version": "1.0.0",
+  "sha256": "9C0CD8066E07DFB68044DF328D4EE8AA708277FA97AF71DADB57BB799CD17276",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/presentation-design/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "066FEF6AD56AEC87F24C6C64538C1864678E53CEE72F5DC1277F2AFEC686C8E3",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/presentation-design/SKILL.md",
+      "red-blue-team-suite/skills/presentation-design/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.reversible-decision-making.569eaf52b4db/SKILL.md",
+  "dependencies": [],
+  "description": "Uses reversible decision making as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1396,
+  "id": "clement.reversible-decision-making.569eaf52b4db",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "making",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "reversible",
+    "reversible-decision-making",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "reversible-decision-making",
+  "schema_version": "1.0.0",
+  "sha256": "569EAF52B4DB4D9752C2EC3F2251C0CFDA064EAFA9B76AAD231CC6414B61D1C9",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/reversible-decision-making/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "54EC75D34359B827F64B5920C4D96B217A8CF6FCAEDE4CD3368B2AB39F8630C6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/reversible-decision-making/SKILL.md",
+      "red-blue-team-suite/skills/reversible-decision-making/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

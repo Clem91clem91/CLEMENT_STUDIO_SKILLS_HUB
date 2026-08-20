@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.swift-programming.b335099429f3/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Swift Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1442,
+  "id": "clement.swift-programming.b335099429f3",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "swift",
+    "swift-programming",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "swift-programming",
+  "schema_version": "1.0.0",
+  "sha256": "B335099429F35BD2FF240613E759D80BEC86C92074DB7F36EC449D0EE1C33CB9",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/swift-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5035DFDE41EC0021680F288657B98F6D58C238737C4413931CFB281B5DCD73D8",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/swift-programming/SKILL.md",
+      "red-blue-team-suite/skills/swift-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

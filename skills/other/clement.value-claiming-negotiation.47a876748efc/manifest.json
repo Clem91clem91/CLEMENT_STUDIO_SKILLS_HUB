@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.value-claiming-negotiation.47a876748efc/SKILL.md",
+  "dependencies": [],
+  "description": "Applies value claiming negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1431,
+  "id": "clement.value-claiming-negotiation.47a876748efc",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "claiming",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to",
+    "value",
+    "value-claiming-negotiation"
+  ],
+  "name": "value-claiming-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "47A876748EFCBE8FC97990623F55922F1B00B54A5255D0D05045A325504A1C0A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/value-claiming-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0A56E858F005D9139560F25F7B8C168D7AFABBB7DA768BA3AC850E7B5543367E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/value-claiming-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/value-claiming-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

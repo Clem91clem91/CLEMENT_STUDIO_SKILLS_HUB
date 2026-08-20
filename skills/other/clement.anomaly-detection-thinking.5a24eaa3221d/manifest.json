@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.anomaly-detection-thinking.5a24eaa3221d/SKILL.md",
+  "dependencies": [],
+  "description": "Uses anomaly detection thinking as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1396,
+  "id": "clement.anomaly-detection-thinking.5a24eaa3221d",
+  "keywords": [
+    "alternatives",
+    "and",
+    "anomaly",
+    "anomaly-detection-thinking",
+    "as",
+    "calibration",
+    "decision",
+    "detection",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "thinking",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "anomaly-detection-thinking",
+  "schema_version": "1.0.0",
+  "sha256": "5A24EAA3221D4C255EDC00A3B53E1DA862EC0ED435FD37573F2257CC2A565C02",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/anomaly-detection-thinking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CCBDFA65D1433341F75B281D807F1758B66A875EEE12AA37448AE8B13E8FA7C6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/anomaly-detection-thinking/SKILL.md",
+      "red-blue-team-suite/skills/anomaly-detection-thinking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.emotionally-regulated-leader.737d58d4b7d9/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a emotionally regulated leader operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1468,
+  "id": "clement.emotionally-regulated-leader.737d58d4b7d9",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "emotionally",
+    "emotionally-regulated-leader",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "leader",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "regulated",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "emotionally-regulated-leader",
+  "schema_version": "1.0.0",
+  "sha256": "737D58D4B7D998C4FA5A0E39238E8B04701E0231C8BB0C241E8AB5872B78D40E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/emotionally-regulated-leader/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "262CE351F59439DA56089B5DE10A0E25EA2FD2817043266AB4C6AA3D8B990DD9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/emotionally-regulated-leader/SKILL.md",
+      "red-blue-team-suite/skills/emotionally-regulated-leader/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

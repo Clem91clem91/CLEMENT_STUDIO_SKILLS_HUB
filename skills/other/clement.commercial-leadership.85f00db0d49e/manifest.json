@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.commercial-leadership.85f00db0d49e/SKILL.md",
+  "dependencies": [],
+  "description": "Uses commercial leadership to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1369,
+  "id": "clement.commercial-leadership.85f00db0d49e",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "commercial",
+    "commercial-leadership",
+    "culture",
+    "decisions",
+    "leadership",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "commercial-leadership",
+  "schema_version": "1.0.0",
+  "sha256": "85F00DB0D49EEAAEF9D2DFB7DB02E5A573061AF9FF82FB427DF7EC78806C344B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/commercial-leadership/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "63D19275A7A89AC94955BA5FC29F4040F2646FC79A8E580B1A8CCC26881F0311",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/commercial-leadership/SKILL.md",
+      "red-blue-team-suite/skills/commercial-leadership/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

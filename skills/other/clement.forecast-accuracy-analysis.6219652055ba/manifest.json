@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.forecast-accuracy-analysis.6219652055ba/SKILL.md",
+  "dependencies": [],
+  "description": "Performs forecast accuracy analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1411,
+  "id": "clement.forecast-accuracy-analysis.6219652055ba",
+  "keywords": [
+    "accuracy",
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "forecast",
+    "forecast-accuracy-analysis",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "forecast-accuracy-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "6219652055BA0CEEC56C5B6E1C441677CAB379E6E1C6C7E87E0A29BA81607E31",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/forecast-accuracy-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "BE1DA416E35D9281A08E06B7306568FF58FFA123B397422C89EDFA1BA0AB6964",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/forecast-accuracy-analysis/SKILL.md",
+      "red-blue-team-suite/skills/forecast-accuracy-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

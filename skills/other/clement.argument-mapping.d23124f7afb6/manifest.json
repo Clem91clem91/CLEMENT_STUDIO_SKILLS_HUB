@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.argument-mapping.d23124f7afb6/SKILL.md",
+  "dependencies": [],
+  "description": "Uses argument mapping as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1376,
+  "id": "clement.argument-mapping.d23124f7afb6",
+  "keywords": [
+    "alternatives",
+    "and",
+    "argument",
+    "argument-mapping",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "mapping",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "argument-mapping",
+  "schema_version": "1.0.0",
+  "sha256": "D23124F7AFB63264F43095B9669DBA413558714EDBF287B2EB253E8FE4076038",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/argument-mapping/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "953BCB7A23803E95E684F0C1BACA6CC1B1C5F582A5E2FC56747CA00A17E8A96B",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/argument-mapping/SKILL.md",
+      "red-blue-team-suite/skills/argument-mapping/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

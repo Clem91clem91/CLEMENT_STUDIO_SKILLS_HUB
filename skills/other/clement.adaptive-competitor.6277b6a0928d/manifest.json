@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.adaptive-competitor.6277b6a0928d/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a adaptive competitor operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1446,
+  "id": "clement.adaptive-competitor.6277b6a0928d",
+  "keywords": [
+    "adaptive",
+    "adaptive-competitor",
+    "and",
+    "applies",
+    "behavioral",
+    "competitor",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "adaptive-competitor",
+  "schema_version": "1.0.0",
+  "sha256": "6277B6A0928D543C4FF986A91B2663C963E2A4C102F19E4D0CF9B2EE83E37ED1",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/adaptive-competitor/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "403099AE4062099750B31FA7F6C79027CF9B22FA66DE819BB26B76BC77C7ECA5",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/adaptive-competitor/SKILL.md",
+      "red-blue-team-suite/skills/adaptive-competitor/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

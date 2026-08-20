@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.partnership-negotiation.ccf9b89a2281/SKILL.md",
+  "dependencies": [],
+  "description": "Applies partnership negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1433,
+  "id": "clement.partnership-negotiation.ccf9b89a2281",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "partnership",
+    "partnership-negotiation",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "partnership-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "CCF9B89A22818F8838AC696400164F0E30A457DDC5BA8FEF715DABA9025B25A4",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/partnership-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "1AAD705598CC1ADD4E0EB4329347DF285B445B55D89C1F803EB8F3ECD8C8DE85",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/partnership-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/partnership-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

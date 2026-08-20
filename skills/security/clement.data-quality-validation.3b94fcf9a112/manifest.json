@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.data-quality-validation.3b94fcf9a112/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Data Quality Validation, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1442,
+  "id": "clement.data-quality-validation.3b94fcf9a112",
+  "keywords": [
+    "and",
+    "built",
+    "data",
+    "data-quality-validation",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "quality",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "validation",
+    "verification",
+    "with"
+  ],
+  "name": "data-quality-validation",
+  "schema_version": "1.0.0",
+  "sha256": "3B94FCF9A112790A760546A5F6512B97810E5446F23ADB3D4164AC026C1C1194",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/data-quality-validation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "591011B389FA7756D2962DB8E73328ADA3C8623827B356CD55B7BF086C7B8E96",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/data-quality-validation/SKILL.md",
+      "red-blue-team-suite/skills/data-quality-validation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

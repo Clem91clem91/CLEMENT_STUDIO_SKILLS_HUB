@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.deadlock-resolution.1f0564a5c1d8/SKILL.md",
+  "dependencies": [],
+  "description": "Applies deadlock resolution to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1417,
+  "id": "clement.deadlock-resolution.1f0564a5c1d8",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "deadlock",
+    "deadlock-resolution",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "other",
+    "packages",
+    "prepare",
+    "resolution",
+    "risk",
+    "to"
+  ],
+  "name": "deadlock-resolution",
+  "schema_version": "1.0.0",
+  "sha256": "1F0564A5C1D8361DD7B473418ECD61B0780A2C9CEEC3FA81F4F82596561D630F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/deadlock-resolution/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "9579567B791BA0F4624F19F053D72A33AE85BE06D2A931E8BDF95869BDFDF7C0",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/deadlock-resolution/SKILL.md",
+      "red-blue-team-suite/skills/deadlock-resolution/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.accountability-champion.f0c4282d84bb/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a accountability champion operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1453,
+  "id": "clement.accountability-champion.f0c4282d84bb",
+  "keywords": [
+    "accountability",
+    "accountability-champion",
+    "and",
+    "applies",
+    "behavioral",
+    "champion",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "accountability-champion",
+  "schema_version": "1.0.0",
+  "sha256": "F0C4282D84BB3B537179B5ABD59971ED058CF32220ABF3A29337AA969EB0D7B7",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/accountability-champion/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "60E14F7C0BC13ABBFA03D6C14ECF934DBA9364EFEEC8867CF1A85586604A6C94",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/accountability-champion/SKILL.md",
+      "red-blue-team-suite/skills/accountability-champion/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

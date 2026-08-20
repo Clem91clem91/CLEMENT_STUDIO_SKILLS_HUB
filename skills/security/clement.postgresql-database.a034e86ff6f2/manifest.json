@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.postgresql-database.a034e86ff6f2/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Postgresql Database, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1434,
+  "id": "clement.postgresql-database.a034e86ff6f2",
+  "keywords": [
+    "and",
+    "built",
+    "database",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "postgresql",
+    "postgresql-database",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "postgresql-database",
+  "schema_version": "1.0.0",
+  "sha256": "A034E86FF6F228D6697C660AC75F515A97EFBE3CA66782AF76BFB04B6F373A4F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/postgresql-database/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0CA34CCD7916B0100F32097BDAB13A86A126B984EE9C0A10DD2C42884FF1BD10",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/postgresql-database/SKILL.md",
+      "red-blue-team-suite/skills/postgresql-database/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

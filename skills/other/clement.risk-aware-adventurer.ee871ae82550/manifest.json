@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.risk-aware-adventurer.ee871ae82550/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a risk aware adventurer operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1451,
+  "id": "clement.risk-aware-adventurer.ee871ae82550",
+  "keywords": [
+    "adventurer",
+    "and",
+    "applies",
+    "aware",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "risk",
+    "risk-aware-adventurer",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "risk-aware-adventurer",
+  "schema_version": "1.0.0",
+  "sha256": "EE871AE825508793B83049B4A210B7A5FEF2C127146F8F5BA05DCA03E5838B91",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/risk-aware-adventurer/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C2D595CD717718EB2DE88676251E06251AFF475B5F1EBA35C6B710B1204ABC2E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/risk-aware-adventurer/SKILL.md",
+      "red-blue-team-suite/skills/risk-aware-adventurer/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

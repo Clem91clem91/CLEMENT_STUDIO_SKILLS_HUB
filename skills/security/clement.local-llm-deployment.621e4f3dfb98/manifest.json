@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.local-llm-deployment.621e4f3dfb98/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Local LLM Deployment, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1453,
+  "id": "clement.local-llm-deployment.621e4f3dfb98",
+  "keywords": [
+    "and",
+    "built",
+    "deployment",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "llm",
+    "local",
+    "local-llm-deployment",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "local-llm-deployment",
+  "schema_version": "1.0.0",
+  "sha256": "621E4F3DFB9895A7851F8A596E2CBD1E732D8CEA5C61057C15D05F93947BC6D1",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/local-llm-deployment/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "1BC074673285FDA63D0267776B49A0FAF81B1ED7FA915B70505FA322938A8CCA",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/local-llm-deployment/SKILL.md",
+      "red-blue-team-suite/skills/local-llm-deployment/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

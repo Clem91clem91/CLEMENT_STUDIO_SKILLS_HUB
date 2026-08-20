@@ -1,0 +1,46 @@
+{
+  "category": "documents",
+  "conflicts": [],
+  "content_path": "skills/documents/clement.document-analysis.302e146fbbc4/SKILL.md",
+  "dependencies": [],
+  "description": "Performs document analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1393,
+  "id": "clement.document-analysis.302e146fbbc4",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "document",
+    "document-analysis",
+    "documents",
+    "evidence",
+    "findings",
+    "methods",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "document-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "302E146FBBC4899A4961EB47418ABD88F39C17B4873BB7F8FB5031AB724BCDD5",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/document-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "43D30683470C53BB81B5AF8CF459A21C8000D76A0DE6754D944B4932A27B042B",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/document-analysis/SKILL.md",
+      "red-blue-team-suite/skills/document-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

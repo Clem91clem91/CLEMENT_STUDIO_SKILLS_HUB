@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.tone-adaptation.bd4ebf700ff4/SKILL.md",
+  "dependencies": [],
+  "description": "Uses tone adaptation to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1357,
+  "id": "clement.tone-adaptation.bd4ebf700ff4",
+  "keywords": [
+    "accurate",
+    "action",
+    "adaptation",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "tone-adaptation",
+    "uses",
+    "with"
+  ],
+  "name": "tone-adaptation",
+  "schema_version": "1.0.0",
+  "sha256": "BD4EBF700FF458E41FCAD9D567CB7F3BBBAE2491B6E238C5E0AEEB8C6FF520FA",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/tone-adaptation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "BC04F170311516855F8C7B74145BA749FD0C8CEC6F4E393215037693C40BB003",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/tone-adaptation/SKILL.md",
+      "red-blue-team-suite/skills/tone-adaptation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.frugal-innovator.4999fa43dca5/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a frugal innovator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1440,
+  "id": "clement.frugal-innovator.4999fa43dca5",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "frugal",
+    "frugal-innovator",
+    "innovator",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "frugal-innovator",
+  "schema_version": "1.0.0",
+  "sha256": "4999FA43DCA534C9466583C2FFAF982A844B019ECA5A669559873FDC41BF0FA1",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/frugal-innovator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "EFD8E72642B9F85EF2B4D5F2AA2DBC609A337256E6096F58AF949CFA51705A73",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/frugal-innovator/SKILL.md",
+      "red-blue-team-suite/skills/frugal-innovator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

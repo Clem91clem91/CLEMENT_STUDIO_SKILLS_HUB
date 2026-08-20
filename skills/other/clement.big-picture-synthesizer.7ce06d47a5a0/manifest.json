@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.big-picture-synthesizer.7ce06d47a5a0/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a big picture synthesizer operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1454,
+  "id": "clement.big-picture-synthesizer.7ce06d47a5a0",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "big",
+    "big-picture-synthesizer",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "picture",
+    "preserving",
+    "style",
+    "synthesizer",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "big-picture-synthesizer",
+  "schema_version": "1.0.0",
+  "sha256": "7CE06D47A5A0F68B48E325D36A491FBEB06ED7801B778E3C4CAA086223319783",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/big-picture-synthesizer/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "EAF2A5720EE05BAF1BB19ABC70486C2D9FDEE0505D1A7DF63BFD92DAACB46EF3",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/big-picture-synthesizer/SKILL.md",
+      "red-blue-team-suite/skills/big-picture-synthesizer/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

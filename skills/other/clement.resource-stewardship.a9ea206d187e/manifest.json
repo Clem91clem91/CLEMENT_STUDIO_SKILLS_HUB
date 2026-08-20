@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.resource-stewardship.a9ea206d187e/SKILL.md",
+  "dependencies": [],
+  "description": "Uses resource stewardship to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1370,
+  "id": "clement.resource-stewardship.a9ea206d187e",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "resource",
+    "resource-stewardship",
+    "stewardship",
+    "to",
+    "uses"
+  ],
+  "name": "resource-stewardship",
+  "schema_version": "1.0.0",
+  "sha256": "A9EA206D187E4A31DCE3441E07644E91FC5B0DA94212FFAEB6D9258CF3A73455",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/resource-stewardship/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "6B812D30EA72EF3A60719E98FBB4D5B0D42AB03B86756DBE611644665A0076E6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/resource-stewardship/SKILL.md",
+      "red-blue-team-suite/skills/resource-stewardship/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

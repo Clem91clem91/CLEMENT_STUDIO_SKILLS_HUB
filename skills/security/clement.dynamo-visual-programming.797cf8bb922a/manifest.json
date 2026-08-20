@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.dynamo-visual-programming.797cf8bb922a/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Dynamo Visual Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1465,
+  "id": "clement.dynamo-visual-programming.797cf8bb922a",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "dynamo",
+    "dynamo-visual-programming",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "visual",
+    "with"
+  ],
+  "name": "dynamo-visual-programming",
+  "schema_version": "1.0.0",
+  "sha256": "797CF8BB922A63C208227E14FF8EE25DF82A1AEED697AE4AEBD4B1FF3C2A8754",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/dynamo-visual-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "69BD26C7F4CE02AF2038DAFFD08E16F4A4552627C38241CCF3C54219151D0EFB",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/dynamo-visual-programming/SKILL.md",
+      "red-blue-team-suite/skills/dynamo-visual-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

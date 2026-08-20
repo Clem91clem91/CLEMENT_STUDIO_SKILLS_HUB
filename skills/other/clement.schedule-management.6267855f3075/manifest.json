@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.schedule-management.6267855f3075/SKILL.md",
+  "dependencies": [],
+  "description": "Applies schedule management to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1408,
+  "id": "clement.schedule-management.6267855f3075",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "management",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "schedule",
+    "schedule-management",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "schedule-management",
+  "schema_version": "1.0.0",
+  "sha256": "6267855F30751B20F7E755F36E3E52341849E650DC519220EEE496B68B2E2BBD",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/schedule-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "9F9C1803FF57EE75E15675EEDDA0945F9A6D9DDF34B20332F489E7C970B5CB4C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/schedule-management/SKILL.md",
+      "red-blue-team-suite/skills/schedule-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.organizational-direction.ea7128fa1228/SKILL.md",
+  "dependencies": [],
+  "description": "Uses organizational direction to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1378,
+  "id": "clement.organizational-direction.ea7128fa1228",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "direction",
+    "measurable",
+    "mission",
+    "operating",
+    "organizational",
+    "organizational-direction",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "organizational-direction",
+  "schema_version": "1.0.0",
+  "sha256": "EA7128FA122845ED87E79AB0DC0AC584DEF7960C0C2046B46C81F340F0837256",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/organizational-direction/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CA3B095DD70B0D5AC5DA2C1BA7ADC05D3BA9D5FFBD840F96BD12646160967004",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/organizational-direction/SKILL.md",
+      "red-blue-team-suite/skills/organizational-direction/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

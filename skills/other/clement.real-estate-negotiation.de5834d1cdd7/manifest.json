@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.real-estate-negotiation.de5834d1cdd7/SKILL.md",
+  "dependencies": [],
+  "description": "Applies real estate negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1425,
+  "id": "clement.real-estate-negotiation.de5834d1cdd7",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "estate",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "real",
+    "real-estate-negotiation",
+    "risk",
+    "to"
+  ],
+  "name": "real-estate-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "DE5834D1CDD7C88ECE6B862F8A9704633C7558CC9EC865B268FBF1D4813AA835",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/real-estate-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "FA4467FC5840D26110D9B16E6F1BE34E4C6329D5EE76D3AFC9502A07FCA6F39A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/real-estate-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/real-estate-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

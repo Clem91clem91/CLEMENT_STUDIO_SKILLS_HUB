@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.concept-development.0f7cbdbbdf1c/SKILL.md",
+  "dependencies": [],
+  "description": "Uses concept development to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1379,
+  "id": "clement.concept-development.0f7cbdbbdf1c",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concept",
+    "concept-development",
+    "concepts",
+    "constraints",
+    "develop",
+    "development",
+    "execution",
+    "fit",
+    "generate",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "concept-development",
+  "schema_version": "1.0.0",
+  "sha256": "0F7CBDBBDF1C1CF02209CC97E46544A52AA5543723EB2BED85210729ED30F29E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/concept-development/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "65B5ED5427C1781CDE2421C0A724831AB30D65CB53209766F700E67EFF2B5FD1",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/concept-development/SKILL.md",
+      "red-blue-team-suite/skills/concept-development/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

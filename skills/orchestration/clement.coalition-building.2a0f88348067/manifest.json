@@ -1,0 +1,47 @@
+{
+  "category": "orchestration",
+  "conflicts": [],
+  "content_path": "skills/orchestration/clement.coalition-building.2a0f88348067/SKILL.md",
+  "dependencies": [],
+  "description": "Applies coalition building to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1415,
+  "id": "clement.coalition-building.2a0f88348067",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "building",
+    "coalition",
+    "coalition-building",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "orchestration",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "coalition-building",
+  "schema_version": "1.0.0",
+  "sha256": "2A0F883480677DC32E443123933E9E9B49CAF50D07FD31B68EC6573BA81B8AD0",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/coalition-building/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "3BB1A4B70E00B8649B6E8F57696D34D69AF7E486525FCCAD5A969C3A756950E0",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/coalition-building/SKILL.md",
+      "red-blue-team-suite/skills/coalition-building/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

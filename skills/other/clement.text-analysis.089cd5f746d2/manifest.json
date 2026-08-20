@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.text-analysis.089cd5f746d2/SKILL.md",
+  "dependencies": [],
+  "description": "Performs text analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1385,
+  "id": "clement.text-analysis.089cd5f746d2",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "text",
+    "text-analysis",
+    "through",
+    "traceable"
+  ],
+  "name": "text-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "089CD5F746D24ADA3D0AA35D3CC7FC503DE3A9B2BEA46A85929C0E4735B051A8",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/text-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "088B9761E81FAF00E30C361883EB08AA57F838A52CE36E1BD6D7F3E4134B03A8",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/text-analysis/SKILL.md",
+      "red-blue-team-suite/skills/text-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

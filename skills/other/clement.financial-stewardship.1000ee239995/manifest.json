@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.financial-stewardship.1000ee239995/SKILL.md",
+  "dependencies": [],
+  "description": "Uses financial stewardship to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1372,
+  "id": "clement.financial-stewardship.1000ee239995",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "financial",
+    "financial-stewardship",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "stewardship",
+    "to",
+    "uses"
+  ],
+  "name": "financial-stewardship",
+  "schema_version": "1.0.0",
+  "sha256": "1000EE239995F743FDF658DEA4BE0606255688BF321AE44F8A6B313A6F09161A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/financial-stewardship/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "BD5A22452646D0EB598AC85AF6B97473A848299FA552C5EF19F0609D3141FF64",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/financial-stewardship/SKILL.md",
+      "red-blue-team-suite/skills/financial-stewardship/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

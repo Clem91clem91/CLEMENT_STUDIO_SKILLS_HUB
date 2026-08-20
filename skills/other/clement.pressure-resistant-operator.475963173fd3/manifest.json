@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.pressure-resistant-operator.475963173fd3/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a pressure resistant operator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1462,
+  "id": "clement.pressure-resistant-operator.475963173fd3",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "operator",
+    "other",
+    "preserving",
+    "pressure",
+    "pressure-resistant-operator",
+    "resistant",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "pressure-resistant-operator",
+  "schema_version": "1.0.0",
+  "sha256": "475963173FD31DCCFF4AB1717DB10D6E842314AC1AFDB3E7C4A15C9F6C3253EE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/pressure-resistant-operator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "DA4AD974FED6AA7B12AB702E1B1B7573E4B3BB23165C87C642460E3E5ED0EC3A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/pressure-resistant-operator/SKILL.md",
+      "red-blue-team-suite/skills/pressure-resistant-operator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

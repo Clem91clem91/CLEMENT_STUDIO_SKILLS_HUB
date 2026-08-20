@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.adversarial-reasoning.ff392ff75dbd/SKILL.md",
+  "dependencies": [],
+  "description": "Uses adversarial reasoning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1386,
+  "id": "clement.adversarial-reasoning.ff392ff75dbd",
+  "keywords": [
+    "adversarial",
+    "adversarial-reasoning",
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "adversarial-reasoning",
+  "schema_version": "1.0.0",
+  "sha256": "FF392FF75DBD6140753EF350A3BCDEB69D53D88A83D9C8011119E5D457208948",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/adversarial-reasoning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "6CD91B306F7588FE27BBC6DBDA34984DAE42006FC0EDF9B6E0B048B2927AA3C7",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/adversarial-reasoning/SKILL.md",
+      "red-blue-team-suite/skills/adversarial-reasoning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

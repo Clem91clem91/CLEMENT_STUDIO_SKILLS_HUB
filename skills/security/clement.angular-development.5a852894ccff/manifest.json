@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.angular-development.5a852894ccff/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Angular Development, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1446,
+  "id": "clement.angular-development.5a852894ccff",
+  "keywords": [
+    "and",
+    "angular",
+    "angular-development",
+    "built",
+    "designs",
+    "development",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "angular-development",
+  "schema_version": "1.0.0",
+  "sha256": "5A852894CCFF4BAA8F6EADBF0D568A6C058F98094839B471A554824FE246E5E6",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/angular-development/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8D71344DDE4A1839DEF74BED699A256C9DE181785C83AA3AF90D972C2E049F37",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/angular-development/SKILL.md",
+      "red-blue-team-suite/skills/angular-development/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

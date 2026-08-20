@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.scarcity-resistant-thinker.ca1c8114a322/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a scarcity resistant thinker operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1460,
+  "id": "clement.scarcity-resistant-thinker.ca1c8114a322",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "resistant",
+    "scarcity",
+    "scarcity-resistant-thinker",
+    "style",
+    "that",
+    "thinker",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "scarcity-resistant-thinker",
+  "schema_version": "1.0.0",
+  "sha256": "CA1C8114A3227612AA9D0279C31FBC33834B32E4538000480CF735F8775E5FEA",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/scarcity-resistant-thinker/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CC8969655B46DFE7193EB83F5BC55709D3BDB0650E44724AC2560FDCFCD89587",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/scarcity-resistant-thinker/SKILL.md",
+      "red-blue-team-suite/skills/scarcity-resistant-thinker/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.observability-implementation.019879a795a9/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Observability Implementation, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1464,
+  "id": "clement.observability-implementation.019879a795a9",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implementation",
+    "implements",
+    "in",
+    "maintainability",
+    "observability",
+    "observability-implementation",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "observability-implementation",
+  "schema_version": "1.0.0",
+  "sha256": "019879A795A9C95501690EA3D823712B5C0BB27F9B22AD99AC324AAF699FF402",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/observability-implementation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "462DF90133C9B624EC327E46181AAC3EFC5F8AA1159285D905A34D49088755C1",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/observability-implementation/SKILL.md",
+      "red-blue-team-suite/skills/observability-implementation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

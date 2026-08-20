@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.sensitivity-analysis.6be44eb0eac2/SKILL.md",
+  "dependencies": [],
+  "description": "Performs sensitivity analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1399,
+  "id": "clement.sensitivity-analysis.6be44eb0eac2",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "sensitivity",
+    "sensitivity-analysis",
+    "through",
+    "traceable"
+  ],
+  "name": "sensitivity-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "6BE44EB0EAC2DB83D84288103F5FA05CB968D478812B98328C739EC33DBF462B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/sensitivity-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "33B16B262BCDD6B06CDF4DF2FFE9E461589E34740E557FFD9961FEB104B6CD86",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/sensitivity-analysis/SKILL.md",
+      "red-blue-team-suite/skills/sensitivity-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

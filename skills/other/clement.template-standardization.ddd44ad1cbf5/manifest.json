@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.template-standardization.ddd44ad1cbf5/SKILL.md",
+  "dependencies": [],
+  "description": "Applies template standardization to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1418,
+  "id": "clement.template-standardization.ddd44ad1cbf5",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "standardization",
+    "structured",
+    "template",
+    "template-standardization",
+    "to",
+    "work"
+  ],
+  "name": "template-standardization",
+  "schema_version": "1.0.0",
+  "sha256": "DDD44AD1CBF511EDBDB0D6008C9F9EA2D715982D9738745E7F3FE41318AEEE3C",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/template-standardization/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "F9FC2830B659DFE572D683425978C236597A5F03DB9F0F79D66896E0F17E319A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/template-standardization/SKILL.md",
+      "red-blue-team-suite/skills/template-standardization/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

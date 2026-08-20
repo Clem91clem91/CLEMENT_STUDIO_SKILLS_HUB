@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.quantitative-reasoning.38364a773e2e/SKILL.md",
+  "dependencies": [],
+  "description": "Uses quantitative reasoning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1383,
+  "id": "clement.quantitative-reasoning.38364a773e2e",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "quantitative",
+    "quantitative-reasoning",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "quantitative-reasoning",
+  "schema_version": "1.0.0",
+  "sha256": "38364A773E2E5BB441C9CDC9919C69607D38D8FB14F2100C5A05AA68295FE707",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/quantitative-reasoning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A3CF61A92FF734C124CAA8BEF3F67F74F85EE196BF96FD42462A71349C04E274",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/quantitative-reasoning/SKILL.md",
+      "red-blue-team-suite/skills/quantitative-reasoning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

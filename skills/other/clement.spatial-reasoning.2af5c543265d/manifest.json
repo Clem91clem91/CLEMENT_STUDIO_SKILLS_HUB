@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.spatial-reasoning.2af5c543265d/SKILL.md",
+  "dependencies": [],
+  "description": "Uses spatial reasoning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1378,
+  "id": "clement.spatial-reasoning.2af5c543265d",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "spatial",
+    "spatial-reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "spatial-reasoning",
+  "schema_version": "1.0.0",
+  "sha256": "2AF5C543265D0E7482F26AB59AF7EFCA6EF7BAD36771E75A0363AC62B4A0EB48",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/spatial-reasoning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "312DD2486B3729E9043D0C45E5732E1183E5655FA463E29DDC0FE5658F1CE96E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/spatial-reasoning/SKILL.md",
+      "red-blue-team-suite/skills/spatial-reasoning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

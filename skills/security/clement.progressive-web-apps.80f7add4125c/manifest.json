@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.progressive-web-apps.80f7add4125c/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Progressive Web Apps, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1447,
+  "id": "clement.progressive-web-apps.80f7add4125c",
+  "keywords": [
+    "and",
+    "apps",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "progressive",
+    "progressive-web-apps",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "web",
+    "with"
+  ],
+  "name": "progressive-web-apps",
+  "schema_version": "1.0.0",
+  "sha256": "80F7ADD4125CB2F118B161BB20BF2E860C3ABE3CCD2D1DD1DC2546A5003EA34F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/progressive-web-apps/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "E11E08E41A949D8973FC50B26D9A3D938B23865F8E2B0C8299395443898FED96",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/progressive-web-apps/SKILL.md",
+      "red-blue-team-suite/skills/progressive-web-apps/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

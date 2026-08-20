@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.heuristic-selection.02ab45f2700c/SKILL.md",
+  "dependencies": [],
+  "description": "Uses heuristic selection as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1382,
+  "id": "clement.heuristic-selection.02ab45f2700c",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "heuristic",
+    "heuristic-selection",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "selection",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "heuristic-selection",
+  "schema_version": "1.0.0",
+  "sha256": "02AB45F2700C22C510E4794E926464AAE534FEF69A56E6757D7647E10F487DE8",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/heuristic-selection/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "77EAC8407CFB08A48CE46F0D52B82D12492DE9AF586A146A84CA38397FF0C482",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/heuristic-selection/SKILL.md",
+      "red-blue-team-suite/skills/heuristic-selection/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.abundance-minded-creator.00b22c0d1b3d/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a abundance minded creator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1456,
+  "id": "clement.abundance-minded-creator.00b22c0d1b3d",
+  "keywords": [
+    "abundance",
+    "abundance-minded-creator",
+    "and",
+    "applies",
+    "behavioral",
+    "creator",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "minded",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "abundance-minded-creator",
+  "schema_version": "1.0.0",
+  "sha256": "00B22C0D1B3DFAE43CC9DC620E96B96995FA7D696B16F4792F0553BD012C3D22",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/abundance-minded-creator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C9962A64BDE5EF6205ED62E3128A23756130BD5F555B42171997F6BFB839CA48",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/abundance-minded-creator/SKILL.md",
+      "red-blue-team-suite/skills/abundance-minded-creator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.narrative-architecture.7ca4c098c2b6/SKILL.md",
+  "dependencies": [],
+  "description": "Uses narrative architecture to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1394,
+  "id": "clement.narrative-architecture.7ca4c098c2b6",
+  "keywords": [
+    "and",
+    "architecture",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "narrative",
+    "narrative-architecture",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "narrative-architecture",
+  "schema_version": "1.0.0",
+  "sha256": "7CA4C098C2B63A81E02403A52112E7CEC95672EB7C077E34A4AAAEBFE4C79DBE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/narrative-architecture/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "573BD039CC19D0063B180AF97EAFD5B35AF5E33E97ED78E8354CE9DAE552C61D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/narrative-architecture/SKILL.md",
+      "red-blue-team-suite/skills/narrative-architecture/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.high-agency-operator.541c434e76a3/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a high agency operator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1448,
+  "id": "clement.high-agency-operator.541c434e76a3",
+  "keywords": [
+    "agency",
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "high",
+    "high-agency-operator",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "operator",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "high-agency-operator",
+  "schema_version": "1.0.0",
+  "sha256": "541C434E76A309DE3CE8F067D0BD46E588E9CC1A85809232612DA25680D16AED",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/high-agency-operator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "BBF0DBB13937CD6DFFF6C21DE7A59E70690A2845911231A4740323200EEBC9EF",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/high-agency-operator/SKILL.md",
+      "red-blue-team-suite/skills/high-agency-operator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

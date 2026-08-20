@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.pre-mortem-thinking.92059eff9575/SKILL.md",
+  "dependencies": [],
+  "description": "Uses pre mortem thinking as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1382,
+  "id": "clement.pre-mortem-thinking.92059eff9575",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "mortem",
+    "other",
+    "pre",
+    "pre-mortem-thinking",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "thinking",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "pre-mortem-thinking",
+  "schema_version": "1.0.0",
+  "sha256": "92059EFF9575BCF8112E6EE77E85529E7FB7B883FEF51F0493AA4A0A403B6F6D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/pre-mortem-thinking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "088F95BE43263B8FEEC96440C176C2A336815DDA779AEBEFE5C67B6C2E88E1B2",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/pre-mortem-thinking/SKILL.md",
+      "red-blue-team-suite/skills/pre-mortem-thinking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

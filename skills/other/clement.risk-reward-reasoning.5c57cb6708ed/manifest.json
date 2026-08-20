@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.risk-reward-reasoning.5c57cb6708ed/SKILL.md",
+  "dependencies": [],
+  "description": "Uses risk reward reasoning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1386,
+  "id": "clement.risk-reward-reasoning.5c57cb6708ed",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "reward",
+    "risk",
+    "risk-reward-reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "risk-reward-reasoning",
+  "schema_version": "1.0.0",
+  "sha256": "5C57CB6708EDACF1246F7EAD1444E9E913C17220157E4DA76C416A8F2D221532",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/risk-reward-reasoning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "768A8160E712E56F97088D10FCB050E4F2B77C3874936FBA1D4D74FB9764E7FE",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/risk-reward-reasoning/SKILL.md",
+      "red-blue-team-suite/skills/risk-reward-reasoning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

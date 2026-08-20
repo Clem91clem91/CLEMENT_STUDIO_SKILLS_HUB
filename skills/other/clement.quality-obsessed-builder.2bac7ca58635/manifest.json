@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.quality-obsessed-builder.2bac7ca58635/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a quality obsessed builder operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1457,
+  "id": "clement.quality-obsessed-builder.2bac7ca58635",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "builder",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "obsessed",
+    "operating",
+    "other",
+    "preserving",
+    "quality",
+    "quality-obsessed-builder",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "quality-obsessed-builder",
+  "schema_version": "1.0.0",
+  "sha256": "2BAC7CA5863575600DDDE00531E5F8F2AEF3811A7506EDC1F47E3051F07CBFFE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/quality-obsessed-builder/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "ACA717B41115795739C026EF7642E1721F8ADAE53FBA074F376A17B74E3E2238",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/quality-obsessed-builder/SKILL.md",
+      "red-blue-team-suite/skills/quality-obsessed-builder/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

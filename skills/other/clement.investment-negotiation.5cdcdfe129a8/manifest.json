@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.investment-negotiation.5cdcdfe129a8/SKILL.md",
+  "dependencies": [],
+  "description": "Applies investment negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1495,
+  "id": "clement.investment-negotiation.5cdcdfe129a8",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "investment",
+    "investment-negotiation",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "investment-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "5CDCDFE129A82B9814070C4191597DE4915F2E3FEB8BC899E92648F000DFCF0E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/investment-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "6CD84F6F9CB50F9D88EBA58CF406694DBB502FD0130D1AA57778316B7C3487C9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/investment-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/investment-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.twilio-communications-integration.1fa5fb32ea16/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Twilio Communications Integration, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1467,
+  "id": "clement.twilio-communications-integration.1fa5fb32ea16",
+  "keywords": [
+    "and",
+    "built",
+    "communications",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "integration",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "twilio",
+    "twilio-communications-integratio",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "twilio-communications-integration",
+  "schema_version": "1.0.0",
+  "sha256": "1FA5FB32EA16E7621C44E859715CBF60CE639C073AFAE2FC81C15CD77BBC6287",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/twilio-communications-integration/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "304E9F5CBE76CBC9B9B1B271EFAA8E06B816FFAF6EB8791C9CD356120125DC9A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/twilio-communications-integration/SKILL.md",
+      "red-blue-team-suite/skills/twilio-communications-integration/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

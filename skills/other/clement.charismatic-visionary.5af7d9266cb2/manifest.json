@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.charismatic-visionary.5af7d9266cb2/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a charismatic visionary operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1461,
+  "id": "clement.charismatic-visionary.5af7d9266cb2",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "charismatic",
+    "charismatic-visionary",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "visionary",
+    "while"
+  ],
+  "name": "charismatic-visionary",
+  "schema_version": "1.0.0",
+  "sha256": "5AF7D9266CB26E674D04EBF1E61AC019F4AA3FE08E24E6EBA497798FD949E362",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/charismatic-visionary/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "2A7E44465A6006C51ABB817D4413E9EFEB1C5F3998892A364BFBE17546298833",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/charismatic-visionary/SKILL.md",
+      "red-blue-team-suite/skills/charismatic-visionary/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

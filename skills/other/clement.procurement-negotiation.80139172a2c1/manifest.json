@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.procurement-negotiation.80139172a2c1/SKILL.md",
+  "dependencies": [],
+  "description": "Applies procurement negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1425,
+  "id": "clement.procurement-negotiation.80139172a2c1",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "procurement",
+    "procurement-negotiation",
+    "risk",
+    "to"
+  ],
+  "name": "procurement-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "80139172A2C124B5497A85D2FAFFAEC2ECB524BA517EC1F340353EE9AD6E015E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/procurement-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "AD5F2B0226E4700EE99CF51A622786009FF2E337C830BF3CE44F3D1649370C48",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/procurement-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/procurement-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

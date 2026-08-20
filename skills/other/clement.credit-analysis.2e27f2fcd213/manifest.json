@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.credit-analysis.2e27f2fcd213/SKILL.md",
+  "dependencies": [],
+  "description": "Performs credit analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1397,
+  "id": "clement.credit-analysis.2e27f2fcd213",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "credit",
+    "credit-analysis",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "credit-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "2E27F2FCD21382DAD2383BAC7259ED30F2DBD1012E6893EC63E841BC26A8486A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/credit-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "394FD54AF0E57125DCB0F7E42CA0432AD9AD2D46DC69FF02F25E3101481BBECC",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/credit-analysis/SKILL.md",
+      "red-blue-team-suite/skills/credit-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

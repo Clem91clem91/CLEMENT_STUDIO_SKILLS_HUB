@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.innovation-portfolio-design.f8b74a707550/SKILL.md",
+  "dependencies": [],
+  "description": "Uses innovation portfolio design to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1393,
+  "id": "clement.innovation-portfolio-design.f8b74a707550",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "design",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "innovation",
+    "innovation-portfolio-design",
+    "original",
+    "other",
+    "portfolio",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "innovation-portfolio-design",
+  "schema_version": "1.0.0",
+  "sha256": "F8B74A7075505C3BDA29E2CC83E000163BC5621F29A736A254E825EA134F9B8A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/innovation-portfolio-design/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "EC1C4515DB2EF12BD525D4EBC0040CB29F567A861C68B7212359EA4175DF6F95",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/innovation-portfolio-design/SKILL.md",
+      "red-blue-team-suite/skills/innovation-portfolio-design/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

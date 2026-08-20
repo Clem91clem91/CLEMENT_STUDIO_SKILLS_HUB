@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.data-storytelling.29414bd50c5d/SKILL.md",
+  "dependencies": [],
+  "description": "Uses data storytelling to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1351,
+  "id": "clement.data-storytelling.29414bd50c5d",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "data",
+    "data-storytelling",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "storytelling",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "data-storytelling",
+  "schema_version": "1.0.0",
+  "sha256": "29414BD50C5D3C5BB0F9159D946B341C410EFDB858185080317BB26BA528A7D7",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/data-storytelling/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "03CC71E0B677137BFB94EBC733127D9DD8FC7E44878D1BFE6E1E53BB24E70BBD",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/data-storytelling/SKILL.md",
+      "red-blue-team-suite/skills/data-storytelling/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

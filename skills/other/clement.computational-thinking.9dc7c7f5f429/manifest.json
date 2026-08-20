@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.computational-thinking.9dc7c7f5f429/SKILL.md",
+  "dependencies": [],
+  "description": "Uses computational thinking as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1388,
+  "id": "clement.computational-thinking.9dc7c7f5f429",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "computational",
+    "computational-thinking",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "thinking",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "computational-thinking",
+  "schema_version": "1.0.0",
+  "sha256": "9DC7C7F5F429989C93B6002432205E04673D008B9815880F6F7601F58E949C06",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/computational-thinking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B0E0BFCA309F6D07B13E4D58BE0226C4092598B0D9E53B7E7F469FC289C6A48F",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/computational-thinking/SKILL.md",
+      "red-blue-team-suite/skills/computational-thinking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

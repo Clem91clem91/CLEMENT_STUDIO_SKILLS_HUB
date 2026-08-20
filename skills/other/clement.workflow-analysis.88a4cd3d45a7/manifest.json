@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.workflow-analysis.88a4cd3d45a7/SKILL.md",
+  "dependencies": [],
+  "description": "Performs workflow analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1401,
+  "id": "clement.workflow-analysis.88a4cd3d45a7",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable",
+    "workflow",
+    "workflow-analysis"
+  ],
+  "name": "workflow-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "88A4CD3D45A79C048ADAEE692EA709678AD9B3E4275A44C32497E6EB8337F17E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/workflow-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "E71354C5AD4E83BC71F1F3D543A2365471BEEC93A6EC4E03A5B91E69877F8C86",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/workflow-analysis/SKILL.md",
+      "red-blue-team-suite/skills/workflow-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

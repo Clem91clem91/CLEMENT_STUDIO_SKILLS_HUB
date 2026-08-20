@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.local-impact-builder.79c67a74a62c/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a local impact builder operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1452,
+  "id": "clement.local-impact-builder.79c67a74a62c",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "builder",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "impact",
+    "intent",
+    "local",
+    "local-impact-builder",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "local-impact-builder",
+  "schema_version": "1.0.0",
+  "sha256": "79C67A74A62CD48846F4B14851D18535AF322AC9C41807EE91F8329C2A927625",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/local-impact-builder/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "02F9AC0521BDD74894E35AC214DE0C9753C52B3C2D09B9AEC96C5F4E1C758FA2",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/local-impact-builder/SKILL.md",
+      "red-blue-team-suite/skills/local-impact-builder/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

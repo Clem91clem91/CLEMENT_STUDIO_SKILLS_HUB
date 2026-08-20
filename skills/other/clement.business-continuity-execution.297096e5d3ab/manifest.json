@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.business-continuity-execution.297096e5d3ab/SKILL.md",
+  "dependencies": [],
+  "description": "Applies business continuity execution to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1428,
+  "id": "clement.business-continuity-execution.297096e5d3ab",
+  "keywords": [
+    "and",
+    "applies",
+    "business",
+    "business-continuity-execution",
+    "clear",
+    "completion",
+    "continuity",
+    "control",
+    "convert",
+    "documented",
+    "execution",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "business-continuity-execution",
+  "schema_version": "1.0.0",
+  "sha256": "297096E5D3AB63B760F2EC64AA8F8FA16026B6BEE1F2D1D7EC906664F59F6B95",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/business-continuity-execution/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "751DF59547BDC33410554C6670B3504284FB4868E533193BCDD99C1CF6A88D1D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/business-continuity-execution/SKILL.md",
+      "red-blue-team-suite/skills/business-continuity-execution/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

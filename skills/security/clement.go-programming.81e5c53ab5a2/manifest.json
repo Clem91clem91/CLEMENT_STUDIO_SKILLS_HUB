@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.go-programming.81e5c53ab5a2/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Go Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1436,
+  "id": "clement.go-programming.81e5c53ab5a2",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "go",
+    "go-programming",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "go-programming",
+  "schema_version": "1.0.0",
+  "sha256": "81E5C53AB5A28BE19F9B83683BBE9CC5E0E53490D400DAFFD89F1C88A8273014",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/go-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C15D617CDC4AAE13D317B23619B2C3068C5F830DC2EA27A9966927D6E92BD886",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/go-programming/SKILL.md",
+      "red-blue-team-suite/skills/go-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

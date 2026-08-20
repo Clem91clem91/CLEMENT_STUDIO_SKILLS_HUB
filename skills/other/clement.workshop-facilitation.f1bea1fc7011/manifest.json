@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.workshop-facilitation.f1bea1fc7011/SKILL.md",
+  "dependencies": [],
+  "description": "Uses workshop facilitation to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1369,
+  "id": "clement.workshop-facilitation.f1bea1fc7011",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "facilitation",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with",
+    "workshop",
+    "workshop-facilitation"
+  ],
+  "name": "workshop-facilitation",
+  "schema_version": "1.0.0",
+  "sha256": "F1BEA1FC70113067483825D502E442C754DA93E0A67416B0ECBF4FC4B3858ACE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/workshop-facilitation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "2B8FF1EF44B1BF4378AEABBB98E0995014D5976A808E57F2905FAE0EECC97B79",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/workshop-facilitation/SKILL.md",
+      "red-blue-team-suite/skills/workshop-facilitation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

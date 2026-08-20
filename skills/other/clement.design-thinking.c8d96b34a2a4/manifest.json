@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.design-thinking.c8d96b34a2a4/SKILL.md",
+  "dependencies": [],
+  "description": "Uses design thinking as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1374,
+  "id": "clement.design-thinking.c8d96b34a2a4",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "design",
+    "design-thinking",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "thinking",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "design-thinking",
+  "schema_version": "1.0.0",
+  "sha256": "C8D96B34A2A42ACC26A512287442BB33509DA90AA2C78F0A946B73E6820D25AD",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/design-thinking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "15F98B24A75554A655296A15159B14BACC2FA34E650453A4F53CFCF4D37279F6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/design-thinking/SKILL.md",
+      "red-blue-team-suite/skills/design-thinking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.creative-reframing.99dd881810a8/SKILL.md",
+  "dependencies": [],
+  "description": "Uses creative reframing to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1377,
+  "id": "clement.creative-reframing.99dd881810a8",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "creative",
+    "creative-reframing",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "original",
+    "other",
+    "reframing",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "creative-reframing",
+  "schema_version": "1.0.0",
+  "sha256": "99DD881810A8FEAC5680BA25505257244C0F2FE7003A8FEEF33CE15BF6B5A966",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/creative-reframing/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "52CC2EE87CACDDA3F3B38A52E33126B769DE605FB942C7247958481195C1EC94",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/creative-reframing/SKILL.md",
+      "red-blue-team-suite/skills/creative-reframing/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

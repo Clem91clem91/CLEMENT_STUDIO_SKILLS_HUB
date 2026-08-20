@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.moat-building-strategist.f38a24237f55/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a moat building strategist operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1468,
+  "id": "clement.moat-building-strategist.f38a24237f55",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "building",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "moat",
+    "moat-building-strategist",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "strategist",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "moat-building-strategist",
+  "schema_version": "1.0.0",
+  "sha256": "F38A24237F5568BC863E8990DE9BB7ACCCE13202449594FC2B010E8323962C7B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/moat-building-strategist/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "895DF3210C57EDB4A475E4700388972EBD9E6172F26F1D12A641D290704D38C0",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/moat-building-strategist/SKILL.md",
+      "red-blue-team-suite/skills/moat-building-strategist/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

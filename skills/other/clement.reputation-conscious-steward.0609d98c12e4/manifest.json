@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.reputation-conscious-steward.0609d98c12e4/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a reputation conscious steward operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1464,
+  "id": "clement.reputation-conscious-steward.0609d98c12e4",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "conscious",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "reputation",
+    "reputation-conscious-steward",
+    "steward",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "reputation-conscious-steward",
+  "schema_version": "1.0.0",
+  "sha256": "0609D98C12E4B06094C332176C5B67EDED40B62BC17E78B9F2BBE21D8252190B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/reputation-conscious-steward/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "1E2855E87A7C952FC6FC0A9CF4CB5D47B4B7D3534BEFE976AC52CF925A689BE9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/reputation-conscious-steward/SKILL.md",
+      "red-blue-team-suite/skills/reputation-conscious-steward/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

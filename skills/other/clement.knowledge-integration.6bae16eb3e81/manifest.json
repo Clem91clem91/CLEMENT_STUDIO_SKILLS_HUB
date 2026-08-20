@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.knowledge-integration.6bae16eb3e81/SKILL.md",
+  "dependencies": [],
+  "description": "Uses knowledge integration as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1386,
+  "id": "clement.knowledge-integration.6bae16eb3e81",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "integration",
+    "knowledge",
+    "knowledge-integration",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "knowledge-integration",
+  "schema_version": "1.0.0",
+  "sha256": "6BAE16EB3E81925D684512EEAD406E93FE3706C9080280C7FA97FF4077F87950",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/knowledge-integration/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "689BB454569E083408D140C84C788D81E2F76C85949B53BE52CC5BE05CDD06E3",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/knowledge-integration/SKILL.md",
+      "red-blue-team-suite/skills/knowledge-integration/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

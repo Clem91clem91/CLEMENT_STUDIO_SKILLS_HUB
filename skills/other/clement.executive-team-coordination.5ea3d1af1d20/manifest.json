@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.executive-team-coordination.5ea3d1af1d20/SKILL.md",
+  "dependencies": [],
+  "description": "Uses executive team coordination to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1384,
+  "id": "clement.executive-team-coordination.5ea3d1af1d20",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "coordination",
+    "culture",
+    "decisions",
+    "executive",
+    "executive-team-coordination",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "team",
+    "to",
+    "uses"
+  ],
+  "name": "executive-team-coordination",
+  "schema_version": "1.0.0",
+  "sha256": "5EA3D1AF1D204DD3F18824E7F89A9CCEEE5ED6BA5FB4EF88208C5A7B614D741B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/executive-team-coordination/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "BF1CF8A5F0A110ECA7D6A519B90843544D450EFCDF14362DBDBEBD8F69FA846E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/executive-team-coordination/SKILL.md",
+      "red-blue-team-suite/skills/executive-team-coordination/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

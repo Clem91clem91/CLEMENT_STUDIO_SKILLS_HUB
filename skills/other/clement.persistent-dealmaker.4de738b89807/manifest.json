@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.persistent-dealmaker.4de738b89807/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a persistent dealmaker operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1433,
+  "id": "clement.persistent-dealmaker.4de738b89807",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "dealmaker",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "persistent",
+    "persistent-dealmaker",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "persistent-dealmaker",
+  "schema_version": "1.0.0",
+  "sha256": "4DE738B89807812D29EACD3FA6B8B768C5FE79D8F3D38E70E1BABD08333C2FAA",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/persistent-dealmaker/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D5AFC35664B450756B96DDCE7D6529503464D48CF6A3BC17402F649A68F7162F",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/persistent-dealmaker/SKILL.md",
+      "red-blue-team-suite/skills/persistent-dealmaker/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

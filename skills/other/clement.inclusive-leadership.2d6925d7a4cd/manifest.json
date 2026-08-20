@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.inclusive-leadership.2d6925d7a4cd/SKILL.md",
+  "dependencies": [],
+  "description": "Uses inclusive leadership to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1367,
+  "id": "clement.inclusive-leadership.2d6925d7a4cd",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "inclusive",
+    "inclusive-leadership",
+    "leadership",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "inclusive-leadership",
+  "schema_version": "1.0.0",
+  "sha256": "2D6925D7A4CD1498ED819D3FDE2C937EA593AE1BEFCEF6720E32E2157DF46903",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/inclusive-leadership/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4467C12563FFF4307BCAF0649FDE59330C0DBB2951BCBA9CA747877E28B45B65",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/inclusive-leadership/SKILL.md",
+      "red-blue-team-suite/skills/inclusive-leadership/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

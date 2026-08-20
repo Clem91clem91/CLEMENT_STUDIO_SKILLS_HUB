@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.peer-review-coordination.644ed2f60f4f/SKILL.md",
+  "dependencies": [],
+  "description": "Applies peer review coordination to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1418,
+  "id": "clement.peer-review-coordination.644ed2f60f4f",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "coordination",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "peer",
+    "peer-review-coordination",
+    "progress",
+    "quality",
+    "review",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "peer-review-coordination",
+  "schema_version": "1.0.0",
+  "sha256": "644ED2F60F4F6D9E3C59AC895AE05B0A6C5B05602834716034470BA0585D4741",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/peer-review-coordination/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8AD12E0A79651C59BC3F2A731D50953EEE7D6F4FC03881F3479084EEA28A33E7",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/peer-review-coordination/SKILL.md",
+      "red-blue-team-suite/skills/peer-review-coordination/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.difficult-conversation-management.f16bd88d1a2e/SKILL.md",
+  "dependencies": [],
+  "description": "Uses difficult conversation management to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1397,
+  "id": "clement.difficult-conversation-management.f16bd88d1a2e",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "conversation",
+    "create",
+    "difficult",
+    "difficult-conversation-managemen",
+    "explicit",
+    "feedback",
+    "loop",
+    "management",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "difficult-conversation-management",
+  "schema_version": "1.0.0",
+  "sha256": "F16BD88D1A2E4D0A6FDF3ECF951A0EB4C206C7C5CA2AD7983A7004D65BDB0B8A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/difficult-conversation-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "78BE715AC6C3E136896D70C38F453B01710A96C126C878E1286685E81518CD49",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/difficult-conversation-management/SKILL.md",
+      "red-blue-team-suite/skills/difficult-conversation-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

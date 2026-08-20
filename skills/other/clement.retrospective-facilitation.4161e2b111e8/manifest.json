@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.retrospective-facilitation.4161e2b111e8/SKILL.md",
+  "dependencies": [],
+  "description": "Applies retrospective facilitation to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1422,
+  "id": "clement.retrospective-facilitation.4161e2b111e8",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "facilitation",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "retrospective",
+    "retrospective-facilitation",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "retrospective-facilitation",
+  "schema_version": "1.0.0",
+  "sha256": "4161E2B111E81F40389A3300CDEFCF3FAEA15AB840B58AB551989411AF161AE8",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/retrospective-facilitation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "FDB66B2705FB3FE1F749D8BEEBC263F3EC62C19CF0EFB3E3B3DEBBCCC3EE88FC",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/retrospective-facilitation/SKILL.md",
+      "red-blue-team-suite/skills/retrospective-facilitation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.inbox-management.9153e7e4613f/SKILL.md",
+  "dependencies": [],
+  "description": "Applies inbox management to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1402,
+  "id": "clement.inbox-management.9153e7e4613f",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "inbox",
+    "inbox-management",
+    "into",
+    "management",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "inbox-management",
+  "schema_version": "1.0.0",
+  "sha256": "9153E7E4613FE0285AF3202DDE44C75601FDBDF1F55F4F2FBD19D618A9E081B3",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/inbox-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5AAC9BA208CC21EF6DBA07DD1B387530C6CC9D8956BE259FCDE9EC7E517C25ED",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/inbox-management/SKILL.md",
+      "red-blue-team-suite/skills/inbox-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

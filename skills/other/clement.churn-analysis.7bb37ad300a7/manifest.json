@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.churn-analysis.7bb37ad300a7/SKILL.md",
+  "dependencies": [],
+  "description": "Performs churn analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1387,
+  "id": "clement.churn-analysis.7bb37ad300a7",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "churn",
+    "churn-analysis",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "churn-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "7BB37AD300A7F56A32AC694250A434CE749CA74372576FBF9BF4F5F928C13186",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/churn-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "AA4AE028C9C322CA470A94950AC9B562B892D94509ED132AA7F345C76F1480D6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/churn-analysis/SKILL.md",
+      "red-blue-team-suite/skills/churn-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

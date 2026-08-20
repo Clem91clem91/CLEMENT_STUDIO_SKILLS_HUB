@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.process-innovation.00bb41ab67da/SKILL.md",
+  "dependencies": [],
+  "description": "Uses process innovation to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1375,
+  "id": "clement.process-innovation.00bb41ab67da",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "innovation",
+    "original",
+    "other",
+    "process",
+    "process-innovation",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "process-innovation",
+  "schema_version": "1.0.0",
+  "sha256": "00BB41AB67DAF952A4B3C6D265097FFF1D2C66EFD2A4B51F16E773562C7F2160",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/process-innovation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4B8CBF6C51C215505F439C1FF88CF7B4563C4A49620DA44D7DD2D6F324E8AA99",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/process-innovation/SKILL.md",
+      "red-blue-team-suite/skills/process-innovation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

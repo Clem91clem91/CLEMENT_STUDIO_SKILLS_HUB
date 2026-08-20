@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.closing-strategy.f0cbcae0ed91/SKILL.md",
+  "dependencies": [],
+  "description": "Applies closing strategy to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1422,
+  "id": "clement.closing-strategy.f0cbcae0ed91",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "closing",
+    "closing-strategy",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "strategy",
+    "to"
+  ],
+  "name": "closing-strategy",
+  "schema_version": "1.0.0",
+  "sha256": "F0CBCAE0ED91BDED14D7A0CD292975A58D2F95E4A4EE372EEF76F272AD9618AE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/closing-strategy/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "26D290F69365E69B5C6CBF21B92365FF80078CA0376460A6627F14EDCEA03627",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/closing-strategy/SKILL.md",
+      "red-blue-team-suite/skills/closing-strategy/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.relentless-executor.11aec350583a/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a relentless executor operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1446,
+  "id": "clement.relentless-executor.11aec350583a",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "executor",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "relentless",
+    "relentless-executor",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "relentless-executor",
+  "schema_version": "1.0.0",
+  "sha256": "11AEC350583A724B8BAF662279747E26B7722615ADE51FB4818E957B61DA2AB7",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/relentless-executor/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "1A5A3141FFB3073270EA3A8663CA7945C1E7F58924D3F426971155E86F56BD9A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/relentless-executor/SKILL.md",
+      "red-blue-team-suite/skills/relentless-executor/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

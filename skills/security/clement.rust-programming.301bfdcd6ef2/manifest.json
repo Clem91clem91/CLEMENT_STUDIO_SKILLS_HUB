@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.rust-programming.301bfdcd6ef2/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Rust Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1440,
+  "id": "clement.rust-programming.301bfdcd6ef2",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "programming",
+    "reproducibility",
+    "rust",
+    "rust-programming",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "rust-programming",
+  "schema_version": "1.0.0",
+  "sha256": "301BFDCD6EF2C186B79ABC3AD24BC5B7AF40D92A5A6CD54549C16EA24B7CB0B4",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/rust-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "67E1AB6F82F74E7CA08419CB6664A44DEB87AA8C031E24C22D8D0045C3B14BDC",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/rust-programming/SKILL.md",
+      "red-blue-team-suite/skills/rust-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.project-status-control.787132ba7e71/SKILL.md",
+  "dependencies": [],
+  "description": "Applies project status control to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1414,
+  "id": "clement.project-status-control.787132ba7e71",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "project",
+    "project-status-control",
+    "quality",
+    "status",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "project-status-control",
+  "schema_version": "1.0.0",
+  "sha256": "787132BA7E7182BFB04DA9DCEA82A3C3622F742F99091E77F9AB650438BEF2B2",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/project-status-control/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "2F5ED1B480BD2EFC23492EE03F69B6BAA08473A11E678907F373CD35D267AC9D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/project-status-control/SKILL.md",
+      "red-blue-team-suite/skills/project-status-control/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

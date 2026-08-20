@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.vendor-negotiation.471ab437d7fa/SKILL.md",
+  "dependencies": [],
+  "description": "Applies vendor negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1415,
+  "id": "clement.vendor-negotiation.471ab437d7fa",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to",
+    "vendor",
+    "vendor-negotiation"
+  ],
+  "name": "vendor-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "471AB437D7FA0BDE98D72AC3DDE07F1EE31EC1DE4E54E19ADE02DB817F7DCDF5",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/vendor-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "53558D4AD8B967D6AE0A4DC0B0666BF5AAFD9937A32E77C4189335C2E13839E4",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/vendor-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/vendor-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.experiment-tracking.5fc4ece6a861/SKILL.md",
+  "dependencies": [],
+  "description": "Applies experiment tracking to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1408,
+  "id": "clement.experiment-tracking.5fc4ece6a861",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "experiment",
+    "experiment-tracking",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "tracking",
+    "work"
+  ],
+  "name": "experiment-tracking",
+  "schema_version": "1.0.0",
+  "sha256": "5FC4ECE6A8619747594EAE64E62616E7DC5E39F4BE61D9D693864B5952E65552",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/experiment-tracking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "598A0D0D792725DA13264E677D2B310A7892EEB7B6E11E6137F851F634E6DE7D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/experiment-tracking/SKILL.md",
+      "red-blue-team-suite/skills/experiment-tracking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

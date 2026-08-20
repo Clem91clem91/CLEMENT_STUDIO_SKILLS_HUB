@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.analogy-creation.a3f1c023efc0/SKILL.md",
+  "dependencies": [],
+  "description": "Uses analogy creation to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1373,
+  "id": "clement.analogy-creation.a3f1c023efc0",
+  "keywords": [
+    "analogy",
+    "analogy-creation",
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "creation",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "analogy-creation",
+  "schema_version": "1.0.0",
+  "sha256": "A3F1C023EFC01D1B9B415B207D23E16FA994DE9F9D5D4FB33DDB007480F5E2FC",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/analogy-creation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5EB8BAF806ECB8A0A6D447C5C36EE3B8185D6EB64757A3EFFF76820FA9F5FCC3",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/analogy-creation/SKILL.md",
+      "red-blue-team-suite/skills/analogy-creation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

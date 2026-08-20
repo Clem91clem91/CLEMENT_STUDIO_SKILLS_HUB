@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.written-business-communication.34874182ddae/SKILL.md",
+  "dependencies": [],
+  "description": "Uses written business communication to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1387,
+  "id": "clement.written-business-communication.34874182ddae",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "business",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with",
+    "written",
+    "written-business-communication"
+  ],
+  "name": "written-business-communication",
+  "schema_version": "1.0.0",
+  "sha256": "34874182DDAE68238364BBF5F0D6D4AD3413D7A4D8D2CC955DC31727AF60B87D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/written-business-communication/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "7C30B7D1AC5E7242DE6FC26EBA6D26637AA579E6B8C23FD732BD6595787032EC",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/written-business-communication/SKILL.md",
+      "red-blue-team-suite/skills/written-business-communication/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

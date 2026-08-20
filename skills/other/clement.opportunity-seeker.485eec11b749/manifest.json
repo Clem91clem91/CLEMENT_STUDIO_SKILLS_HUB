@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.opportunity-seeker.485eec11b749/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a opportunity seeker operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1444,
+  "id": "clement.opportunity-seeker.485eec11b749",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "opportunity",
+    "opportunity-seeker",
+    "other",
+    "preserving",
+    "seeker",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "opportunity-seeker",
+  "schema_version": "1.0.0",
+  "sha256": "485EEC11B749BB50544F85578DCD4DB3E974CD0123CF28FA058D289E4DC6B83B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/opportunity-seeker/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A19D8BEC8538BEEAF6046EFEBFF4A2837B75F40DE490D09E92725DDAE9928119",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/opportunity-seeker/SKILL.md",
+      "red-blue-team-suite/skills/opportunity-seeker/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

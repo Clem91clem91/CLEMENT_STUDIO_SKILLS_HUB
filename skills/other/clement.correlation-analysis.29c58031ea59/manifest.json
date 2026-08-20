@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.correlation-analysis.29c58031ea59/SKILL.md",
+  "dependencies": [],
+  "description": "Performs correlation analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1399,
+  "id": "clement.correlation-analysis.29c58031ea59",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "correlation",
+    "correlation-analysis",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "correlation-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "29C58031EA590F408B3A805CD87EAFCC316F71A4E2257EA2816B2782CC1DD9A2",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/correlation-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "2B6FE3A44010D19A7413769E5CF8A5AEBC5E4AF757DCCCC3C54858B7C323A67A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/correlation-analysis/SKILL.md",
+      "red-blue-team-suite/skills/correlation-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

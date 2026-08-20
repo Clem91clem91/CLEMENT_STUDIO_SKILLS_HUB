@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.cash-flow-analysis.7cb28a963b85/SKILL.md",
+  "dependencies": [],
+  "description": "Performs cash flow analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1403,
+  "id": "clement.cash-flow-analysis.7cb28a963b85",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "cash",
+    "cash-flow-analysis",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "flow",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "cash-flow-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "7CB28A963B85A3104AE980B727CBC17668361EABFA3FA66249C3122C3D6933C8",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/cash-flow-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "9995D2B9B5C0079B0E51FC8FC1D07AF91BC308AA888ED00E646FA802081A1F4C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/cash-flow-analysis/SKILL.md",
+      "red-blue-team-suite/skills/cash-flow-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

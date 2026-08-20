@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.approval-readiness-check.dca823f8d932/SKILL.md",
+  "dependencies": [],
+  "description": "Applies approval readiness check to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1418,
+  "id": "clement.approval-readiness-check.dca823f8d932",
+  "keywords": [
+    "and",
+    "applies",
+    "approval",
+    "approval-readiness-check",
+    "check",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "readiness",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "approval-readiness-check",
+  "schema_version": "1.0.0",
+  "sha256": "DCA823F8D9321E9D14C1AC47C74D7A42D769433EEA68692B15F779ECCC5AC631",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/approval-readiness-check/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5B80E16E7395441F5A19B6A9117340B9E0847F1FC5B5088068D654E7D360210B",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/approval-readiness-check/SKILL.md",
+      "red-blue-team-suite/skills/approval-readiness-check/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

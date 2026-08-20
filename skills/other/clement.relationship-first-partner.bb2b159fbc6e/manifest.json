@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.relationship-first-partner.bb2b159fbc6e/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a relationship first partner operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1460,
+  "id": "clement.relationship-first-partner.bb2b159fbc6e",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "first",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "partner",
+    "preserving",
+    "relationship",
+    "relationship-first-partner",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "relationship-first-partner",
+  "schema_version": "1.0.0",
+  "sha256": "BB2B159FBC6E1369EA60404C0646B23B882F2C2E1CD100EDA84FA78F8AFA7D8B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/relationship-first-partner/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "2E33308BC2C451C4B15AF59CE9B4B9BFE3C95251483704618EB331D69240DCFC",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/relationship-first-partner/SKILL.md",
+      "red-blue-team-suite/skills/relationship-first-partner/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

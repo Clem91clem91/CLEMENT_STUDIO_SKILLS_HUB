@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.bias-mitigation.6528534368e9/SKILL.md",
+  "dependencies": [],
+  "description": "Uses bias mitigation as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1374,
+  "id": "clement.bias-mitigation.6528534368e9",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "bias",
+    "bias-mitigation",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "mitigation",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "bias-mitigation",
+  "schema_version": "1.0.0",
+  "sha256": "6528534368E92B4E4CC3B3CA77F676CF7B3265FE92DCDA58A82BC1DC2BFDFD8B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/bias-mitigation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "AF36653C84F09013E9EBF3BA08FB572A864E034FAFC0C8B3B002941BB2DF0E00",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/bias-mitigation/SKILL.md",
+      "red-blue-team-suite/skills/bias-mitigation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

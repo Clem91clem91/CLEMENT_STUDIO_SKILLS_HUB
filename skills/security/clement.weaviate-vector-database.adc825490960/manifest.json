@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.weaviate-vector-database.adc825490960/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Weaviate Vector Database, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1444,
+  "id": "clement.weaviate-vector-database.adc825490960",
+  "keywords": [
+    "and",
+    "built",
+    "database",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "vector",
+    "verification",
+    "weaviate",
+    "weaviate-vector-database",
+    "with"
+  ],
+  "name": "weaviate-vector-database",
+  "schema_version": "1.0.0",
+  "sha256": "ADC82549096093FF1E01152307B31470A385F21ED8E59A0C5994E58EEEC45DE4",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/weaviate-vector-database/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4288637878560A1729D37433E6DE1DD33FEC6774894945330BADB59B6E5C73AB",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/weaviate-vector-database/SKILL.md",
+      "red-blue-team-suite/skills/weaviate-vector-database/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

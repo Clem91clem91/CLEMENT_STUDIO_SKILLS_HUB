@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.message-structuring.9457663bf4c3/SKILL.md",
+  "dependencies": [],
+  "description": "Uses message structuring to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1365,
+  "id": "clement.message-structuring.9457663bf4c3",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "message",
+    "message-structuring",
+    "objective",
+    "other",
+    "structuring",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "message-structuring",
+  "schema_version": "1.0.0",
+  "sha256": "9457663BF4C351F47B950E500FCA139B0717DB0DBF81ECA5FC880F145AA19024",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/message-structuring/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8300A7E066D135837B4896A4ED74B989B6A3DE158DDE5FCA3235249A19D113E2",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/message-structuring/SKILL.md",
+      "red-blue-team-suite/skills/message-structuring/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

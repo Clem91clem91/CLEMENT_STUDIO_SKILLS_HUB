@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.adaptive-leadership.57e17299e395/SKILL.md",
+  "dependencies": [],
+  "description": "Uses adaptive leadership to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1365,
+  "id": "clement.adaptive-leadership.57e17299e395",
+  "keywords": [
+    "adaptive",
+    "adaptive-leadership",
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "leadership",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "adaptive-leadership",
+  "schema_version": "1.0.0",
+  "sha256": "57E17299E39517CB5F68641D8DC0E636E104D2C49C1F86E0C8DE9DA1B607D6E6",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/adaptive-leadership/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "FC0F16741FBBBFCA5FAAC66F621E1FF5BE04BC04F6F3F58E3E2E8C4758876B22",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/adaptive-leadership/SKILL.md",
+      "red-blue-team-suite/skills/adaptive-leadership/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

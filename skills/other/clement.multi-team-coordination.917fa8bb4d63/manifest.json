@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.multi-team-coordination.917fa8bb4d63/SKILL.md",
+  "dependencies": [],
+  "description": "Applies multi team coordination to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1416,
+  "id": "clement.multi-team-coordination.917fa8bb4d63",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "coordination",
+    "documented",
+    "into",
+    "measurable",
+    "multi",
+    "multi-team-coordination",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "team",
+    "to",
+    "work"
+  ],
+  "name": "multi-team-coordination",
+  "schema_version": "1.0.0",
+  "sha256": "917FA8BB4D637CC2FC837D80907B7EB4E1A66935BD3B4C7CEE18DDA2FD8934DF",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/multi-team-coordination/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "78DBD5229DAC6AFBA6390DAB4208BA4B6418926BB6E3BFCBD68FAC328D6F5B77",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/multi-team-coordination/SKILL.md",
+      "red-blue-team-suite/skills/multi-team-coordination/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

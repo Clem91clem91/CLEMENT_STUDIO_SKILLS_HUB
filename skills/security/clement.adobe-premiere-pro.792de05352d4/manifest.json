@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.adobe-premiere-pro.792de05352d4/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Adobe Premiere Pro, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1443,
+  "id": "clement.adobe-premiere-pro.792de05352d4",
+  "keywords": [
+    "adobe",
+    "adobe-premiere-pro",
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "premiere",
+    "pro",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "adobe-premiere-pro",
+  "schema_version": "1.0.0",
+  "sha256": "792DE05352D4FE8591D8B3410F0085DA7E1BC6271B0CF321494FD6CCA83986B8",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/adobe-premiere-pro/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "FE152459DBD90D87BC124B82E124BAFF8F442B16D28FD489C57AC7E11BB75D96",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/adobe-premiere-pro/SKILL.md",
+      "red-blue-team-suite/skills/adobe-premiere-pro/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

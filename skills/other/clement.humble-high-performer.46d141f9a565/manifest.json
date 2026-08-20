@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.humble-high-performer.46d141f9a565/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a humble high performer operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1450,
+  "id": "clement.humble-high-performer.46d141f9a565",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "high",
+    "humble",
+    "humble-high-performer",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "performer",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "humble-high-performer",
+  "schema_version": "1.0.0",
+  "sha256": "46D141F9A5656043FB11022199A485B80DFDDB154BE7A7B1FF1B200263F11240",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/humble-high-performer/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "AAFF91D6F94E798665DF55A3DC40517E110D0E05262A66AC8D0B8ACB2ADD702D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/humble-high-performer/SKILL.md",
+      "red-blue-team-suite/skills/humble-high-performer/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

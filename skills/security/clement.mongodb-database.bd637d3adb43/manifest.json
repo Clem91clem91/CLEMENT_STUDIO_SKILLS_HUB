@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.mongodb-database.bd637d3adb43/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Mongodb Database, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1428,
+  "id": "clement.mongodb-database.bd637d3adb43",
+  "keywords": [
+    "and",
+    "built",
+    "database",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "mongodb",
+    "mongodb-database",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "mongodb-database",
+  "schema_version": "1.0.0",
+  "sha256": "BD637D3ADB4310D440395DDB66251E6691EF33D3B993E9AFB6FBB33D4791E654",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/mongodb-database/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5E47E6B592915AF8A1AA5BFC2C71AF1EF6DE0B34E12FCB28A5DDD16EA9FD1322",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/mongodb-database/SKILL.md",
+      "red-blue-team-suite/skills/mongodb-database/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

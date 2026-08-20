@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.zopa-identification.399f66b35d8d/SKILL.md",
+  "dependencies": [],
+  "description": "Applies zopa identification to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1417,
+  "id": "clement.zopa-identification.399f66b35d8d",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "identification",
+    "implementable",
+    "interests",
+    "leverage",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to",
+    "zopa",
+    "zopa-identification"
+  ],
+  "name": "zopa-identification",
+  "schema_version": "1.0.0",
+  "sha256": "399F66B35D8D30517475421A846DDDB9EC36981EDD6F4DBF935F363848C50500",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/zopa-identification/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "BBA96F221F56366A83E14DD2BB7A8ACC66470E84CA69BA2690E18C01D760A7D4",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/zopa-identification/SKILL.md",
+      "red-blue-team-suite/skills/zopa-identification/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

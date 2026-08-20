@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.critical-path-planning.0775aee820ed/SKILL.md",
+  "dependencies": [],
+  "description": "Applies critical path planning to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1414,
+  "id": "clement.critical-path-planning.0775aee820ed",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "critical",
+    "critical-path-planning",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "path",
+    "planning",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "critical-path-planning",
+  "schema_version": "1.0.0",
+  "sha256": "0775AEE820EDD0964BA99C5C9FE86FDA889710659FB26A6F134975490EF5318E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/critical-path-planning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "EC236FEE025A025DD4870E769CCBAFDE40F3400EF6C0BDAA4816E309982E0F38",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/critical-path-planning/SKILL.md",
+      "red-blue-team-suite/skills/critical-path-planning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.contrarian-opportunist.b78dedd74626/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a contrarian opportunist operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1452,
+  "id": "clement.contrarian-opportunist.b78dedd74626",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "contrarian",
+    "contrarian-opportunist",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "opportunist",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "contrarian-opportunist",
+  "schema_version": "1.0.0",
+  "sha256": "B78DEDD74626DE27CD5DC3C1C9684FF626803446ABF1E19C5E1DFC8A2DAA1AF7",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/contrarian-opportunist/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "72503E5CC859DBDE68F1F6940FB35C3D8DAC40018418FA200EF442E07DFCE5FA",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/contrarian-opportunist/SKILL.md",
+      "red-blue-team-suite/skills/contrarian-opportunist/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

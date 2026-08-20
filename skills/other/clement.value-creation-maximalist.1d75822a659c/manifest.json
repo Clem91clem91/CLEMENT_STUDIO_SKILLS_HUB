@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.value-creation-maximalist.1d75822a659c/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a value creation maximalist operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1458,
+  "id": "clement.value-creation-maximalist.1d75822a659c",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "creation",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "maximalist",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "value",
+    "value-creation-maximalist",
+    "while"
+  ],
+  "name": "value-creation-maximalist",
+  "schema_version": "1.0.0",
+  "sha256": "1D75822A659CBAC1E65C65BC332379529DA37B4FC75F1B510E36CE9AC5E2EAB4",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/value-creation-maximalist/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "6B2D9784E692F3239698DCB59A43D8E8843A3568FAD2974D1E8925A44DB328F2",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/value-creation-maximalist/SKILL.md",
+      "red-blue-team-suite/skills/value-creation-maximalist/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

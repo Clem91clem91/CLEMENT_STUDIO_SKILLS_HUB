@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.weekly-review-process.919d6ae2ef13/SKILL.md",
+  "dependencies": [],
+  "description": "Applies weekly review process to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1423,
+  "id": "clement.weekly-review-process.919d6ae2ef13",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "process",
+    "progress",
+    "quality",
+    "review",
+    "structured",
+    "to",
+    "weekly",
+    "weekly-review-process",
+    "work"
+  ],
+  "name": "weekly-review-process",
+  "schema_version": "1.0.0",
+  "sha256": "919D6AE2EF13BFD8BC748E951799BCFB35FFB98C921E7C6DC6AC4BB72D4720FA",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/weekly-review-process/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "AA6C49C3837BC857B2F0DC420B4C3FB8F0ACBEA0A4B81FE9CBEE5AF702651830",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/weekly-review-process/SKILL.md",
+      "red-blue-team-suite/skills/weekly-review-process/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

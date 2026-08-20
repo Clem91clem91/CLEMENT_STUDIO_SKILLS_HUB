@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.concept-mapping.e3b2d6aa5d13/SKILL.md",
+  "dependencies": [],
+  "description": "Uses concept mapping as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1374,
+  "id": "clement.concept-mapping.e3b2d6aa5d13",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "concept",
+    "concept-mapping",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "mapping",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "concept-mapping",
+  "schema_version": "1.0.0",
+  "sha256": "E3B2D6AA5D13E9D384BC9788D9B3BFB012BE0B5B22ACAD77EFCCA3C16F042DD3",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/concept-mapping/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8814C9DB8411BBAF65E70EA70E87809220267B9E092942D12B23FC772B54DB0C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/concept-mapping/SKILL.md",
+      "red-blue-team-suite/skills/concept-mapping/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

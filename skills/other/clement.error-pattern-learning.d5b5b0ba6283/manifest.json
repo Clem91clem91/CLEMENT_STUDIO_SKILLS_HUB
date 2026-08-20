@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.error-pattern-learning.d5b5b0ba6283/SKILL.md",
+  "dependencies": [],
+  "description": "Uses error pattern learning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1399,
+  "id": "clement.error-pattern-learning.d5b5b0ba6283",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "error",
+    "error-pattern-learning",
+    "evidence",
+    "framing",
+    "improve",
+    "learning",
+    "other",
+    "pattern",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "error-pattern-learning",
+  "schema_version": "1.0.0",
+  "sha256": "D5B5B0BA6283E3B108A021F30ECD1FAD3391DB5456F24C6DCCB3CE64855FC335",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/error-pattern-learning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "6FA2A59B7FC38F9285E8E14DE30382FBF3ED8CB2BC3D1ED9B59697D4FF119464",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/error-pattern-learning/SKILL.md",
+      "red-blue-team-suite/skills/error-pattern-learning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

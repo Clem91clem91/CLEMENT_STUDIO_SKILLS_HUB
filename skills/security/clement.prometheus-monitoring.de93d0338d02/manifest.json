@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.prometheus-monitoring.de93d0338d02/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Prometheus Monitoring, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1450,
+  "id": "clement.prometheus-monitoring.de93d0338d02",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "monitoring",
+    "operates",
+    "prometheus",
+    "prometheus-monitoring",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "prometheus-monitoring",
+  "schema_version": "1.0.0",
+  "sha256": "DE93D0338D02EE4203B0A44626C44892A693937FC3C819E5C79408047D2A65B6",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/prometheus-monitoring/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "44D39B2F01496EBB092C8B34972A488B9F1AF8CA6B450883F906A93CD6D130AE",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/prometheus-monitoring/SKILL.md",
+      "red-blue-team-suite/skills/prometheus-monitoring/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.trend-reinterpretation.85c819d3dd73/SKILL.md",
+  "dependencies": [],
+  "description": "Uses trend reinterpretation to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1385,
+  "id": "clement.trend-reinterpretation.85c819d3dd73",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "original",
+    "other",
+    "reinterpretation",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "trend",
+    "trend-reinterpretation",
+    "uses"
+  ],
+  "name": "trend-reinterpretation",
+  "schema_version": "1.0.0",
+  "sha256": "85C819D3DD7360BC36C7EBB9691BE7B61EFD0F47437903A926817B81FA455432",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/trend-reinterpretation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "075F2F12121EC909394493899A98D8771F8A6AD5585757FD5606332D5E83BD41",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/trend-reinterpretation/SKILL.md",
+      "red-blue-team-suite/skills/trend-reinterpretation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

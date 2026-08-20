@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.counteroffer-design.f856321c4b4c/SKILL.md",
+  "dependencies": [],
+  "description": "Applies counteroffer design to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1417,
+  "id": "clement.counteroffer-design.f856321c4b4c",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "counteroffer",
+    "counteroffer-design",
+    "design",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "counteroffer-design",
+  "schema_version": "1.0.0",
+  "sha256": "F856321C4B4CB69CE6A56BDC568EE4DC41A8124075F8270E067B84E719ABECC4",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/counteroffer-design/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8477883315FA5F4947D3D947546719269C23526A1C52DBE193CBE9B3ED43E60D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/counteroffer-design/SKILL.md",
+      "red-blue-team-suite/skills/counteroffer-design/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

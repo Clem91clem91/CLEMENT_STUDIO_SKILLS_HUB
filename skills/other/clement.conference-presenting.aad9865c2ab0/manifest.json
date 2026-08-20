@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.conference-presenting.aad9865c2ab0/SKILL.md",
+  "dependencies": [],
+  "description": "Uses conference presenting to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1369,
+  "id": "clement.conference-presenting.aad9865c2ab0",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "conference",
+    "conference-presenting",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "presenting",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "conference-presenting",
+  "schema_version": "1.0.0",
+  "sha256": "AAD9865C2AB0858F7BD01636ACDA55B88DFF5A2DC6A7028AC4216FFEB98AD25B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/conference-presenting/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "05A36BD62DB966F5D7C160563850AF6202E9AE0224A743B4F7333038625DD22D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/conference-presenting/SKILL.md",
+      "red-blue-team-suite/skills/conference-presenting/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

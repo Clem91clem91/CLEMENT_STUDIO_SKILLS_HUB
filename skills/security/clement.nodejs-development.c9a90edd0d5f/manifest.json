@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.nodejs-development.c9a90edd0d5f/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Node.js Development, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1445,
+  "id": "clement.nodejs-development.c9a90edd0d5f",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "development",
+    "documents",
+    "implements",
+    "in",
+    "js",
+    "maintainability",
+    "node",
+    "nodejs-development",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "nodejs-development",
+  "schema_version": "1.0.0",
+  "sha256": "C9A90EDD0D5FD01955A4B0181BC3D7C6D0AD1A28DDD94DF6C5A3246A30DE9706",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/nodejs-development/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B464E88636F7856B7B056342D50837B601DC54A7FBEB2BD509EBDF25E0E29AE7",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/nodejs-development/SKILL.md",
+      "red-blue-team-suite/skills/nodejs-development/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

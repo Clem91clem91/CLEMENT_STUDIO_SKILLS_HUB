@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.quality-assurance-planning.d8fbbad76d2f/SKILL.md",
+  "dependencies": [],
+  "description": "Applies quality assurance planning to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1421,
+  "id": "clement.quality-assurance-planning.d8fbbad76d2f",
+  "keywords": [
+    "and",
+    "applies",
+    "assurance",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "planning",
+    "progress",
+    "quality",
+    "quality-assurance-planning",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "quality-assurance-planning",
+  "schema_version": "1.0.0",
+  "sha256": "D8FBBAD76D2F2EF5318ACED02EC4F13CC10970B53E1AAEE58562077DC30CBA64",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/quality-assurance-planning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "AF50666C2EF458C23DFCD6B0C461FDBD6962818AA23CFBBF5108233A6EC87BA4",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/quality-assurance-planning/SKILL.md",
+      "red-blue-team-suite/skills/quality-assurance-planning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.briefing-delivery.b8a88ce78d35/SKILL.md",
+  "dependencies": [],
+  "description": "Uses briefing delivery to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1361,
+  "id": "clement.briefing-delivery.b8a88ce78d35",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "briefing",
+    "briefing-delivery",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "delivery",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "briefing-delivery",
+  "schema_version": "1.0.0",
+  "sha256": "B8A88CE78D35EE0C420C65E464643BC287497055718749F6E045F225A4614857",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/briefing-delivery/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A836ACF914FC8464687F7E88D7E56D9447DF9C19B1545DE5BB2F69E32E7FC5C7",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/briefing-delivery/SKILL.md",
+      "red-blue-team-suite/skills/briefing-delivery/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

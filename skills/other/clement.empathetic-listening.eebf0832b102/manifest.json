@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.empathetic-listening.eebf0832b102/SKILL.md",
+  "dependencies": [],
+  "description": "Uses empathetic listening to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1367,
+  "id": "clement.empathetic-listening.eebf0832b102",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "empathetic",
+    "empathetic-listening",
+    "explicit",
+    "feedback",
+    "listening",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "empathetic-listening",
+  "schema_version": "1.0.0",
+  "sha256": "EEBF0832B1024EE6320371A371AE29738003C181C2B480C15FA1FB56C96642D1",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/empathetic-listening/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0027F5DE668BBA8B84C738D32167286095E02584752E0B8FB980B8791FFB80FA",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/empathetic-listening/SKILL.md",
+      "red-blue-team-suite/skills/empathetic-listening/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

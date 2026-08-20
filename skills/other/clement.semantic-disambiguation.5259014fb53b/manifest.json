@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.semantic-disambiguation.5259014fb53b/SKILL.md",
+  "dependencies": [],
+  "description": "Uses semantic disambiguation as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1389,
+  "id": "clement.semantic-disambiguation.5259014fb53b",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "disambiguation",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "semantic",
+    "semantic-disambiguation",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "semantic-disambiguation",
+  "schema_version": "1.0.0",
+  "sha256": "5259014FB53BA4245561FB7F51EF3EDB1E1686542D4982391CD32A4A44292B73",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/semantic-disambiguation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0B2C4378CFC7660DDD15E33F0F7649BE7AA24FABFEFF824178C1A28915D12076",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/semantic-disambiguation/SKILL.md",
+      "red-blue-team-suite/skills/semantic-disambiguation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

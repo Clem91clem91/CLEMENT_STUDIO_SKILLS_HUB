@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.visual-storyboarding.005af06c1e72/SKILL.md",
+  "dependencies": [],
+  "description": "Uses visual storyboarding to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1381,
+  "id": "clement.visual-storyboarding.005af06c1e72",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "storyboarding",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses",
+    "visual",
+    "visual-storyboarding"
+  ],
+  "name": "visual-storyboarding",
+  "schema_version": "1.0.0",
+  "sha256": "005AF06C1E72E0C9B5A49AAD4DF07D8EF1A83EA6F225889B8365AB17B1F2CF7C",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/visual-storyboarding/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "3A9087F7394F611093F4782278E460E9F6EBBBE0DE82667044AB67D005D01409",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/visual-storyboarding/SKILL.md",
+      "red-blue-team-suite/skills/visual-storyboarding/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.conflict-communication.6625bca0d2f4/SKILL.md",
+  "dependencies": [],
+  "description": "Uses conflict communication to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1371,
+  "id": "clement.conflict-communication.6625bca0d2f4",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "conflict",
+    "conflict-communication",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "conflict-communication",
+  "schema_version": "1.0.0",
+  "sha256": "6625BCA0D2F42FE22D19821F9CAA0200C94C5F37F701339EB33266AD4F13D5F9",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/conflict-communication/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "887380183C477CFD605F929A4092DE388469FDFDBA2CA5C621AA042E3CEECCD8",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/conflict-communication/SKILL.md",
+      "red-blue-team-suite/skills/conflict-communication/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

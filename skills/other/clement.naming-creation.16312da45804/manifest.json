@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.naming-creation.16312da45804/SKILL.md",
+  "dependencies": [],
+  "description": "Uses naming creation to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1371,
+  "id": "clement.naming-creation.16312da45804",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "creation",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "naming",
+    "naming-creation",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "naming-creation",
+  "schema_version": "1.0.0",
+  "sha256": "16312DA4580463374F31DB91309E40673C66AFF86AB12ABDFAC0424FE4E2C794",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/naming-creation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "BDC7AEE491962802E9E1B70F618B61E8489BF9BA9D22B8EFE409C537E62DD3E6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/naming-creation/SKILL.md",
+      "red-blue-team-suite/skills/naming-creation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

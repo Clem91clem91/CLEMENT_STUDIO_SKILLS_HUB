@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.communication-feedback.f9ee00bf312e/SKILL.md",
+  "dependencies": [],
+  "description": "Uses communication feedback to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1371,
+  "id": "clement.communication-feedback.f9ee00bf312e",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "communication-feedback",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "communication-feedback",
+  "schema_version": "1.0.0",
+  "sha256": "F9EE00BF312E7F122598DA65309936B542E070461CCD35D6EEED23FD582899F5",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/communication-feedback/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "1096872284A1F11F8A6745FE15DE4D7C038B98370FE3D86DA79AD6007FC86C31",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/communication-feedback/SKILL.md",
+      "red-blue-team-suite/skills/communication-feedback/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

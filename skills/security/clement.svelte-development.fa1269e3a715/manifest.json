@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.svelte-development.fa1269e3a715/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Svelte Development, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1444,
+  "id": "clement.svelte-development.fa1269e3a715",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "development",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "svelte",
+    "svelte-development",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "svelte-development",
+  "schema_version": "1.0.0",
+  "sha256": "FA1269E3A715DFCEFCCD1412ADAA406FEB6D82F26E6EC9170913F65A9E7DF7E6",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/svelte-development/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "102973DFF69B902CFEEC9B159FE89BD54AD5D7C8B82A1841C74B3A604C2FB128",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/svelte-development/SKILL.md",
+      "red-blue-team-suite/skills/svelte-development/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

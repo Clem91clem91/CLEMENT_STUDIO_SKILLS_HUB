@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.synthetic-data-generation.e30a81051668/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Synthetic Data Generation, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1463,
+  "id": "clement.synthetic-data-generation.e30a81051668",
+  "keywords": [
+    "and",
+    "built",
+    "data",
+    "designs",
+    "documents",
+    "generation",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "synthetic",
+    "synthetic-data-generation",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "synthetic-data-generation",
+  "schema_version": "1.0.0",
+  "sha256": "E30A8105166851CF5C7DE1B08E0A69A53DA71F09EC0F0EE8B73DC1AF20F04286",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/synthetic-data-generation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B0CFD25329D0DAE6A9E433EC89D4AB84C5A261BD0A8937E1AF6A173511778884",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/synthetic-data-generation/SKILL.md",
+      "red-blue-team-suite/skills/synthetic-data-generation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

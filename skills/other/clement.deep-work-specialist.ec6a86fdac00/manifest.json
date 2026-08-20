@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.deep-work-specialist.ec6a86fdac00/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a deep work specialist operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1448,
+  "id": "clement.deep-work-specialist.ec6a86fdac00",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "deep",
+    "deep-work-specialist",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "specialist",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while",
+    "work"
+  ],
+  "name": "deep-work-specialist",
+  "schema_version": "1.0.0",
+  "sha256": "EC6A86FDAC0004883FB5BA3927BC0D6F3530E4EB65B757833AB8B773C3E70B4C",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/deep-work-specialist/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "F87D9186A308E9E9E070495A118DC8375DC86FE86A94C7D423DB93C3120B439D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/deep-work-specialist/SKILL.md",
+      "red-blue-team-suite/skills/deep-work-specialist/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

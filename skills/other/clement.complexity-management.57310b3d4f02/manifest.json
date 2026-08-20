@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.complexity-management.57310b3d4f02/SKILL.md",
+  "dependencies": [],
+  "description": "Uses complexity management as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1388,
+  "id": "clement.complexity-management.57310b3d4f02",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "complexity",
+    "complexity-management",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "management",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "complexity-management",
+  "schema_version": "1.0.0",
+  "sha256": "57310B3D4F0254E5FE1B85360A625B406E83D17CE29374BFAE720183E215FD6A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/complexity-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CF41C8EE6F1B1502F224BF7023CF9C1FAAA8BDC1D89845864E6676846B11BB10",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/complexity-management/SKILL.md",
+      "red-blue-team-suite/skills/complexity-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

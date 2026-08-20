@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.speech-to-text.c231ce6a93ed/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Speech To Text, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1436,
+  "id": "clement.speech-to-text.c231ce6a93ed",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "speech",
+    "speech-to-text",
+    "tests",
+    "text",
+    "to",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "speech-to-text",
+  "schema_version": "1.0.0",
+  "sha256": "C231CE6A93EDF90CB9F86D89C388BBEFACEB8581F910352FCB83506141CA2545",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/speech-to-text/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "86F99DD66DA39DC405F1750B61698DE379A92D881ED622D603CEF0944016EC07",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/speech-to-text/SKILL.md",
+      "red-blue-team-suite/skills/speech-to-text/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

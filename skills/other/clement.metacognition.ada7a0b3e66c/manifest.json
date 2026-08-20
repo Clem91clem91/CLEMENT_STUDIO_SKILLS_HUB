@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.metacognition.ada7a0b3e66c/SKILL.md",
+  "dependencies": [],
+  "description": "Uses metacognition as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1370,
+  "id": "clement.metacognition.ada7a0b3e66c",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "metacognition",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "metacognition",
+  "schema_version": "1.0.0",
+  "sha256": "ADA7A0B3E66C068F9E6D3CBA5A4B13AC4856E3F8F6EADB3A23C9859E03A255A0",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/metacognition/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "ECB4ABE15144ADE20FC2C461118ECE4CDD5D863AB81ABB591EBB7F6022775B93",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/metacognition/SKILL.md",
+      "red-blue-team-suite/skills/metacognition/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

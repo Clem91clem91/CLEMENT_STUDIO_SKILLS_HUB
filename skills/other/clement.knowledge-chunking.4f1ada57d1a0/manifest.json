@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.knowledge-chunking.4f1ada57d1a0/SKILL.md",
+  "dependencies": [],
+  "description": "Uses knowledge chunking as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1380,
+  "id": "clement.knowledge-chunking.4f1ada57d1a0",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "chunking",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "knowledge",
+    "knowledge-chunking",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "knowledge-chunking",
+  "schema_version": "1.0.0",
+  "sha256": "4F1ADA57D1A07A5DBB457FB861A7751F230447699A5B123C01F93C032F3B9D12",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/knowledge-chunking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "10B8121F51E888330077D660716D205F86A7BF7BF5709A13D5D49C1CCF2F4AF3",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/knowledge-chunking/SKILL.md",
+      "red-blue-team-suite/skills/knowledge-chunking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

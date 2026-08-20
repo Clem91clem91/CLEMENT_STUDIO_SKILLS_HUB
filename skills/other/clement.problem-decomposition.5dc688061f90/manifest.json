@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.problem-decomposition.5dc688061f90/SKILL.md",
+  "dependencies": [],
+  "description": "Uses problem decomposition as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1390,
+  "id": "clement.problem-decomposition.5dc688061f90",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "decomposition",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "problem",
+    "problem-decomposition",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "problem-decomposition",
+  "schema_version": "1.0.0",
+  "sha256": "5DC688061F90C81E13ECC8CF0C9309A7D82A354067065192CCACBD481B66E91B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/problem-decomposition/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "645A6822C736947A3CF61D2C9A39514CD17CF7A00D74AE8FBF3907CB515E71DA",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/problem-decomposition/SKILL.md",
+      "red-blue-team-suite/skills/problem-decomposition/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

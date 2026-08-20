@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.risk-register-management.373b161dfc05/SKILL.md",
+  "dependencies": [],
+  "description": "Applies risk register management to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1417,
+  "id": "clement.risk-register-management.373b161dfc05",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "management",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "register",
+    "risk",
+    "risk-register-management",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "risk-register-management",
+  "schema_version": "1.0.0",
+  "sha256": "373B161DFC059A22D9882D7CEEB943499C4ED735F3C0FBBA1DE91E4A71077985",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/risk-register-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "210D356D39ADBD45BD38F77CF34DD38D5C3F2898B5FA5FA7C0579FA36695E32A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/risk-register-management/SKILL.md",
+      "red-blue-team-suite/skills/risk-register-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

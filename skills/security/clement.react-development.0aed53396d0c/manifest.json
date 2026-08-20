@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.react-development.0aed53396d0c/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using React Development, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1442,
+  "id": "clement.react-development.0aed53396d0c",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "development",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "react",
+    "react-development",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "react-development",
+  "schema_version": "1.0.0",
+  "sha256": "0AED53396D0C7465535EF12E030CEE86F3A1388C6D0C3A7F13879CC3F4AD7298",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/react-development/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "17B5D054030F6948D1CD917F7EA889BC1B8BC3DE51EB887F198101B8D282A7DE",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/react-development/SKILL.md",
+      "red-blue-team-suite/skills/react-development/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.diplomatic-influencer.3a7d9d9dba59/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a diplomatic influencer operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1450,
+  "id": "clement.diplomatic-influencer.3a7d9d9dba59",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "diplomatic",
+    "diplomatic-influencer",
+    "ethics",
+    "evidence",
+    "execution",
+    "influencer",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "diplomatic-influencer",
+  "schema_version": "1.0.0",
+  "sha256": "3A7D9D9DBA59CCE7BE0E02526D663A084AA625CBEF3BF8B676DF3DE3C722D92F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/diplomatic-influencer/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "992E517A727DFDD8E5D6ECBC4FC4BEE1BC38EE913EE01DCAAB001EAF1E0F092D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/diplomatic-influencer/SKILL.md",
+      "red-blue-team-suite/skills/diplomatic-influencer/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

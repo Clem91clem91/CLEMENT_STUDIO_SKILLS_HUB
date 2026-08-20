@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.process-automation-planning.44d2e1ac6e54/SKILL.md",
+  "dependencies": [],
+  "description": "Applies process automation planning to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1424,
+  "id": "clement.process-automation-planning.44d2e1ac6e54",
+  "keywords": [
+    "and",
+    "applies",
+    "automation",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "planning",
+    "process",
+    "process-automation-planning",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "process-automation-planning",
+  "schema_version": "1.0.0",
+  "sha256": "44D2E1AC6E541A34A41DD2B33A354A84B355E209E2D6A61717B4CE8FF4C6D555",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/process-automation-planning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CC32C5781D41C54B0ED094F91DAF5BF18EDD7762F08A40FDDAC57F4D9043EAB9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/process-automation-planning/SKILL.md",
+      "red-blue-team-suite/skills/process-automation-planning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

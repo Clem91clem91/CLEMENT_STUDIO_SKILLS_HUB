@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.adobe-photoshop.57d9563e5c40/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Adobe Photoshop, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1437,
+  "id": "clement.adobe-photoshop.57d9563e5c40",
+  "keywords": [
+    "adobe",
+    "adobe-photoshop",
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "photoshop",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "adobe-photoshop",
+  "schema_version": "1.0.0",
+  "sha256": "57D9563E5C402FCD28D2ECAA9AB8B4968654BCB63B6E5B809DCDA62B9356B83D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/adobe-photoshop/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "6A2A0A1F708CC558A3D183DA8EBD836A8F5B3EDE930C20D9F83C876F90174237",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/adobe-photoshop/SKILL.md",
+      "red-blue-team-suite/skills/adobe-photoshop/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.ethics-centered-leader.00c98ca5bcbe/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a ethics centered leader operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1510,
+  "id": "clement.ethics-centered-leader.00c98ca5bcbe",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "centered",
+    "decisions",
+    "ethics",
+    "ethics-centered-leader",
+    "evidence",
+    "execution",
+    "intent",
+    "leader",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "ethics-centered-leader",
+  "schema_version": "1.0.0",
+  "sha256": "00C98CA5BCBED350663BC8DE67DB2DD8311A539B42559C849D147D5A8E4E1481",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/ethics-centered-leader/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C35EC9C6ABFC045B16F2FB244B49C2C07C644B28394C6C094137EF14CDEC4E32",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/ethics-centered-leader/SKILL.md",
+      "red-blue-team-suite/skills/ethics-centered-leader/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

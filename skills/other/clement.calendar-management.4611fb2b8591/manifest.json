@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.calendar-management.4611fb2b8591/SKILL.md",
+  "dependencies": [],
+  "description": "Applies calendar management to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1408,
+  "id": "clement.calendar-management.4611fb2b8591",
+  "keywords": [
+    "and",
+    "applies",
+    "calendar",
+    "calendar-management",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "management",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "calendar-management",
+  "schema_version": "1.0.0",
+  "sha256": "4611FB2B8591F2D1EF34784D8F9B9304D031512B0286552A8AED46AE6F94AEA4",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/calendar-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "60D64D488631842026EF407250B15137D8AB36001B9F277EA48CAE3B669889EA",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/calendar-management/SKILL.md",
+      "red-blue-team-suite/skills/calendar-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

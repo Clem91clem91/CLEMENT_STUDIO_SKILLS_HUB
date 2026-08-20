@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.optical-character-recognition.4e10c0f9ae91/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Optical Character Recognition, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1465,
+  "id": "clement.optical-character-recognition.4e10c0f9ae91",
+  "keywords": [
+    "and",
+    "built",
+    "character",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "optical",
+    "optical-character-recognition",
+    "recognition",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "optical-character-recognition",
+  "schema_version": "1.0.0",
+  "sha256": "4E10C0F9AE915C4CC5906F93EC9AD9FC9CFD1184270D94044F67BF61FBB19AB5",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/optical-character-recognition/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A6CE03EDD9AC3D7FFA29B93A7DF5562D52005067C5DD6D27CF1960C371937A9C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/optical-character-recognition/SKILL.md",
+      "red-blue-team-suite/skills/optical-character-recognition/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

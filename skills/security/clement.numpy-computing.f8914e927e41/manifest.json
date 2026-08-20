@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.numpy-computing.f8914e927e41/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Numpy Computing, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1426,
+  "id": "clement.numpy-computing.f8914e927e41",
+  "keywords": [
+    "and",
+    "built",
+    "computing",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "numpy",
+    "numpy-computing",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "numpy-computing",
+  "schema_version": "1.0.0",
+  "sha256": "F8914E927E413D23D7E5F3769AC749786161B885E76C2A00F07EB703620B04EC",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/numpy-computing/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5E6EB9F6F17372669A8E7AC381C0E49DEFC93849FD22FF35F11E441D1E68AA21",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/numpy-computing/SKILL.md",
+      "red-blue-team-suite/skills/numpy-computing/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

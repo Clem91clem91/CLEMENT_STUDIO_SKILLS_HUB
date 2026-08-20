@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.contingency-planning.23313c7fc5b9/SKILL.md",
+  "dependencies": [],
+  "description": "Applies contingency planning to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1410,
+  "id": "clement.contingency-planning.23313c7fc5b9",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "contingency",
+    "contingency-planning",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "planning",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "contingency-planning",
+  "schema_version": "1.0.0",
+  "sha256": "23313C7FC5B94753B59FE3174280A9EE9D110A4737578686F444DA1CE507310F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/contingency-planning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A6812DDEED5594067851DC11E846B9BCFF11A7F1927D533E22B22D92A9A0A16E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/contingency-planning/SKILL.md",
+      "red-blue-team-suite/skills/contingency-planning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

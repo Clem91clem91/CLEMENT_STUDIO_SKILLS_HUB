@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.client-communication.e1172a03758d/SKILL.md",
+  "dependencies": [],
+  "description": "Uses client communication to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1367,
+  "id": "clement.client-communication.e1172a03758d",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "client",
+    "client-communication",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "client-communication",
+  "schema_version": "1.0.0",
+  "sha256": "E1172A03758D63E86181E94401475F61E174368BFEA3148376E5A1F73FF5D70A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/client-communication/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "E0152C8932717D77B1294B258AD1C5384EBCBF58D68782FD071FC4EF0D286D41",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/client-communication/SKILL.md",
+      "red-blue-team-suite/skills/client-communication/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

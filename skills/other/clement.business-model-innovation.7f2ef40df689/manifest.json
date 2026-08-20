@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.business-model-innovation.7f2ef40df689/SKILL.md",
+  "dependencies": [],
+  "description": "Uses business model innovation to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1398,
+  "id": "clement.business-model-innovation.7f2ef40df689",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "business",
+    "business-model-innovation",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "innovation",
+    "model",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "business-model-innovation",
+  "schema_version": "1.0.0",
+  "sha256": "7F2EF40DF689BE6AAF766F0014870592D2CE23ED5DA9406B41BCACA7EF0BB459",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/business-model-innovation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "33C18A29E3DC217BEEA3278B21E6EA6D91023A38C3BA1D09143870602CA5069A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/business-model-innovation/SKILL.md",
+      "red-blue-team-suite/skills/business-model-innovation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

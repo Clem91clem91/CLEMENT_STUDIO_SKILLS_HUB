@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.clarifying-questions.7675e18ba9a1/SKILL.md",
+  "dependencies": [],
+  "description": "Uses clarifying questions to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1367,
+  "id": "clement.clarifying-questions.7675e18ba9a1",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clarifying",
+    "clarifying-questions",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "questions",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "clarifying-questions",
+  "schema_version": "1.0.0",
+  "sha256": "7675E18BA9A158C4A46D4DE365C4165C391607EC88A3B7A4BDD1722A5F2E2F9B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/clarifying-questions/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "08668245A50F37471DAC9D8565188D2AA80339B1FE8694AFE7928A73E477BCED",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/clarifying-questions/SKILL.md",
+      "red-blue-team-suite/skills/clarifying-questions/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

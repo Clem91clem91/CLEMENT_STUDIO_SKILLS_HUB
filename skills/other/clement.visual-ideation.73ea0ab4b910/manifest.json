@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.visual-ideation.73ea0ab4b910/SKILL.md",
+  "dependencies": [],
+  "description": "Uses visual ideation to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1371,
+  "id": "clement.visual-ideation.73ea0ab4b910",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "ideation",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses",
+    "visual",
+    "visual-ideation"
+  ],
+  "name": "visual-ideation",
+  "schema_version": "1.0.0",
+  "sha256": "73EA0AB4B91028B5313D6254E66A580B5E8CD3C94A0C76730590DBF9D3DC0C37",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/visual-ideation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D12CBC5C6489939C4F635A8F0FE37650E8360AE8913D29F406B590B765D071F9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/visual-ideation/SKILL.md",
+      "red-blue-team-suite/skills/visual-ideation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

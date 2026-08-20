@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.operational-recovery-planning.08edd2c45d4d/SKILL.md",
+  "dependencies": [],
+  "description": "Applies operational recovery planning to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1428,
+  "id": "clement.operational-recovery-planning.08edd2c45d4d",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "operational",
+    "operational-recovery-planning",
+    "other",
+    "ownership",
+    "planning",
+    "progress",
+    "quality",
+    "recovery",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "operational-recovery-planning",
+  "schema_version": "1.0.0",
+  "sha256": "08EDD2C45D4DD27C89EF1798055121ADCC250055F8C0DDCC491048CECE41C18D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/operational-recovery-planning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4DBD018B149C09C87C19C3AE027F28D6236EC515E0283A3ABF412A9B3DA528DF",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/operational-recovery-planning/SKILL.md",
+      "red-blue-team-suite/skills/operational-recovery-planning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

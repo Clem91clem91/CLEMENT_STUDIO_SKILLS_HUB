@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.capacity-analysis.cdac8e20ec05/SKILL.md",
+  "dependencies": [],
+  "description": "Performs capacity analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1401,
+  "id": "clement.capacity-analysis.cdac8e20ec05",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "capacity",
+    "capacity-analysis",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "capacity-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "CDAC8E20EC053DB4F20CFF0A66F61D88F7267AE2D2AE58733C3A754B9E7E686B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/capacity-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "F6DD73AE9FD98CFE34DF7FEDA8E54EF8CF1F6CFF49481F8BC222AB882586E986",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/capacity-analysis/SKILL.md",
+      "red-blue-team-suite/skills/capacity-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.firebase-backend.aa52e14d0e03/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Firebase Backend, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1440,
+  "id": "clement.firebase-backend.aa52e14d0e03",
+  "keywords": [
+    "and",
+    "backend",
+    "built",
+    "designs",
+    "documents",
+    "firebase",
+    "firebase-backend",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "firebase-backend",
+  "schema_version": "1.0.0",
+  "sha256": "AA52E14D0E03DFA057567D96BA27871D941F0AA9C039D49DFEBF69C0626C5F5D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/firebase-backend/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "27A758C28FA6076717CE477482B043370CC58F47CE077D8EB5C550E0F0ECB82C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/firebase-backend/SKILL.md",
+      "red-blue-team-suite/skills/firebase-backend/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

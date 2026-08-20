@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.reservation-value-definition.ccc5b8cfe9e3/SKILL.md",
+  "dependencies": [],
+  "description": "Applies reservation value definition to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1435,
+  "id": "clement.reservation-value-definition.ccc5b8cfe9e3",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "definition",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "other",
+    "packages",
+    "prepare",
+    "reservation",
+    "reservation-value-definition",
+    "risk",
+    "to",
+    "value"
+  ],
+  "name": "reservation-value-definition",
+  "schema_version": "1.0.0",
+  "sha256": "CCC5B8CFE9E399808FC5FA57C845085E2B3126B4617333BB794EF90898952C80",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/reservation-value-definition/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "84F30FBA86F2BFD151AFD488773069C2326E2396FC4119587522CCA85D02EAE4",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/reservation-value-definition/SKILL.md",
+      "red-blue-team-suite/skills/reservation-value-definition/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

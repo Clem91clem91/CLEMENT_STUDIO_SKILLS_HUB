@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.negotiation-preparation.23dc85c4d88b/SKILL.md",
+  "dependencies": [],
+  "description": "Applies negotiation preparation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1425,
+  "id": "clement.negotiation-preparation.23dc85c4d88b",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "negotiation",
+    "negotiation-preparation",
+    "other",
+    "packages",
+    "preparation",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "negotiation-preparation",
+  "schema_version": "1.0.0",
+  "sha256": "23DC85C4D88BB1EB5616292F5D7F34717AC540B56DE46A6D04D929B5444DCCB0",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/negotiation-preparation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "1A35B58967CE1D03557AF5D4842A90D46D5FCD95039399353166A2B0CA292DF6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/negotiation-preparation/SKILL.md",
+      "red-blue-team-suite/skills/negotiation-preparation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

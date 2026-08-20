@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.kubernetes-orchestration.bd0e8b5a598c/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Kubernetes Orchestration, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1456,
+  "id": "clement.kubernetes-orchestration.bd0e8b5a598c",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "kubernetes",
+    "kubernetes-orchestration",
+    "maintainability",
+    "operates",
+    "orchestration",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "kubernetes-orchestration",
+  "schema_version": "1.0.0",
+  "sha256": "BD0E8B5A598C082CBFF5C81BC29EBFAF820A9E3ED81BF0A0733D0DA44A3AEA0C",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/kubernetes-orchestration/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "07AD80BAC021842A6D1C693D8365ABD8932633E240246F61641E0C843EC30C26",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/kubernetes-orchestration/SKILL.md",
+      "red-blue-team-suite/skills/kubernetes-orchestration/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

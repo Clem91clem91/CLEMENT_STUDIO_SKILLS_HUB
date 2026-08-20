@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.bias-detection.8fbb11d68300/SKILL.md",
+  "dependencies": [],
+  "description": "Uses bias detection as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1372,
+  "id": "clement.bias-detection.8fbb11d68300",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "bias",
+    "bias-detection",
+    "calibration",
+    "decision",
+    "detection",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "bias-detection",
+  "schema_version": "1.0.0",
+  "sha256": "8FBB11D6830020F1CE537C399A6F2EE2EC9F27443439A05AFA92CC920432E5D4",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/bias-detection/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "453CE4F6ADBCCED4C94346AB9121F2E5423D7877F84484B06CC1BC8188802489",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/bias-detection/SKILL.md",
+      "red-blue-team-suite/skills/bias-detection/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

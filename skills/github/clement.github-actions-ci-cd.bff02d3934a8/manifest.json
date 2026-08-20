@@ -1,0 +1,49 @@
+{
+  "category": "github",
+  "conflicts": [],
+  "content_path": "skills/github/clement.github-actions-ci-cd.bff02d3934a8/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Github Actions Ci Cd, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1448,
+  "id": "clement.github-actions-ci-cd.bff02d3934a8",
+  "keywords": [
+    "actions",
+    "and",
+    "built",
+    "cd",
+    "ci",
+    "designs",
+    "documents",
+    "github",
+    "github-actions-ci-cd",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "github-actions-ci-cd",
+  "schema_version": "1.0.0",
+  "sha256": "BFF02D3934A87C28DF3C1A6032978598EA02D87362987FEC73AFD9BBB20501B9",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/github-actions-ci-cd/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5320C69D7B22E9331058054C00329DAB6BA6DD04D4C6B52980637DB16DF06EF5",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/github-actions-ci-cd/SKILL.md",
+      "red-blue-team-suite/skills/github-actions-ci-cd/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.continuous-improvement-execution.0d609d21a2be/SKILL.md",
+  "dependencies": [],
+  "description": "Applies continuous improvement execution to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1434,
+  "id": "clement.continuous-improvement-execution.0d609d21a2be",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "continuous",
+    "continuous-improvement-execution",
+    "control",
+    "convert",
+    "documented",
+    "execution",
+    "improvement",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "continuous-improvement-execution",
+  "schema_version": "1.0.0",
+  "sha256": "0D609D21A2BECF5C8431B4D974A78E6F20F97DD2A0AB8FA944E6504B2E403C82",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/continuous-improvement-execution/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "63624A86C845CFF15F55E8A54518406EDDD99CDA178F34A8ED8DCD463AF5023A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/continuous-improvement-execution/SKILL.md",
+      "red-blue-team-suite/skills/continuous-improvement-execution/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

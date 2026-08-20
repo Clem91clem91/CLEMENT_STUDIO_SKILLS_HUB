@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.rule-breaking-innovator.eeccb324bbb9/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a rule breaking innovator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1454,
+  "id": "clement.rule-breaking-innovator.eeccb324bbb9",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "breaking",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "innovator",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "rule",
+    "rule-breaking-innovator",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "rule-breaking-innovator",
+  "schema_version": "1.0.0",
+  "sha256": "EECCB324BBB9FB4C8DE121499D9FBEE7C8E11D9FE73C2A4BD8D098EE9FE3A64B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/rule-breaking-innovator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "7FAF2BDB167DA8265B89B49C82F9E3E9DC42DA6C2E301EA3CB47C4712DFE5ADF",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/rule-breaking-innovator/SKILL.md",
+      "red-blue-team-suite/skills/rule-breaking-innovator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.resource-planning.91946d2961ad/SKILL.md",
+  "dependencies": [],
+  "description": "Applies resource planning to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1404,
+  "id": "clement.resource-planning.91946d2961ad",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "planning",
+    "progress",
+    "quality",
+    "resource",
+    "resource-planning",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "resource-planning",
+  "schema_version": "1.0.0",
+  "sha256": "91946D2961AD60C2AD62DDA25979D6D963B73564A299434B62E8C1EC99FBD34B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/resource-planning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "04819E08F2B5A48795CD9465F596F35BEEE178A1E920C63637A9261662CF4D34",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/resource-planning/SKILL.md",
+      "red-blue-team-suite/skills/resource-planning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

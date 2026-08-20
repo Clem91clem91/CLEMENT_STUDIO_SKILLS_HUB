@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.linux-system-administration.5086d8eef73b/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Linux System Administration, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1462,
+  "id": "clement.linux-system-administration.5086d8eef73b",
+  "keywords": [
+    "administration",
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "linux",
+    "linux-system-administration",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "system",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "linux-system-administration",
+  "schema_version": "1.0.0",
+  "sha256": "5086D8EEF73BF052B991E911C7ED446F750455A2F21491CAFA0246BDE36067B2",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/linux-system-administration/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "E6ADC59A7840EFE2E2A29B2A588A1FC210DC740C70E3429D194C34E9788448A7",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/linux-system-administration/SKILL.md",
+      "red-blue-team-suite/skills/linux-system-administration/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

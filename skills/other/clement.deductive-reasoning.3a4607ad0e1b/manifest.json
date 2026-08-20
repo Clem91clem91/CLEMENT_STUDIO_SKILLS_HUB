@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.deductive-reasoning.3a4607ad0e1b/SKILL.md",
+  "dependencies": [],
+  "description": "Uses deductive reasoning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1382,
+  "id": "clement.deductive-reasoning.3a4607ad0e1b",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "deductive",
+    "deductive-reasoning",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "deductive-reasoning",
+  "schema_version": "1.0.0",
+  "sha256": "3A4607AD0E1BC70E598EBBF9C6EAEB0744EF1FD80766E74873CEC251FE9070C5",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/deductive-reasoning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "1CF0B9C9949F0409305E4A5AFF69484A902C4F6434121EE585109DD74B57AEC5",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/deductive-reasoning/SKILL.md",
+      "red-blue-team-suite/skills/deductive-reasoning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

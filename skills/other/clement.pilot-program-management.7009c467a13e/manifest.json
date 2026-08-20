@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.pilot-program-management.7009c467a13e/SKILL.md",
+  "dependencies": [],
+  "description": "Applies pilot program management to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1418,
+  "id": "clement.pilot-program-management.7009c467a13e",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "management",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "pilot",
+    "pilot-program-management",
+    "program",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "pilot-program-management",
+  "schema_version": "1.0.0",
+  "sha256": "7009C467A13EB0C74D265AE4DB46880369C38308EB5A85C044E1F32A5F3FD089",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/pilot-program-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "64865AABC9792FFC190EA9A8234D98080F2950E806C17466C0CE243A81BA6CED",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/pilot-program-management/SKILL.md",
+      "red-blue-team-suite/skills/pilot-program-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

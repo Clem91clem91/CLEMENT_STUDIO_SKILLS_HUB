@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.execution-quality-review.d52a7fcca1bc/SKILL.md",
+  "dependencies": [],
+  "description": "Applies execution quality review to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1417,
+  "id": "clement.execution-quality-review.d52a7fcca1bc",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "execution",
+    "execution-quality-review",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "review",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "execution-quality-review",
+  "schema_version": "1.0.0",
+  "sha256": "D52A7FCCA1BCB7538A32584941266B06A14271EE317BBE9BC4B759EB3D7ED2B5",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/execution-quality-review/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C0E72B5BE40E6934007BB3820B844B1E72820DD53EA8EA8A38200D2D6E073068",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/execution-quality-review/SKILL.md",
+      "red-blue-team-suite/skills/execution-quality-review/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

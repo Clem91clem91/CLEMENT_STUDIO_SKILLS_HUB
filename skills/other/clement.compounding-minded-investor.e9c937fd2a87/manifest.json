@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.compounding-minded-investor.e9c937fd2a87/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a compounding minded investor operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1462,
+  "id": "clement.compounding-minded-investor.e9c937fd2a87",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "compounding",
+    "compounding-minded-investor",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "investor",
+    "minded",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "compounding-minded-investor",
+  "schema_version": "1.0.0",
+  "sha256": "E9C937FD2A87D3D56AF1C8591D044F5217B1E259ADA363C0C26BF18002370EE8",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/compounding-minded-investor/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D60E9AE10A15E6D11A067E01ACE17DFAB81541808E0CE1A1D79CF052A704B8C4",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/compounding-minded-investor/SKILL.md",
+      "red-blue-team-suite/skills/compounding-minded-investor/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

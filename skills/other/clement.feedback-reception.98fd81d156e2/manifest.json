@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.feedback-reception.98fd81d156e2/SKILL.md",
+  "dependencies": [],
+  "description": "Uses feedback reception to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1363,
+  "id": "clement.feedback-reception.98fd81d156e2",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "feedback-reception",
+    "loop",
+    "objective",
+    "other",
+    "reception",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "feedback-reception",
+  "schema_version": "1.0.0",
+  "sha256": "98FD81D156E20BEA06ACBEAB4E31F25A4BEE6952440F11F7EBC05F6603457B48",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/feedback-reception/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "54F470743014F3C9B895102E11E746D3EFC8E75A3D517466EA6DB149799BBE2D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/feedback-reception/SKILL.md",
+      "red-blue-team-suite/skills/feedback-reception/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

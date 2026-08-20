@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.extreme-owner.77ac8d5d53e6/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a extreme owner operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1434,
+  "id": "clement.extreme-owner.77ac8d5d53e6",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "extreme",
+    "extreme-owner",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "owner",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "extreme-owner",
+  "schema_version": "1.0.0",
+  "sha256": "77AC8D5D53E6FE2D9913249E4B17D1D3EB74523A36C395E86840EF4387088058",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/extreme-owner/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "F668A554FDEB3BBC1BA8C7A2288A3C862CCE0BE1CFCC39EC4866F3A5A6FF0EEC",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/extreme-owner/SKILL.md",
+      "red-blue-team-suite/skills/extreme-owner/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

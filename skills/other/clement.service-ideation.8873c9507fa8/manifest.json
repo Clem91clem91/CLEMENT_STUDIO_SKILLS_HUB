@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.service-ideation.8873c9507fa8/SKILL.md",
+  "dependencies": [],
+  "description": "Uses service ideation to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1373,
+  "id": "clement.service-ideation.8873c9507fa8",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "ideation",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "service",
+    "service-ideation",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "service-ideation",
+  "schema_version": "1.0.0",
+  "sha256": "8873C9507FA8772C7FAFB3F61B1B30CE25B841752AB0EAB64C1F9212712E273A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/service-ideation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "7FCF55FF4C27A79E52D756E495E6E33E669A47869C3550EECB0889BDAB0E5FC1",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/service-ideation/SKILL.md",
+      "red-blue-team-suite/skills/service-ideation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.inferential-statistics.ceeb2365b39c/SKILL.md",
+  "dependencies": [],
+  "description": "Performs inferential statistics through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1403,
+  "id": "clement.inferential-statistics.ceeb2365b39c",
+  "keywords": [
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "inferential",
+    "inferential-statistics",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "statistics",
+    "through",
+    "traceable"
+  ],
+  "name": "inferential-statistics",
+  "schema_version": "1.0.0",
+  "sha256": "CEEB2365B39C35C710CEA75EFC891CE47C14FD3A3AB1049D56B903248E0B62A6",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/inferential-statistics/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "53E869DF0D1AEA9DABD8916887AFCA54E6A8B3162E84028C3ACB2F19AF4863F9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/inferential-statistics/SKILL.md",
+      "red-blue-team-suite/skills/inferential-statistics/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,48 @@
+{
+  "category": "coding",
+  "conflicts": [],
+  "content_path": "skills/coding/clement.python-programming.f63a8db9bfb3/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Python Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1444,
+  "id": "clement.python-programming.f63a8db9bfb3",
+  "keywords": [
+    "and",
+    "built",
+    "coding",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "programming",
+    "python",
+    "python-programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "python-programming",
+  "schema_version": "1.0.0",
+  "sha256": "F63A8DB9BFB3F5392A12696DEF0C306FAA315787CF55E98DB4B9A4447BD61932",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/python-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "81128E553A22D9ECE7660B028C4CCF94A57D2937E9A0F13845E1D05A237A227D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/python-programming/SKILL.md",
+      "red-blue-team-suite/skills/python-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

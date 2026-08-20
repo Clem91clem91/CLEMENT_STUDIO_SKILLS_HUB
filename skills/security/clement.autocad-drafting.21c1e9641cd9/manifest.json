@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.autocad-drafting.21c1e9641cd9/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Autocad Drafting, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1447,
+  "id": "clement.autocad-drafting.21c1e9641cd9",
+  "keywords": [
+    "and",
+    "autocad",
+    "autocad-drafting",
+    "built",
+    "designs",
+    "documents",
+    "drafting",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "autocad-drafting",
+  "schema_version": "1.0.0",
+  "sha256": "21C1E9641CD9B38408ED27BCF55C84EF2EAE178CB3D75261DDAB68EDAE600CFF",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/autocad-drafting/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "FCCEC51B6D32DA936C23CA391B749F8F9DCA15B4FD7D303CD01472CC276D9F93",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/autocad-drafting/SKILL.md",
+      "red-blue-team-suite/skills/autocad-drafting/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

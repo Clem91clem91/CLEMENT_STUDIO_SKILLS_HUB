@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.consistency-driven-operator.e5707d347582/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a consistency driven operator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1462,
+  "id": "clement.consistency-driven-operator.e5707d347582",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "consistency",
+    "consistency-driven-operator",
+    "decisions",
+    "driven",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "operator",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "consistency-driven-operator",
+  "schema_version": "1.0.0",
+  "sha256": "E5707D347582F3244A8BF9B33576A0FD7B3D78CC444A6D3A8DE6E803AD1CDE6F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/consistency-driven-operator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "1C230BE1070766557A66655330B2E4235D33916EF669574812CAE933ED7700DC",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/consistency-driven-operator/SKILL.md",
+      "red-blue-team-suite/skills/consistency-driven-operator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

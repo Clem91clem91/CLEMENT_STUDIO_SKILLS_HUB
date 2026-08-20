@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.recommendation-systems.ed510741a182/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Recommendation Systems, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1457,
+  "id": "clement.recommendation-systems.ed510741a182",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "recommendation",
+    "recommendation-systems",
+    "reproducibility",
+    "security",
+    "solutions",
+    "systems",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "recommendation-systems",
+  "schema_version": "1.0.0",
+  "sha256": "ED510741A18256FB9BF2D8AF74BBF7A80D515C61F5A28B2C88DA88E91988E40F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/recommendation-systems/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "9EAC37450A31B38F6C5F50D23A53F17F391425D5320B2B1EC2715E547251FA70",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/recommendation-systems/SKILL.md",
+      "red-blue-team-suite/skills/recommendation-systems/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

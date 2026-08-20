@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.salary-negotiation.ebf1bea02819/SKILL.md",
+  "dependencies": [],
+  "description": "Applies salary negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1415,
+  "id": "clement.salary-negotiation.ebf1bea02819",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "salary",
+    "salary-negotiation",
+    "to"
+  ],
+  "name": "salary-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "EBF1BEA02819D310F7B876013AB42E4C2B059C9A39CDC635DB6A9B2D96369592",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/salary-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "280895C7BCD6FA3B17BE884F29108B7D47D19FEB718DF7CF4A2C2F298C1191BF",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/salary-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/salary-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}
