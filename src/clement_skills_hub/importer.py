@@ -82,8 +82,19 @@ def materialize_plan(plan: ImportPlan, destination_root: Path) -> None:
         raise ImportPlanError(f"staging directory must be empty: {destination_root}")
     destination_root.mkdir(parents=True, exist_ok=True)
     skills_root = destination_root / "skills"
+    populated_categories = {
+        str(skill.manifest["category"])
+        for skill in plan.skills
+        if str(skill.manifest.get("category", "")) in VALID_CATEGORIES
+    }
     for category in VALID_CATEGORIES:
-        (skills_root / category).mkdir(parents=True, exist_ok=True)
+        category_root = skills_root / category
+        category_root.mkdir(parents=True, exist_ok=True)
+        # Git does not track empty directories. Keep a deterministic placeholder
+        # for categories with no materialized skill so a fresh clone preserves
+        # the repository structure required by validate_repository().
+        if category not in populated_categories:
+            (category_root / ".gitkeep").write_text("", encoding="utf-8", newline="\n")
     for skill in plan.skills:
         content_path = destination_root / Path(str(skill.manifest["content_path"]))
         content_path.parent.mkdir(parents=True, exist_ok=True)
@@ -221,4 +232,3 @@ def apply_import_plan(
     finally:
         if staging.exists():
             shutil.rmtree(staging, ignore_errors=True)
-
