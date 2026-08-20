@@ -4,7 +4,7 @@
 
 - Windows 11 et PowerShell ;
 - Python 3.11 ou plus récent ;
-- checkout propre de `feat/p0-skills-hub` ;
+- checkout propre de `feat/p0-skills-hub-parallel` ;
 - bibliothèque source inchangée ;
 - audit récupéré du 20/08/2026 ;
 - aucun merge ou tag avant CI verte.
@@ -86,4 +86,3 @@ sur un autre checkout : le champ `repository_root` doit correspondre.
 - PR vers `develop` ;
 - CI verte ;
 - merge interdit si une preuve manque.
-

@@ -19,6 +19,8 @@ param(
 
     [string]$BackupRoot = "C:\Users\Shadow\Downloads\CLEMENT_P0\P0-01_BACKUPS",
 
+    [string]$ExpectedBranch = "feat/p0-skills-hub-parallel",
+
     [switch]$Apply
 )
 
@@ -105,8 +107,8 @@ try {
     }
 
     $branch = Invoke-NativeChecked -FilePath $git.Source -Arguments @("-C", $RepositoryRoot, "branch", "--show-current") -Operation "GIT_BRANCH"
-    if ($branch -ine "feat/p0-skills-hub") {
-        throw "WRONG_BRANCH: expected=feat/p0-skills-hub; actual=$branch"
+    if ($branch -ine $ExpectedBranch) {
+        throw "WRONG_BRANCH: expected=$ExpectedBranch; actual=$branch"
     }
 
     $sourceTimestampBefore = (Get-Item -LiteralPath $SourceRoot -Force).LastWriteTimeUtc.Ticks

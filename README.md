@@ -61,4 +61,4 @@ modifier le Hub.
 
 - `main` : releases certifiées ;
 - `develop` : intégration validée ;
-- `feat/p0-skills-hub` : développement P0-01.
+- `feat/p0-skills-hub-parallel` : développement P0-01 publié sans écraser le clone local incomplet.
