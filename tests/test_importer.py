@@ -11,6 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
+from clement_skills_hub.constants import VALID_CATEGORIES
 from clement_skills_hub.hashing import tree_fingerprint
 from clement_skills_hub.importer import (
     apply_import_plan,
@@ -69,6 +70,13 @@ class ImporterTests(unittest.TestCase):
                 [],
             )
 
+            populated = {str(skill.manifest["category"]) for skill in plan.skills}
+            for category in VALID_CATEGORIES:
+                category_root = destination / "skills" / category
+                self.assertTrue(category_root.is_dir(), category)
+                if category not in populated:
+                    self.assertTrue((category_root / ".gitkeep").is_file(), category)
+
     def test_transaction_is_backed_up_and_idempotent(self) -> None:
         with tempfile.TemporaryDirectory() as temporary:
             base = Path(temporary)
@@ -106,4 +114,3 @@ class ImporterTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
