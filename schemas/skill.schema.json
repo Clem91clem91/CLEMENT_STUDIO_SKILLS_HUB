@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clement-studio.local/schemas/skill.schema.json",
+  "title": "CLEMENT STUDIO Skill Manifest",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "version",
+    "status",
+    "category",
+    "description",
+    "sha256",
+    "source"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "ACTIVE",
+        "CANDIDATE",
+        "NEEDS_REVIEW",
+        "DEPRECATED",
+        "ARCHIVED",
+        "CONFLICT",
+        "INCOMPLETE"
+      ]
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "coding",
+        "documents",
+        "research",
+        "3d",
+        "blender",
+        "unreal",
+        "comfyui",
+        "filesystem",
+        "github",
+        "orchestration",
+        "security",
+        "other"
+      ]
+    },
+    "description": {
+      "type": "string"
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[A-Fa-f0-9]{64}$"
+    },
+    "source": {
+      "type": "object"
+    },
+    "keywords": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "dependencies": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "conflicts": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "estimated_context_cost": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    }
+  },
+  "additionalProperties": true
+}
