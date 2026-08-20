@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clement-studio.local/schemas/registry.schema.json",
+  "title": "CLEMENT STUDIO skills registry",
+  "type": "object",
+  "required": [
+    "registry_version",
+    "generator_version",
+    "state",
+    "generated_at",
+    "source_snapshot_sha256",
+    "content_fingerprint",
+    "audit",
+    "stats",
+    "skills"
+  ],
+  "properties": {
+    "registry_version": {"type": "string", "const": "1.0.0"},
+    "generator_version": {"type": "string", "minLength": 1},
+    "state": {"type": "string", "enum": ["BOOTSTRAP", "IMPORTED", "CERTIFIED"]},
+    "generated_at": {"type": ["string", "null"]},
+    "source_snapshot_sha256": {"type": "string", "pattern": "^[A-F0-9]{64}$"},
+    "content_fingerprint": {"type": ["string", "null"], "pattern": "^[A-F0-9]{64}$"},
+    "audit": {
+      "type": "object",
+      "required": ["total_skill_files", "unique_by_sha256", "exact_duplicates", "unique_skill_names", "name_conflicts", "incomplete_skills", "invalid_manifests"],
+      "properties": {
+        "total_skill_files": {"type": "integer", "minimum": 0},
+        "unique_by_sha256": {"type": "integer", "minimum": 0},
+        "exact_duplicates": {"type": "integer", "minimum": 0},
+        "unique_skill_names": {"type": "integer", "minimum": 0},
+        "name_conflicts": {"type": "integer", "minimum": 0},
+        "incomplete_skills": {"type": "integer", "minimum": 0},
+        "invalid_manifests": {"type": "integer", "minimum": 0}
+      },
+      "additionalProperties": false
+    },
+    "stats": {
+      "type": "object",
+      "required": ["total_entries", "by_status", "by_category"],
+      "properties": {
+        "total_entries": {"type": "integer", "minimum": 0},
+        "by_status": {"type": "object"},
+        "by_category": {"type": "object"}
+      },
+      "additionalProperties": false
+    },
+    "skills": {"type": "array", "items": {"type": "object"}}
+  },
+  "additionalProperties": false
+}
+
