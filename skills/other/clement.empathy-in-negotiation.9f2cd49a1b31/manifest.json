@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.empathy-in-negotiation.9f2cd49a1b31/SKILL.md",
+  "dependencies": [],
+  "description": "Applies empathy in negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1423,
+  "id": "clement.empathy-in-negotiation.9f2cd49a1b31",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "empathy",
+    "empathy-in-negotiation",
+    "ethical",
+    "implementable",
+    "in",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "empathy-in-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "9F2CD49A1B31067E11177E31E89CE3939754726174CA700197DE21AE22B80BA9",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/empathy-in-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "91C084F45BD97E368A3F8B665303D48778D5301CB48A622DFE3465AAA108499F",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/empathy-in-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/empathy-in-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

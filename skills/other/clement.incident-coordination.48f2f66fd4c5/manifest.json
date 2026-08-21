@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.incident-coordination.48f2f66fd4c5/SKILL.md",
+  "dependencies": [],
+  "description": "Applies incident coordination to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1412,
+  "id": "clement.incident-coordination.48f2f66fd4c5",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "coordination",
+    "documented",
+    "incident",
+    "incident-coordination",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "incident-coordination",
+  "schema_version": "1.0.0",
+  "sha256": "48F2F66FD4C55211E078A99C1EA4BBD89438F0CFCF0F32CCA09D6989FA9EF9B1",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/incident-coordination/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "41CEB7BA035E67A65B988DB23A27627BB3DFD982D2B71C59B0EAE148476CAB34",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/incident-coordination/SKILL.md",
+      "red-blue-team-suite/skills/incident-coordination/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

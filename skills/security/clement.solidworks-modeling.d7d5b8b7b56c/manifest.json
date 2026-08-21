@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.solidworks-modeling.d7d5b8b7b56c/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Solidworks Modeling, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1453,
+  "id": "clement.solidworks-modeling.d7d5b8b7b56c",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "modeling",
+    "operates",
+    "reproducibility",
+    "security",
+    "solidworks",
+    "solidworks-modeling",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "solidworks-modeling",
+  "schema_version": "1.0.0",
+  "sha256": "D7D5B8B7B56C6137AD25F0C1B3089B797DB3985A065DC64F5A09499EB73F4CFE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/solidworks-modeling/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "19B0FF158796E8301FCA30E5884D98C9E1CFDDEA733ED4C5D36DF1C7D0972A8C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/solidworks-modeling/SKILL.md",
+      "red-blue-team-suite/skills/solidworks-modeling/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

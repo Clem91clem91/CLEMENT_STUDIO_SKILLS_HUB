@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.n8n-workflow-automation.1df185a8f093/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using N8n Workflow Automation, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1450,
+  "id": "clement.n8n-workflow-automation.1df185a8f093",
+  "keywords": [
+    "and",
+    "automation",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "n8n",
+    "n8n-workflow-automation",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with",
+    "workflow"
+  ],
+  "name": "n8n-workflow-automation",
+  "schema_version": "1.0.0",
+  "sha256": "1DF185A8F09396D1CFDAC9AA8C4251CFB28B79335E38A88D1B281DD716A49172",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/n8n-workflow-automation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "9A0D24E4126FAE1C959F22C356D198DB6BFF8375C3653BA2FEA373B6BAEC6613",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/n8n-workflow-automation/SKILL.md",
+      "red-blue-team-suite/skills/n8n-workflow-automation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

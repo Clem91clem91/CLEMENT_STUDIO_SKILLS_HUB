@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.objection-handling.bb922292e373/SKILL.md",
+  "dependencies": [],
+  "description": "Applies objection handling to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1415,
+  "id": "clement.objection-handling.bb922292e373",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "handling",
+    "implementable",
+    "interests",
+    "leverage",
+    "objection",
+    "objection-handling",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "objection-handling",
+  "schema_version": "1.0.0",
+  "sha256": "BB922292E37329CCD0B302300AA22A8280B0DD698BCBF28095AAB6E6BADA54AC",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/objection-handling/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "95CA39CA26AE417464CEDC640DB9495E1D59146824D185645E577322E83EC115",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/objection-handling/SKILL.md",
+      "red-blue-team-suite/skills/objection-handling/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

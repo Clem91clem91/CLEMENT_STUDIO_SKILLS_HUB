@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.customer-service-communication.1f1b0c92a18e/SKILL.md",
+  "dependencies": [],
+  "description": "Uses customer service communication to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1388,
+  "id": "clement.customer-service-communication.1f1b0c92a18e",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "customer",
+    "customer-service-communication",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "service",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "customer-service-communication",
+  "schema_version": "1.0.0",
+  "sha256": "1F1B0C92A18E11156B5A5EA5A0EDD46CE916EC05159F82FBCE9E157390D92B3E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/customer-service-communication/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "3DCF4AC7D7ACAFEE9B6B04322CC5324A9BBF527DE70A18684FB989A37B92C830",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/customer-service-communication/SKILL.md",
+      "red-blue-team-suite/skills/customer-service-communication/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

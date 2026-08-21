@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.transparent-communicator.21dcaffd70a4/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a transparent communicator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1456,
+  "id": "clement.transparent-communicator.21dcaffd70a4",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "communicator",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "transparent",
+    "transparent-communicator",
+    "user",
+    "while"
+  ],
+  "name": "transparent-communicator",
+  "schema_version": "1.0.0",
+  "sha256": "21DCAFFD70A4F5E58D272C5E285FD06F921305F06BD2FCD8795BB4822D34EBE3",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/transparent-communicator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "EA1435AB96B92E21E829626364A49FF03E18632EE90F2D656E8D8FA6F613A443",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/transparent-communicator/SKILL.md",
+      "red-blue-team-suite/skills/transparent-communicator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

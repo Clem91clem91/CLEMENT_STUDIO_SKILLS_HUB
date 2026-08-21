@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.stakeholder-alignment.b9757076aa58/SKILL.md",
+  "dependencies": [],
+  "description": "Uses stakeholder alignment to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1372,
+  "id": "clement.stakeholder-alignment.b9757076aa58",
+  "keywords": [
+    "align",
+    "alignment",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "stakeholder",
+    "stakeholder-alignment",
+    "to",
+    "uses"
+  ],
+  "name": "stakeholder-alignment",
+  "schema_version": "1.0.0",
+  "sha256": "B9757076AA58CF25213FEC07E6A65E44BAF7C035FEDDABACFE9EACBB9863A1E0",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/stakeholder-alignment/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5E06052D2496C5ED8B10F32F79BC497259320A6F72EDD7C5070D943FB5BF5007",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/stakeholder-alignment/SKILL.md",
+      "red-blue-team-suite/skills/stakeholder-alignment/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

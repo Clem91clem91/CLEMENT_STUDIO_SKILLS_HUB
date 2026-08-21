@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.bash-scripting.362fb482f635/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Bash Scripting, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1436,
+  "id": "clement.bash-scripting.362fb482f635",
+  "keywords": [
+    "and",
+    "bash",
+    "bash-scripting",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "scripting",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "bash-scripting",
+  "schema_version": "1.0.0",
+  "sha256": "362FB482F635E2B6586F5A6BB037EE01EB1B9BC9A4D0687C82F350A910016673",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/bash-scripting/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A82AFAECCCDB0BD8322D98709DF5B1E3326CC82C49454B2F220447B2AFF71B34",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/bash-scripting/SKILL.md",
+      "red-blue-team-suite/skills/bash-scripting/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

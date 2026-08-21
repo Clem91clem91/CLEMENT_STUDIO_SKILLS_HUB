@@ -1,0 +1,53 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.paralegal.e1f7b17bbf35/SKILL.md",
+  "dependencies": [],
+  "description": "Applies the Paralegal professional role to plan, execute, review, and deliver reliable legal compliance work with explicit assumptions, controls, and human escalation where required.",
+  "estimated_context_cost": 1456,
+  "id": "clement.paralegal.e1f7b17bbf35",
+  "keywords": [
+    "and",
+    "applies",
+    "assumptions",
+    "compliance",
+    "controls",
+    "deliver",
+    "escalation",
+    "execute",
+    "explicit",
+    "human",
+    "legal",
+    "other",
+    "paralegal",
+    "plan",
+    "professional",
+    "reliable",
+    "required",
+    "review",
+    "role",
+    "the",
+    "to",
+    "where",
+    "with",
+    "work"
+  ],
+  "name": "paralegal",
+  "schema_version": "1.0.0",
+  "sha256": "E1F7B17BBF35BC738482A49646195697A0A12EFCFAA666DC8597E079D62D7B2C",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/paralegal/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "F51242489C7C1B6AEE7E665414EBD149AB5D07B478517AFEEED7BA2AA0B7645A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/paralegal/SKILL.md",
+      "red-blue-team-suite/skills/paralegal/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.follow-up-management.2b5b876b0d16/SKILL.md",
+  "dependencies": [],
+  "description": "Applies follow up management to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1410,
+  "id": "clement.follow-up-management.2b5b876b0d16",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "follow",
+    "follow-up-management",
+    "into",
+    "management",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "up",
+    "work"
+  ],
+  "name": "follow-up-management",
+  "schema_version": "1.0.0",
+  "sha256": "2B5B876B0D16ADFBD7CC731243988BACDC884DFBF3573AE98127A0A394901C53",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/follow-up-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "3396CAC97116557C26D4C177FFB7C55BA9FE60603B209F003F2D51CD8BFE9C1C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/follow-up-management/SKILL.md",
+      "red-blue-team-suite/skills/follow-up-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

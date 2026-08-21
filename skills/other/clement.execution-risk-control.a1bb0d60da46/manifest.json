@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.execution-risk-control.a1bb0d60da46/SKILL.md",
+  "dependencies": [],
+  "description": "Applies execution risk control to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1413,
+  "id": "clement.execution-risk-control.a1bb0d60da46",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "execution",
+    "execution-risk-control",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "risk",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "execution-risk-control",
+  "schema_version": "1.0.0",
+  "sha256": "A1BB0D60DA460EEB07A85799DADD6E69646C2F90C1EBA2567CCB9BEF9F428B0D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/execution-risk-control/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "FD7F9954B3E0D1A988BA52DB2312384EE423CEE1813008F3E797414C8F39ED9B",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/execution-risk-control/SKILL.md",
+      "red-blue-team-suite/skills/execution-risk-control/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.sentiment-analysis.0ef6e505d32a/SKILL.md",
+  "dependencies": [],
+  "description": "Performs sentiment analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1395,
+  "id": "clement.sentiment-analysis.0ef6e505d32a",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "sentiment",
+    "sentiment-analysis",
+    "through",
+    "traceable"
+  ],
+  "name": "sentiment-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "0EF6E505D32AB720DD93315CE66AB77F3D34F871465177B5DBF26E1BB935EDA0",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/sentiment-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "E8B4D02EC0CB9E0268A3381968C59AA66F3F1A1E3B1B2B71927C0C611389A8C9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/sentiment-analysis/SKILL.md",
+      "red-blue-team-suite/skills/sentiment-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

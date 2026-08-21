@@ -1,0 +1,48 @@
+{
+  "category": "3d",
+  "conflicts": [],
+  "content_path": "skills/3d/clement.blender-3d-modeling.0fc6dfab8286/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Blender 3d Modeling, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1445,
+  "id": "clement.blender-3d-modeling.0fc6dfab8286",
+  "keywords": [
+    "3d",
+    "and",
+    "blender",
+    "blender-3d-modeling",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "modeling",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "blender-3d-modeling",
+  "schema_version": "1.0.0",
+  "sha256": "0FC6DFAB8286457D116D973405F5759789A03D20DD93DBC0C4B08BF8E6EC3A5F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/blender-3d-modeling/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "451145697374457802655DE3776EB0B7539EC20B629F3FD9AAF48A88467C36A3",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/blender-3d-modeling/SKILL.md",
+      "red-blue-team-suite/skills/blender-3d-modeling/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

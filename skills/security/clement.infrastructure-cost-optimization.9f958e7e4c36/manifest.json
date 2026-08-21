@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.infrastructure-cost-optimization.9f958e7e4c36/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Infrastructure Cost Optimization, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1468,
+  "id": "clement.infrastructure-cost-optimization.9f958e7e4c36",
+  "keywords": [
+    "and",
+    "built",
+    "cost",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "infrastructure",
+    "infrastructure-cost-optimization",
+    "maintainability",
+    "operates",
+    "optimization",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "infrastructure-cost-optimization",
+  "schema_version": "1.0.0",
+  "sha256": "9F958E7E4C36F954C6962B2D8281A6D8EFE478693B31490F95DECF2D1AFE0147",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/infrastructure-cost-optimization/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8EC0627DD394D3AD6B7CC65E48418789B21DC4D76B19D0F30A64A1F1F2F64FCE",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/infrastructure-cost-optimization/SKILL.md",
+      "red-blue-team-suite/skills/infrastructure-cost-optimization/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

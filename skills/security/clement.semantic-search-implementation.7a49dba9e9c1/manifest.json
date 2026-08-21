@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.semantic-search-implementation.7a49dba9e9c1/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Semantic Search Implementation, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1462,
+  "id": "clement.semantic-search-implementation.7a49dba9e9c1",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implementation",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "search",
+    "security",
+    "semantic",
+    "semantic-search-implementation",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "semantic-search-implementation",
+  "schema_version": "1.0.0",
+  "sha256": "7A49DBA9E9C1A5ECC6EE887BE8BFC9F104C92EF58DCC003BD151A87936814E05",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/semantic-search-implementation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C52CB50DBF364864E8B3144D66F348A96337A641B4B379CBDB21F67E30322E75",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/semantic-search-implementation/SKILL.md",
+      "red-blue-team-suite/skills/semantic-search-implementation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

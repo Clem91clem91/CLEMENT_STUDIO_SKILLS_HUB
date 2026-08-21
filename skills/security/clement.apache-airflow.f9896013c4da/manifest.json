@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.apache-airflow.f9896013c4da/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Apache Airflow, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1424,
+  "id": "clement.apache-airflow.f9896013c4da",
+  "keywords": [
+    "airflow",
+    "and",
+    "apache",
+    "apache-airflow",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "apache-airflow",
+  "schema_version": "1.0.0",
+  "sha256": "F9896013C4DAE4013BA254250208554F24CB128B5DE18583414E6C098DA93D35",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/apache-airflow/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "84A72EBAEFD089A8C086FFC768ECF4DA7449DA6932AEBBCCE381D97DE534F638",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/apache-airflow/SKILL.md",
+      "red-blue-team-suite/skills/apache-airflow/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

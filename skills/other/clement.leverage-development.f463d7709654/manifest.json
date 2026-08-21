@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.leverage-development.f463d7709654/SKILL.md",
+  "dependencies": [],
+  "description": "Applies leverage development to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1419,
+  "id": "clement.leverage-development.f463d7709654",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "development",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "leverage-development",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "leverage-development",
+  "schema_version": "1.0.0",
+  "sha256": "F463D7709654D0A5B1E890FDC95EC98B6324D8DC2528C4159366C6DCC3F4C587",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/leverage-development/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "49A60D3ABDE7F9D5B0D8E20FD9117718C686603556842C3058635ED4ABE90C8E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/leverage-development/SKILL.md",
+      "red-blue-team-suite/skills/leverage-development/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

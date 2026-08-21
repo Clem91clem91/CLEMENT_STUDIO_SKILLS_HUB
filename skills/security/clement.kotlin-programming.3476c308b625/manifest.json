@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.kotlin-programming.3476c308b625/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Kotlin Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1444,
+  "id": "clement.kotlin-programming.3476c308b625",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "kotlin",
+    "kotlin-programming",
+    "maintainability",
+    "operates",
+    "programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "kotlin-programming",
+  "schema_version": "1.0.0",
+  "sha256": "3476C308B6252F79AD1C267DABD89A1F298E9F7251A42B9BC06FAF188F589448",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/kotlin-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "65E0DEE02E4CD22FB35B8FED97AD8185764903654407B708388C393251A2FD1D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/kotlin-programming/SKILL.md",
+      "red-blue-team-suite/skills/kotlin-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

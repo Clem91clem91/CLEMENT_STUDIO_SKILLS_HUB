@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.conflict-mediation.d6b33baa8d67/SKILL.md",
+  "dependencies": [],
+  "description": "Uses conflict mediation to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1363,
+  "id": "clement.conflict-mediation.d6b33baa8d67",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "conflict",
+    "conflict-mediation",
+    "culture",
+    "decisions",
+    "measurable",
+    "mediation",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "conflict-mediation",
+  "schema_version": "1.0.0",
+  "sha256": "D6B33BAA8D67D425D65A5AC7523D76763EE78D82FCE9A52E50363D0638C6F9C5",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/conflict-mediation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "ECAC23B9F96F24CAD4EB73BD705C90D2A867D89BE0890D05376E606C9FAF181D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/conflict-mediation/SKILL.md",
+      "red-blue-team-suite/skills/conflict-mediation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

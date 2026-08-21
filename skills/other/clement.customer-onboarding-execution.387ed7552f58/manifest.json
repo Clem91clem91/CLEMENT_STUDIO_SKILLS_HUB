@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.customer-onboarding-execution.387ed7552f58/SKILL.md",
+  "dependencies": [],
+  "description": "Applies customer onboarding execution to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1428,
+  "id": "clement.customer-onboarding-execution.387ed7552f58",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "customer",
+    "customer-onboarding-execution",
+    "documented",
+    "execution",
+    "into",
+    "measurable",
+    "objectives",
+    "onboarding",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "customer-onboarding-execution",
+  "schema_version": "1.0.0",
+  "sha256": "387ED7552F58DD7FD2C30652A0E3A619268BA091FDB81C73A86C626E16CE972E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/customer-onboarding-execution/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "899BE863B562C155A1FEEAC364BA9184301E75EF3D61BD72E430085BDF2BCB4F",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/customer-onboarding-execution/SKILL.md",
+      "red-blue-team-suite/skills/customer-onboarding-execution/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.learning-oriented-founder.ad4b8f245e53/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a learning oriented founder operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1469,
+  "id": "clement.learning-oriented-founder.ad4b8f245e53",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "founder",
+    "intent",
+    "learning",
+    "learning-oriented-founder",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "oriented",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "learning-oriented-founder",
+  "schema_version": "1.0.0",
+  "sha256": "AD4B8F245E53EFA97178A1F0C17B8D91C3C378A389E0722C18ADF9F2BDD83481",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/learning-oriented-founder/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "00EDE98417287A3E723F23BAF3EA92CF3090939C0D6B1C54BD9F61C4101FE667",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/learning-oriented-founder/SKILL.md",
+      "red-blue-team-suite/skills/learning-oriented-founder/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

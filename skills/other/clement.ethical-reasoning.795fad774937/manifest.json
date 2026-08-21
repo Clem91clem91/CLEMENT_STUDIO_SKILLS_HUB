@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.ethical-reasoning.795fad774937/SKILL.md",
+  "dependencies": [],
+  "description": "Uses ethical reasoning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1378,
+  "id": "clement.ethical-reasoning.795fad774937",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "ethical",
+    "ethical-reasoning",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "ethical-reasoning",
+  "schema_version": "1.0.0",
+  "sha256": "795FAD774937E6C6094E57D148BAFDDAAC442C251E7FFC98912A34C7E1939B88",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/ethical-reasoning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "E30463DDDAFE25027472FF088C18F78ACD9045C8C353618FB2C9A893333D50E3",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/ethical-reasoning/SKILL.md",
+      "red-blue-team-suite/skills/ethical-reasoning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

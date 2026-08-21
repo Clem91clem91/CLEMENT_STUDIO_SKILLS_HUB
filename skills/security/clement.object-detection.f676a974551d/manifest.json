@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.object-detection.f676a974551d/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Object Detection, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1440,
+  "id": "clement.object-detection.f676a974551d",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "detection",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "object",
+    "object-detection",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "object-detection",
+  "schema_version": "1.0.0",
+  "sha256": "F676A974551DEC12DC3755FC757C349B22A482C98C91F4243142A03562921828",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/object-detection/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "41008C10B6A280B0432549C426F46378A482F37CE84DB24FA82EEAE156D0D24E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/object-detection/SKILL.md",
+      "red-blue-team-suite/skills/object-detection/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

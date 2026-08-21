@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.time-blocking.74b5e9677a03/SKILL.md",
+  "dependencies": [],
+  "description": "Applies time blocking to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1396,
+  "id": "clement.time-blocking.74b5e9677a03",
+  "keywords": [
+    "and",
+    "applies",
+    "blocking",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "time",
+    "time-blocking",
+    "to",
+    "work"
+  ],
+  "name": "time-blocking",
+  "schema_version": "1.0.0",
+  "sha256": "74B5E9677A036EC8559EDF06A3DD69D6F76C3261C233F03A40889533244CB5DB",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/time-blocking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A5E90A371C20F6AA83E26222D4BDC9495FA8FE5DE100303AA577686B58D0E780",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/time-blocking/SKILL.md",
+      "red-blue-team-suite/skills/time-blocking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

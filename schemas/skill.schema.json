@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clement-studio.local/schemas/skill.schema.json",
+  "title": "CLEMENT STUDIO normalized skill manifest",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "id",
+    "name",
+    "version",
+    "status",
+    "category",
+    "description",
+    "sha256",
+    "content_path",
+    "source",
+    "keywords",
+    "dependencies",
+    "conflicts",
+    "unresolved_dependencies",
+    "unresolved_conflicts",
+    "estimated_context_cost"
+  ],
+  "properties": {
+    "schema_version": {"type": "string", "const": "1.0.0"},
+    "id": {"type": "string", "pattern": "^clement\\.[a-z0-9][a-z0-9-]*\\.[a-f0-9]{12}$"},
+    "name": {"type": "string", "minLength": 1},
+    "version": {"type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+(?:[-+][0-9A-Za-z.-]+)?$"},
+    "status": {
+      "type": "string",
+      "enum": ["ACTIVE", "CANDIDATE", "NEEDS_REVIEW", "DEPRECATED", "ARCHIVED", "CONFLICT", "INCOMPLETE"]
+    },
+    "category": {
+      "type": "string",
+      "enum": ["coding", "documents", "research", "3d", "blender", "unreal", "comfyui", "filesystem", "github", "orchestration", "security", "other"]
+    },
+    "description": {"type": "string"},
+    "sha256": {"type": "string", "pattern": "^[A-F0-9]{64}$"},
+    "content_path": {"type": "string", "pattern": "^skills/[a-z0-9-]+/[a-z0-9.-]+/SKILL\\.md$"},
+    "source": {
+      "type": "object",
+      "required": ["canonical_path", "library", "replica_count", "replicas", "manifest_sha256"],
+      "properties": {
+        "canonical_path": {"type": "string", "minLength": 1},
+        "library": {"type": "string", "minLength": 1},
+        "replica_count": {"type": "integer", "minimum": 1},
+        "replicas": {"type": "array", "items": {"type": "string"}, "minItems": 1, "uniqueItems": true},
+        "manifest_sha256": {"type": ["string", "null"], "pattern": "^[A-F0-9]{64}$"}
+      },
+      "additionalProperties": false
+    },
+    "keywords": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "dependencies": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "conflicts": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "unresolved_dependencies": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "unresolved_conflicts": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "estimated_context_cost": {"type": "integer", "minimum": 0},
+    "validation_notes": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}
+  },
+  "additionalProperties": false
+}
+

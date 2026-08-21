@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.mental-model-switching.4413d75d9c47/SKILL.md",
+  "dependencies": [],
+  "description": "Uses mental model switching as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1399,
+  "id": "clement.mental-model-switching.4413d75d9c47",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "mental",
+    "mental-model-switching",
+    "model",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "switching",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "mental-model-switching",
+  "schema_version": "1.0.0",
+  "sha256": "4413D75D9C47546AC5112C5D9D0C43A7D73A2BF65B2F003C6078DF959BC26D47",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/mental-model-switching/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CCF54312BB863CC23A915F416E559B33F201DD3C026B412308255E1CC5DA5724",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/mental-model-switching/SKILL.md",
+      "red-blue-team-suite/skills/mental-model-switching/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

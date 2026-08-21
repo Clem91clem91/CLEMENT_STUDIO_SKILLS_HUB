@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.competitive-analysis.84aa080ad70f/SKILL.md",
+  "dependencies": [],
+  "description": "Performs competitive analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1399,
+  "id": "clement.competitive-analysis.84aa080ad70f",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "competitive",
+    "competitive-analysis",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "competitive-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "84AA080AD70F1BD3215ECAE1B9E39633C5C06E83C49803C04E457E029D6B3B72",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/competitive-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "F92B4A2D704E5D4E95CE15A7D5EC7F0FAB3F9107DC567CD7F9939D432152A868",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/competitive-analysis/SKILL.md",
+      "red-blue-team-suite/skills/competitive-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

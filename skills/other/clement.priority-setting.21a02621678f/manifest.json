@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.priority-setting.21a02621678f/SKILL.md",
+  "dependencies": [],
+  "description": "Uses priority setting as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1376,
+  "id": "clement.priority-setting.21a02621678f",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "priority",
+    "priority-setting",
+    "protocol",
+    "quality",
+    "reasoning",
+    "setting",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "priority-setting",
+  "schema_version": "1.0.0",
+  "sha256": "21A02621678FEAB92DB12A31BD64ABE50DAA9BB636399AA937B1DF9EDAACF523",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/priority-setting/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4ABACB1078C234C74C840B2B42372F45CC6FF4D29265E45CB6AB438216FA86EC",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/priority-setting/SKILL.md",
+      "red-blue-team-suite/skills/priority-setting/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

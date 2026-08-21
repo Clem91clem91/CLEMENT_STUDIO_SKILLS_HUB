@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.blue-team-thinking.c595df41bbab/SKILL.md",
+  "dependencies": [],
+  "description": "Uses blue team thinking as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1378,
+  "id": "clement.blue-team-thinking.c595df41bbab",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "blue",
+    "blue-team-thinking",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "team",
+    "thinking",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "blue-team-thinking",
+  "schema_version": "1.0.0",
+  "sha256": "C595DF41BBAB22424314E238624323583D8A558999A75D00D032AD6FA1437CFD",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/blue-team-thinking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "DC3525A1D339EDFB224299AE491B904D5EE84ABA047948F4A562E85398ABB713",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/blue-team-thinking/SKILL.md",
+      "red-blue-team-suite/skills/blue-team-thinking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

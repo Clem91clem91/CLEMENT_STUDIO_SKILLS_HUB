@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.vendor-coordination.613169a33de5/SKILL.md",
+  "dependencies": [],
+  "description": "Applies vendor coordination to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1408,
+  "id": "clement.vendor-coordination.613169a33de5",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "coordination",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "vendor",
+    "vendor-coordination",
+    "work"
+  ],
+  "name": "vendor-coordination",
+  "schema_version": "1.0.0",
+  "sha256": "613169A33DE569A701E101AEDF2905D97FFFF5F9667236F229251D9F003FCE47",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/vendor-coordination/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "9CC5B13C59FE4DF22E3F28FB7E5B014893FCC026E61573D7055A1837F409EA80",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/vendor-coordination/SKILL.md",
+      "red-blue-team-suite/skills/vendor-coordination/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

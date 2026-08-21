@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.navisworks-coordination.867f52a43e93/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Navisworks Coordination, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1461,
+  "id": "clement.navisworks-coordination.867f52a43e93",
+  "keywords": [
+    "and",
+    "built",
+    "coordination",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "navisworks",
+    "navisworks-coordination",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "navisworks-coordination",
+  "schema_version": "1.0.0",
+  "sha256": "867F52A43E93F998358537EF58963BE3A1E8756F64B6CDF0D1DACD17F9CBBB38",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/navisworks-coordination/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "799394CA78290928129894F149084069877B3C79C3B93A8EEFED282ECB7CD974",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/navisworks-coordination/SKILL.md",
+      "red-blue-team-suite/skills/navisworks-coordination/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.cross-domain-inspiration.31396bcfd942/SKILL.md",
+  "dependencies": [],
+  "description": "Uses cross domain inspiration to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1396,
+  "id": "clement.cross-domain-inspiration.31396bcfd942",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "cross",
+    "cross-domain-inspiration",
+    "develop",
+    "domain",
+    "execution",
+    "fit",
+    "generate",
+    "inspiration",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "cross-domain-inspiration",
+  "schema_version": "1.0.0",
+  "sha256": "31396BCFD9420C1A18181DC8010C324A67EB2583B87D2369CC3CEEA57FAE4059",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/cross-domain-inspiration/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "60BB03AF25A450BD094C6EFC9558EFF9EA08032E9AC60A030EE479687240D994",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/cross-domain-inspiration/SKILL.md",
+      "red-blue-team-suite/skills/cross-domain-inspiration/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.legacy-building.ec14d89a0998/SKILL.md",
+  "dependencies": [],
+  "description": "Uses legacy building to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1363,
+  "id": "clement.legacy-building.ec14d89a0998",
+  "keywords": [
+    "align",
+    "and",
+    "building",
+    "cadence",
+    "culture",
+    "decisions",
+    "legacy",
+    "legacy-building",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "legacy-building",
+  "schema_version": "1.0.0",
+  "sha256": "EC14D89A0998E475511A920A3848028F3E438FB91F11CDFB6B5EB851A7163D1E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/legacy-building/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "9D191A6E5D07556C328F0C33CEC9EF80FCE923C2B1C9EFE9AE3CE7AEC3CA37CE",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/legacy-building/SKILL.md",
+      "red-blue-team-suite/skills/legacy-building/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

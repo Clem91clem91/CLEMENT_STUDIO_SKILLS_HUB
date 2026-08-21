@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.evidence-weighting.b1b5bde6c8cd/SKILL.md",
+  "dependencies": [],
+  "description": "Uses evidence weighting as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1380,
+  "id": "clement.evidence-weighting.b1b5bde6c8cd",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "evidence-weighting",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses",
+    "weighting"
+  ],
+  "name": "evidence-weighting",
+  "schema_version": "1.0.0",
+  "sha256": "B1B5BDE6C8CDBA3809C882BFF6A7E18DEAD87440266BB9F243782A692F62EC46",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/evidence-weighting/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C951E2C51929C9798C082A491E393D784E465B2B73E7D1A71EC5DB7426B1265C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/evidence-weighting/SKILL.md",
+      "red-blue-team-suite/skills/evidence-weighting/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

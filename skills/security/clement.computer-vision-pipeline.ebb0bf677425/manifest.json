@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.computer-vision-pipeline.ebb0bf677425/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Computer Vision Pipeline, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1461,
+  "id": "clement.computer-vision-pipeline.ebb0bf677425",
+  "keywords": [
+    "and",
+    "built",
+    "computer",
+    "computer-vision-pipeline",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "pipeline",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "vision",
+    "with"
+  ],
+  "name": "computer-vision-pipeline",
+  "schema_version": "1.0.0",
+  "sha256": "EBB0BF677425B5E87D6F02B601AFAD702B6233AAAF51F6D353565E362CD69E3A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/computer-vision-pipeline/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "7D92A2F67ACC5FD1246F29934368E22432771294264E1BF8EC567058E197BF56",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/computer-vision-pipeline/SKILL.md",
+      "red-blue-team-suite/skills/computer-vision-pipeline/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

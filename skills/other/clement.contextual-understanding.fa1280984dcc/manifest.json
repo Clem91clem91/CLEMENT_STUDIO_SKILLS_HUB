@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.contextual-understanding.fa1280984dcc/SKILL.md",
+  "dependencies": [],
+  "description": "Uses contextual understanding as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1392,
+  "id": "clement.contextual-understanding.fa1280984dcc",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "contextual",
+    "contextual-understanding",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "understanding",
+    "use",
+    "uses"
+  ],
+  "name": "contextual-understanding",
+  "schema_version": "1.0.0",
+  "sha256": "FA1280984DCC69C9797BEEC5C33C4E84BFA3705E051F26427FB92992C43C559D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/contextual-understanding/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "BA7B34F472D6710359DA5DA9D9CCC97A1B340074AF57F3021AB85C5B6E8F3B95",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/contextual-understanding/SKILL.md",
+      "red-blue-team-suite/skills/contextual-understanding/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

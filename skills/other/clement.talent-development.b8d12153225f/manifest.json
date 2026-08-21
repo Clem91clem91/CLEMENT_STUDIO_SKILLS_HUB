@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.talent-development.b8d12153225f/SKILL.md",
+  "dependencies": [],
+  "description": "Uses talent development to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1363,
+  "id": "clement.talent-development.b8d12153225f",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "development",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "talent",
+    "talent-development",
+    "to",
+    "uses"
+  ],
+  "name": "talent-development",
+  "schema_version": "1.0.0",
+  "sha256": "B8D12153225F43A3428A13F2C51A2164B5D9FA71C35374595AD7F06CCFA08BF6",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/talent-development/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "2CB109357FE2377D0478B551755618C8C5006A0B4A20D27A12BACDBB2F342018",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/talent-development/SKILL.md",
+      "red-blue-team-suite/skills/talent-development/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

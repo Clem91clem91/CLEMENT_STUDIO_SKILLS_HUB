@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.leadership-decision-review.6d270a6406f8/SKILL.md",
+  "dependencies": [],
+  "description": "Uses leadership decision review to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1379,
+  "id": "clement.leadership-decision-review.6d270a6406f8",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decision",
+    "decisions",
+    "leadership",
+    "leadership-decision-review",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "review",
+    "to",
+    "uses"
+  ],
+  "name": "leadership-decision-review",
+  "schema_version": "1.0.0",
+  "sha256": "6D270A6406F8B1E2F47F97218D306A327FFE11A5A456CAE7219A53F8F9145D62",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/leadership-decision-review/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "E0CFFA07F41BA6DDB46735AAB54AB01A5AA5DF4FB2CD431DD15A132821044737",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/leadership-decision-review/SKILL.md",
+      "red-blue-team-suite/skills/leadership-decision-review/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

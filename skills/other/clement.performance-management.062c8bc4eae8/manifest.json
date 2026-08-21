@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.performance-management.062c8bc4eae8/SKILL.md",
+  "dependencies": [],
+  "description": "Uses performance management to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1374,
+  "id": "clement.performance-management.062c8bc4eae8",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "management",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "performance",
+    "performance-management",
+    "to",
+    "uses"
+  ],
+  "name": "performance-management",
+  "schema_version": "1.0.0",
+  "sha256": "062C8BC4EAE82E608CCEC1B47D2102CD1FED3266B8079FBA0919D8B04BF0A406",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/performance-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D97612320BB0F784E5781E9C52F7C183E571D18C60DDC54C7C23EE6D25C48165",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/performance-management/SKILL.md",
+      "red-blue-team-suite/skills/performance-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

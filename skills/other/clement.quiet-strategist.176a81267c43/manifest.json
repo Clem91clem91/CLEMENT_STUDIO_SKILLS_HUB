@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.quiet-strategist.176a81267c43/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a quiet strategist operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1452,
+  "id": "clement.quiet-strategist.176a81267c43",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "quiet",
+    "quiet-strategist",
+    "strategist",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "quiet-strategist",
+  "schema_version": "1.0.0",
+  "sha256": "176A81267C4354AA94FF3C4D3BA952726CAC30A6312DCF5E8FA4956074D5BD9B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/quiet-strategist/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "DECA870E58D1715EC81B3CCB8AD63E2F19BBC89F6BB70E54CFB9F8C3E7BEA53E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/quiet-strategist/SKILL.md",
+      "red-blue-team-suite/skills/quiet-strategist/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

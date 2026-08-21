@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.policy-analysis.482748290230/SKILL.md",
+  "dependencies": [],
+  "description": "Performs policy analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1455,
+  "id": "clement.policy-analysis.482748290230",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "policy",
+    "policy-analysis",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "policy-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "482748290230634974DCAA950A260E650060DA8A7E8432231C6A008113528716",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/policy-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "586CD5F2F794C3AFF98766784EB124F63E0FB03F51946575396B07762074BD20",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/policy-analysis/SKILL.md",
+      "red-blue-team-suite/skills/policy-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

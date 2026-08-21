@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.data-warehouse-modeling.98e9528f9dc0/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Data Warehouse Modeling, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1442,
+  "id": "clement.data-warehouse-modeling.98e9528f9dc0",
+  "keywords": [
+    "and",
+    "built",
+    "data",
+    "data-warehouse-modeling",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "modeling",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "warehouse",
+    "with"
+  ],
+  "name": "data-warehouse-modeling",
+  "schema_version": "1.0.0",
+  "sha256": "98E9528F9DC0BDF50851406E1C3A206710CA7CB028B87564054D54FD0BEE6522",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/data-warehouse-modeling/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "026A33A508331EA5F46362680958E4A95CDBF0D941A6477F8A837262A6F41F7F",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/data-warehouse-modeling/SKILL.md",
+      "red-blue-team-suite/skills/data-warehouse-modeling/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

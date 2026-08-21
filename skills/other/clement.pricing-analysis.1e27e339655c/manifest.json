@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.pricing-analysis.1e27e339655c/SKILL.md",
+  "dependencies": [],
+  "description": "Performs pricing analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1399,
+  "id": "clement.pricing-analysis.1e27e339655c",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "pricing",
+    "pricing-analysis",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "pricing-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "1E27E339655CDF21DEA6091749F40E06B574E5F9CF71D8A6C7D9B6EFC70AE028",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/pricing-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "EC3D188B559A0DA9906DE41782A547F10E5978C403C20AA185AC088D0DE2AF5A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/pricing-analysis/SKILL.md",
+      "red-blue-team-suite/skills/pricing-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

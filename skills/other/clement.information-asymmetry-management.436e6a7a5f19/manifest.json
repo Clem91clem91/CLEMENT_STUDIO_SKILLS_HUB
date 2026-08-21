@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.information-asymmetry-management.436e6a7a5f19/SKILL.md",
+  "dependencies": [],
+  "description": "Applies information asymmetry management to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1454,
+  "id": "clement.information-asymmetry-management.436e6a7a5f19",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "asymmetry",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "information",
+    "information-asymmetry-management",
+    "interests",
+    "leverage",
+    "management",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "information-asymmetry-management",
+  "schema_version": "1.0.0",
+  "sha256": "436E6A7A5F199650F8861BCB2E294735D61A81035378965D3EA24A598D0EF1E8",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/information-asymmetry-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D1934C09155312E13EC9F15C6951BA6181687274866B940D5C68798AD18FB957",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/information-asymmetry-management/SKILL.md",
+      "red-blue-team-suite/skills/information-asymmetry-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

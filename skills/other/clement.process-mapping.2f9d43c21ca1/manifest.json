@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.process-mapping.2f9d43c21ca1/SKILL.md",
+  "dependencies": [],
+  "description": "Applies process mapping to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1411,
+  "id": "clement.process-mapping.2f9d43c21ca1",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "mapping",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "process",
+    "process-mapping",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "process-mapping",
+  "schema_version": "1.0.0",
+  "sha256": "2F9D43C21CA1690B04C9FF2470D798C2B203032E556E38F14208E2D0B0243AA3",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/process-mapping/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "709FBBD0F41D2AB2CCB28580A2D1D5C4556DD1E971861E4D9FADBDB2F0F29FDE",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/process-mapping/SKILL.md",
+      "red-blue-team-suite/skills/process-mapping/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.time-series-forecasting.730e3f479ce6/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Time Series Forecasting, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1442,
+  "id": "clement.time-series-forecasting.730e3f479ce6",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "forecasting",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "series",
+    "solutions",
+    "tests",
+    "time",
+    "time-series-forecasting",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "time-series-forecasting",
+  "schema_version": "1.0.0",
+  "sha256": "730E3F479CE638CFD3C31FAB2A9CFED5079F75889E0307889A7B68A2F0D4A6F6",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/time-series-forecasting/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0252FB16889A0E3A46E726D94A0487F46A6F44B19F918A968BF1D429E3BFEF21",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/time-series-forecasting/SKILL.md",
+      "red-blue-team-suite/skills/time-series-forecasting/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

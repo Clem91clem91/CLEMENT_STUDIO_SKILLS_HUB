@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.redis-database.7ae88560c106/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Redis Database, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1424,
+  "id": "clement.redis-database.7ae88560c106",
+  "keywords": [
+    "and",
+    "built",
+    "database",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "redis",
+    "redis-database",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "redis-database",
+  "schema_version": "1.0.0",
+  "sha256": "7AE88560C106B640A23A751B5033988D0E8975A8E3112D7196857E81D84CAF11",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/redis-database/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4F86CB895D34C0C92CF45C75BBECE4E74B8D12AEA7A5A5841AEE04375225AA04",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/redis-database/SKILL.md",
+      "red-blue-team-suite/skills/redis-database/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

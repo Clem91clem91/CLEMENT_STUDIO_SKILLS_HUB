@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.counterfactual-reasoning.8f0b739569e4/SKILL.md",
+  "dependencies": [],
+  "description": "Uses counterfactual reasoning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1392,
+  "id": "clement.counterfactual-reasoning.8f0b739569e4",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "counterfactual",
+    "counterfactual-reasoning",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "counterfactual-reasoning",
+  "schema_version": "1.0.0",
+  "sha256": "8F0B739569E49D5337D8104C01A3CAD5930E5E00F2492754A9237E12DFBD1D35",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/counterfactual-reasoning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "61AEA8D22091F0E3095FE95EA0715A87980BF5423308F6CE82325A16C7C54EB5",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/counterfactual-reasoning/SKILL.md",
+      "red-blue-team-suite/skills/counterfactual-reasoning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.media-interviewing.d4842812872c/SKILL.md",
+  "dependencies": [],
+  "description": "Uses media interviewing to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1363,
+  "id": "clement.media-interviewing.d4842812872c",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "interviewing",
+    "loop",
+    "media",
+    "media-interviewing",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "media-interviewing",
+  "schema_version": "1.0.0",
+  "sha256": "D4842812872CA3C5C4441EFD5F210713E6A174B56C2C601BBF8235B4E41F86DE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/media-interviewing/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "52B9692A893DF67B4A10FD631AA6614F4F97F038BC5C9058FA676D1EB6227CE7",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/media-interviewing/SKILL.md",
+      "red-blue-team-suite/skills/media-interviewing/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

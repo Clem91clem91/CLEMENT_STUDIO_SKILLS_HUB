@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.talent-magnet.747bd9ad9cea/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a talent magnet operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1432,
+  "id": "clement.talent-magnet.747bd9ad9cea",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "magnet",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "talent",
+    "talent-magnet",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "talent-magnet",
+  "schema_version": "1.0.0",
+  "sha256": "747BD9AD9CEA9CD7AA8C8EF5EA57BD6AFCBDECBDD0E0B433D96F157BA8E39D12",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/talent-magnet/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "97C4B679B237069567F962A158398496EEAEB003B53871F0348C01F405239517",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/talent-magnet/SKILL.md",
+      "red-blue-team-suite/skills/talent-magnet/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

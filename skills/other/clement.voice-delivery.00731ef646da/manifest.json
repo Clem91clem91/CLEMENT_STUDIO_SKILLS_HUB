@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.voice-delivery.00731ef646da/SKILL.md",
+  "dependencies": [],
+  "description": "Uses voice delivery to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1355,
+  "id": "clement.voice-delivery.00731ef646da",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "delivery",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "voice",
+    "voice-delivery",
+    "with"
+  ],
+  "name": "voice-delivery",
+  "schema_version": "1.0.0",
+  "sha256": "00731EF646DA48B28E6D177B9A27F004038B7173A82C394B14B9F470E11BDE31",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/voice-delivery/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8FB33C9FFEF8E1A070D6661F3E1F190D2F575952A887FB4ED41E9CFBBB6BBBE3",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/voice-delivery/SKILL.md",
+      "red-blue-team-suite/skills/voice-delivery/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

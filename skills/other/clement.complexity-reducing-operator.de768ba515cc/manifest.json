@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.complexity-reducing-operator.de768ba515cc/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a complexity reducing operator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1464,
+  "id": "clement.complexity-reducing-operator.de768ba515cc",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "complexity",
+    "complexity-reducing-operator",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "operator",
+    "other",
+    "preserving",
+    "reducing",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "complexity-reducing-operator",
+  "schema_version": "1.0.0",
+  "sha256": "DE768BA515CC8435319782A12B43C6FB043592106F00F207A234A03BB6FFDA18",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/complexity-reducing-operator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "FDF1A7F39FA7D36DBE409D2984FAF1C574ABE9C9878843D516EDC4D1F85862FF",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/complexity-reducing-operator/SKILL.md",
+      "red-blue-team-suite/skills/complexity-reducing-operator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

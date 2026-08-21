@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.remote-work-coordination.c16df57a6e1c/SKILL.md",
+  "dependencies": [],
+  "description": "Applies remote work coordination to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1418,
+  "id": "clement.remote-work-coordination.c16df57a6e1c",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "coordination",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "remote",
+    "remote-work-coordination",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "remote-work-coordination",
+  "schema_version": "1.0.0",
+  "sha256": "C16DF57A6E1C290ED1E9A5CF9A4FCC71257CFFA53AD87A21B12C7FBAD8B55E5B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/remote-work-coordination/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "00EFF790C73709CB0CB9AEE21204B89827449EE5ADA491B6748755FC880346F3",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/remote-work-coordination/SKILL.md",
+      "red-blue-team-suite/skills/remote-work-coordination/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

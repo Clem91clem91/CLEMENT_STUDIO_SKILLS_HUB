@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.question-formulation.23f721ba06ec/SKILL.md",
+  "dependencies": [],
+  "description": "Uses question formulation as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1384,
+  "id": "clement.question-formulation.23f721ba06ec",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "formulation",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "question",
+    "question-formulation",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "question-formulation",
+  "schema_version": "1.0.0",
+  "sha256": "23F721BA06EC7BBA0398E3A3767AEB87325ED91DACE3EC990DE119B445F271EF",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/question-formulation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A83B4D97753312D2D47F9150395C878F95813DDAC8722EE88F8C8D8245E47F06",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/question-formulation/SKILL.md",
+      "red-blue-team-suite/skills/question-formulation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

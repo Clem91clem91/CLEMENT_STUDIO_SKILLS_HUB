@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.vision-setting.c63837f7d11a/SKILL.md",
+  "dependencies": [],
+  "description": "Uses vision setting to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1367,
+  "id": "clement.vision-setting.c63837f7d11a",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "setting",
+    "to",
+    "uses",
+    "vision",
+    "vision-setting"
+  ],
+  "name": "vision-setting",
+  "schema_version": "1.0.0",
+  "sha256": "C63837F7D11AA60FCFD129DDE9A928D0141B1CB368D867B98A683EA056CBA4B8",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/vision-setting/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "981E53182476D35CB0AB6D5CC95EF96F15E0751BC817F947FCEBC88C9CC1B0EE",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/vision-setting/SKILL.md",
+      "red-blue-team-suite/skills/vision-setting/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

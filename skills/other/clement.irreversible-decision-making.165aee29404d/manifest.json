@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.irreversible-decision-making.165aee29404d/SKILL.md",
+  "dependencies": [],
+  "description": "Uses irreversible decision making as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1400,
+  "id": "clement.irreversible-decision-making.165aee29404d",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "irreversible",
+    "irreversible-decision-making",
+    "making",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "irreversible-decision-making",
+  "schema_version": "1.0.0",
+  "sha256": "165AEE29404DF22BDF441E979C275E3AB1C2803C9DB05ECB0F8DC93A56A72A4A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/irreversible-decision-making/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "3173E0C4CC16CC499DCB4C3A56BD6276691694FEDE204992142A3E9539E9CE04",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/irreversible-decision-making/SKILL.md",
+      "red-blue-team-suite/skills/irreversible-decision-making/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.cross-functional-execution.05fdf1bfe251/SKILL.md",
+  "dependencies": [],
+  "description": "Applies cross functional execution to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1422,
+  "id": "clement.cross-functional-execution.05fdf1bfe251",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "cross",
+    "cross-functional-execution",
+    "documented",
+    "execution",
+    "functional",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "cross-functional-execution",
+  "schema_version": "1.0.0",
+  "sha256": "05FDF1BFE251ACDDA45CD3780C28095116632448EEA496855B395A90DCA3B550",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/cross-functional-execution/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C91818EB4CAA86158437E8548E829C5EE6E18B2FF886B6DC740207A70803C4D8",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/cross-functional-execution/SKILL.md",
+      "red-blue-team-suite/skills/cross-functional-execution/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

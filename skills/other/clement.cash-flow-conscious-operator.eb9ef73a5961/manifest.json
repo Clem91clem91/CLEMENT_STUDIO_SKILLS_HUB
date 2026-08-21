@@ -1,0 +1,52 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.cash-flow-conscious-operator.eb9ef73a5961/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a cash flow conscious operator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1465,
+  "id": "clement.cash-flow-conscious-operator.eb9ef73a5961",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "cash",
+    "cash-flow-conscious-operator",
+    "conscious",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "flow",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "operator",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "cash-flow-conscious-operator",
+  "schema_version": "1.0.0",
+  "sha256": "EB9EF73A5961B7A007F1BACE4172A2168479E7CFF534A67673641C7CCC582F9F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/cash-flow-conscious-operator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B0F0AED7A7D716C53916322D0DB256877C49E75BD1A0B4777A9A553C5A81E921",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/cash-flow-conscious-operator/SKILL.md",
+      "red-blue-team-suite/skills/cash-flow-conscious-operator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

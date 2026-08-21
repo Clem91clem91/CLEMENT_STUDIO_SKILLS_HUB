@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.talent-identification.354e6258f29b/SKILL.md",
+  "dependencies": [],
+  "description": "Uses talent identification to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1369,
+  "id": "clement.talent-identification.354e6258f29b",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "identification",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "talent",
+    "talent-identification",
+    "to",
+    "uses"
+  ],
+  "name": "talent-identification",
+  "schema_version": "1.0.0",
+  "sha256": "354E6258F29B0643BC791BE43292196CCAF9444696EBBB2A9A642D1B2D603993",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/talent-identification/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A32A0CB85B0919FFFD1F0216ED5283D0F2C523518CC96BF4684493FB6D52ACFC",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/talent-identification/SKILL.md",
+      "red-blue-team-suite/skills/talent-identification/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

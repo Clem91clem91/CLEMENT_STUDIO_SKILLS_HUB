@@ -1,0 +1,53 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.cybersecurity-analyst.4aa20fe9b6f6/SKILL.md",
+  "dependencies": [],
+  "description": "Applies the Cybersecurity Analyst professional role to plan, execute, review, and deliver reliable cybersecurity work with explicit assumptions, controls, and human escalation where required.",
+  "estimated_context_cost": 1480,
+  "id": "clement.cybersecurity-analyst.4aa20fe9b6f6",
+  "keywords": [
+    "analyst",
+    "and",
+    "applies",
+    "assumptions",
+    "controls",
+    "cybersecurity",
+    "cybersecurity-analyst",
+    "deliver",
+    "escalation",
+    "execute",
+    "explicit",
+    "human",
+    "other",
+    "plan",
+    "professional",
+    "reliable",
+    "required",
+    "review",
+    "role",
+    "the",
+    "to",
+    "where",
+    "with",
+    "work"
+  ],
+  "name": "cybersecurity-analyst",
+  "schema_version": "1.0.0",
+  "sha256": "4AA20FE9B6F61E65331DBB5EEB2B3EF41C94FD9F33967114BE65EF2D19DB540F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/cybersecurity-analyst/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "44F7CBFDCB216DD29E1AB9355508A74189E90375E3852DDBCE328BCFD4A9BF0A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/cybersecurity-analyst/SKILL.md",
+      "red-blue-team-suite/skills/cybersecurity-analyst/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

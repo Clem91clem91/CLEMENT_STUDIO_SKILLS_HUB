@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.creative-risk-taking.c3ba8cb637a3/SKILL.md",
+  "dependencies": [],
+  "description": "Uses creative risk taking to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1381,
+  "id": "clement.creative-risk-taking.c3ba8cb637a3",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "creative",
+    "creative-risk-taking",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "original",
+    "other",
+    "rights",
+    "risk",
+    "select",
+    "taking",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "creative-risk-taking",
+  "schema_version": "1.0.0",
+  "sha256": "C3BA8CB637A3F1766939460CA4FD3386B488C682B9474AE68ED8BCFB11EE1712",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/creative-risk-taking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0F7DFABED484573392A253EC60E83266C4F9BE8F276B4D875E572FBE8757E2A5",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/creative-risk-taking/SKILL.md",
+      "red-blue-team-suite/skills/creative-risk-taking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

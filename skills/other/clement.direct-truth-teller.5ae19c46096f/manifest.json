@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.direct-truth-teller.5ae19c46096f/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a direct truth teller operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1446,
+  "id": "clement.direct-truth-teller.5ae19c46096f",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "direct",
+    "direct-truth-teller",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "teller",
+    "that",
+    "to",
+    "truth",
+    "user",
+    "while"
+  ],
+  "name": "direct-truth-teller",
+  "schema_version": "1.0.0",
+  "sha256": "5AE19C46096F7052A8DB9E58C819EC0801D226C802A592400D629042EB511371",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/direct-truth-teller/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "44618FF64F89D3D604353604485F0E87E4DC83BC859579DF88281063356DD1CF",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/direct-truth-teller/SKILL.md",
+      "red-blue-team-suite/skills/direct-truth-teller/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

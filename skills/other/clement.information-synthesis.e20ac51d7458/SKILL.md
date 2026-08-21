@@ -1,0 +1,91 @@
+---
+name: information-synthesis
+description: "Uses information synthesis as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality. Use for tasks explicitly involving Information Synthesis."
+---
+
+# Information Synthesis
+
+Apply a named reasoning method to improve problem definition, evidence use, alternatives, and decision quality.
+
+## Activation
+- Use when the user explicitly asks for information synthesis.
+- Use when a task would materially benefit from the methods, standards, or operating style associated with information synthesis.
+- Use when the primary need is better reasoning structure, option quality, evidence handling, or uncertainty calibration.
+
+## Operating instructions
+1. Define the question, decision, or problem boundary in concrete terms.
+2. List known facts, unknowns, assumptions, constraints, and relevant evidence quality.
+3. Apply the named reasoning lens explicitly through structured intermediate artifacts rather than unsupported intuition.
+4. Generate competing hypotheses, interpretations, or solution paths where appropriate.
+5. Test the result against counterexamples, uncertainty, biases, second-order effects, and failure modes.
+6. Select or rank conclusions using transparent criteria and calibrated confidence.
+7. Present a concise rationale, evidence, assumptions, and uncertainty without revealing private chain-of-thought.
+8. Recommend the next observation, test, or decision that would reduce uncertainty most.
+
+## Skill-specific focus
+- Primary capability: Information Synthesis.
+- Primary domain: general.
+- Apply information synthesis as an explicit repeatable protocol.
+- Produce an artifact that another agent or human can review and reuse.
+- State assumptions, uncertainties, and completion criteria.
+
+## Required output
+- **Executive Summary**: Concise answer or decision-ready overview.
+- **Objective And Scope**: Restated objective, scope, constraints, and acceptance criteria.
+- **Inputs And Assumptions**: Evidence used, missing inputs, assumptions, and source dates.
+- **Work Product**: The category-specific deliverable.
+- **Risks And Limitations**: Material risks, uncertainty, limitations, and review triggers.
+- **Quality Checks**: Validation performed and unresolved checks.
+- **Next Actions**: Prioritized actions with suggested owners and timing.
+
+## Quality gate
+- The objective, scope, audience, constraints, and definition of done are explicit.
+- Facts, calculations, assumptions, interpretations, recommendations, and uncertainty are distinguishable.
+- Sources and inputs are traceable, current enough, authorized, and appropriate to the stakes.
+- The deliverable is internally consistent and directly usable by its intended audience.
+- Material risks, limitations, dependencies, and human review triggers are visible.
+- The next actions are prioritized and include ownership or a clear decision request.
+- Quality criterion checked: logical validity.
+- Quality criterion checked: evidence alignment.
+- Quality criterion checked: uncertainty calibration.
+- Quality criterion checked: bias control.
+
+## Safety and authority
+- Respect user authorization, privacy, confidentiality, intellectual property, and applicable law.
+- Ask for confirmation before irreversible, external, destructive, or financially consequential actions.
+- Require explicit user confirmation and appropriate authorization before external, destructive, irreversible, or financially consequential actions.
+- Minimize data, use only authorized information, do not expose secrets or personal data, and preserve confidentiality.
+
+## Do not
+- Do not use when the named skill is irrelevant to the requested outcome merely because a keyword appears in the conversation.
+- Do not fabricate access, experience, credentials, measurements, sources, calculations, or completed actions.
+- Do not continue with material ambiguity when a missing answer would change the result; request the minimum clarification needed.
+- Answering before defining the actual outcome and decision context.
+- Treating assumptions, examples, or model memory as verified facts.
+- Producing generic advice without a concrete artifact, acceptance criteria, or next action.
+- Ignoring missing data, source quality, uncertainty, constraints, or stakeholder authority.
+
+## Progressive disclosure
+- Read [references/knowledge.md](references/knowledge.md) for concepts, source rules, tools, and domain controls.
+- Read [references/workflow.md](references/workflow.md) for the full operating procedure, failure handling, and handoff.
+- Read [references/evaluation.md](references/evaluation.md) before finalizing high-stakes or production work.
+- Read [examples/examples.md](examples/examples.md) when examples or output patterns are needed.
+- Use [assets/output-template.md](assets/output-template.md) as the default deliverable structure.
+- Validate structured inputs and outputs against the JSON Schemas in `schemas/` when integrating programmatically.
+
+## Recommended companion skills
+- $systems-oriented-operator
+- $resourceful-problem-solver
+- $intellectually-humble-expert
+- $critical-thinking
+- $problem-decomposition
+- $uncertainty-management
+- $concise-explanation
+- $stakeholder-communication
+- $root-cause-analysis
+- $scenario-analysis
+- $task-prioritization
+- $progress-tracking
+
+## Invocation arguments
+Apply this skill to the user's current request. When the request is incomplete, infer only low-risk formatting preferences and ask for material missing context.

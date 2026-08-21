@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.active-listening.c1d2a2fd60de/SKILL.md",
+  "dependencies": [],
+  "description": "Uses active listening to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1354,
+  "id": "clement.active-listening.c1d2a2fd60de",
+  "keywords": [
+    "accurate",
+    "action",
+    "active",
+    "active-listening",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "listening",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "active-listening",
+  "schema_version": "1.0.0",
+  "sha256": "C1D2A2FD60DE7671F3D0B1F34D07A1C483F7DD24F63EEC46077DDC5AFBF1CA10",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/active-listening/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C4159BF78C923C4FE8B3ED945BB69E82B7AF8BA9D62DC703A5B65CDC24D2024C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/active-listening/SKILL.md",
+      "red-blue-team-suite/skills/active-listening/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

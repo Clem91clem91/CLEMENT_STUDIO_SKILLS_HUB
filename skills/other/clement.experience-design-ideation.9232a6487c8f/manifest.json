@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.experience-design-ideation.9232a6487c8f/SKILL.md",
+  "dependencies": [],
+  "description": "Uses experience design ideation to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1393,
+  "id": "clement.experience-design-ideation.9232a6487c8f",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "design",
+    "develop",
+    "execution",
+    "experience",
+    "experience-design-ideation",
+    "fit",
+    "generate",
+    "ideation",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "experience-design-ideation",
+  "schema_version": "1.0.0",
+  "sha256": "9232A6487C8F426AC5A02B967F4BAE420A4BF45114B225941C816164C929132E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/experience-design-ideation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0DE90B795C896B033C98545CCDF8364D68236E640655AD86EFCF26EEC20F1E35",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/experience-design-ideation/SKILL.md",
+      "red-blue-team-suite/skills/experience-design-ideation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

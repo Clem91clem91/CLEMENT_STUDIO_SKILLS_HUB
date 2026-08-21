@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.figma-interface-design.ce6372878ecc/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Figma Interface Design, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1451,
+  "id": "clement.figma-interface-design.ce6372878ecc",
+  "keywords": [
+    "and",
+    "built",
+    "design",
+    "designs",
+    "documents",
+    "figma",
+    "figma-interface-design",
+    "implements",
+    "in",
+    "interface",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "figma-interface-design",
+  "schema_version": "1.0.0",
+  "sha256": "CE6372878ECCEE71BE3DB31FB2BBFB9636EFE42613A691F372A931E9B1E10FB6",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/figma-interface-design/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "6C192A1C9E6660F7AEF220B7B4830190138F78E794FF74EE88D88C94B4C3D7AA",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/figma-interface-design/SKILL.md",
+      "red-blue-team-suite/skills/figma-interface-design/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

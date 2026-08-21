@@ -1,0 +1,46 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.csharp-programming.e59e31131c10/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using C# Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1437,
+  "id": "clement.csharp-programming.e59e31131c10",
+  "keywords": [
+    "and",
+    "built",
+    "csharp-programming",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "csharp-programming",
+  "schema_version": "1.0.0",
+  "sha256": "E59E31131C10B5F70970DEED33AD033A24D8486C818D34F419C7EEDE35E53E64",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/csharp-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "F742D3E26B92F5321A39D01CF1FF7953AEB00CA203A218EE585D9CC2344E4565",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/csharp-programming/SKILL.md",
+      "red-blue-team-suite/skills/csharp-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

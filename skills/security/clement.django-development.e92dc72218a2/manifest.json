@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.django-development.e92dc72218a2/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Django Development, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1444,
+  "id": "clement.django-development.e92dc72218a2",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "development",
+    "django",
+    "django-development",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "django-development",
+  "schema_version": "1.0.0",
+  "sha256": "E92DC72218A291508962CDE65B1A884CBF57220DB696A3D5AFBE972A8A7669F0",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/django-development/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "68AE98F605D443D5A0F32329C8DD731158E8AA502989117601C15E33E51B03BF",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/django-development/SKILL.md",
+      "red-blue-team-suite/skills/django-development/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

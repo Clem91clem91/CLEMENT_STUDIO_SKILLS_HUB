@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.distributed-leadership.703cf6b680fc/SKILL.md",
+  "dependencies": [],
+  "description": "Uses distributed leadership to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1371,
+  "id": "clement.distributed-leadership.703cf6b680fc",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "distributed",
+    "distributed-leadership",
+    "leadership",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "distributed-leadership",
+  "schema_version": "1.0.0",
+  "sha256": "703CF6B680FC0543B4DA4AAD0E70D841FDFE0DEF4B3DE2C28E1A1FDBD7C84225",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/distributed-leadership/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "502ACE21CB127DCAA1D3D95DFCE3547E9F496E34886B9476E807CF4A16F1B571",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/distributed-leadership/SKILL.md",
+      "red-blue-team-suite/skills/distributed-leadership/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

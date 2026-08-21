@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.audience-adaptation.bfb81a2ad027/SKILL.md",
+  "dependencies": [],
+  "description": "Uses audience adaptation to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1359,
+  "id": "clement.audience-adaptation.bfb81a2ad027",
+  "keywords": [
+    "accurate",
+    "action",
+    "adaptation",
+    "an",
+    "and",
+    "audience",
+    "audience-adaptation",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "audience-adaptation",
+  "schema_version": "1.0.0",
+  "sha256": "BFB81A2AD027789B7A15224FEF55CEE7D8B27C947FE90E12FA22E713FC4E7037",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/audience-adaptation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "6B77B608BF368932CE27C94AAFC7303796727FE9D2EF4100F7148BF26B6581A7",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/audience-adaptation/SKILL.md",
+      "red-blue-team-suite/skills/audience-adaptation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.remix-thinking.2ec573f5f117/SKILL.md",
+  "dependencies": [],
+  "description": "Uses remix thinking to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1369,
+  "id": "clement.remix-thinking.2ec573f5f117",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "original",
+    "other",
+    "remix",
+    "remix-thinking",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "thinking",
+    "to",
+    "uses"
+  ],
+  "name": "remix-thinking",
+  "schema_version": "1.0.0",
+  "sha256": "2EC573F5F1171B9FE5EEA31D934AA06BA673F8DDB083C813AF34FF7572C34CFD",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/remix-thinking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "1ECF5CAB04531CFFAFD7A37CE6FDD4BCB40719A3A2D11179312AF40E5E7366B9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/remix-thinking/SKILL.md",
+      "red-blue-team-suite/skills/remix-thinking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

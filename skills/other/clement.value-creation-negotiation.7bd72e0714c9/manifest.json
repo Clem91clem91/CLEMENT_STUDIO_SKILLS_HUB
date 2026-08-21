@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.value-creation-negotiation.7bd72e0714c9/SKILL.md",
+  "dependencies": [],
+  "description": "Applies value creation negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1431,
+  "id": "clement.value-creation-negotiation.7bd72e0714c9",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "creation",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to",
+    "value",
+    "value-creation-negotiation"
+  ],
+  "name": "value-creation-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "7BD72E0714C9FB209C217840556955D6FC8822DB2DC0201605BFDB6070451BAC",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/value-creation-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4CB9AC8CBCE14168F8649A61C45A03B04E91BB7A2F221220372026EDE9C35ED6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/value-creation-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/value-creation-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

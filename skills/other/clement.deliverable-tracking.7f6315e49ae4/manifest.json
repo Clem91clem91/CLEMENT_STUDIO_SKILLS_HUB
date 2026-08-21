@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.deliverable-tracking.7f6315e49ae4/SKILL.md",
+  "dependencies": [],
+  "description": "Applies deliverable tracking to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1410,
+  "id": "clement.deliverable-tracking.7f6315e49ae4",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "deliverable",
+    "deliverable-tracking",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "tracking",
+    "work"
+  ],
+  "name": "deliverable-tracking",
+  "schema_version": "1.0.0",
+  "sha256": "7F6315E49AE4D7AA030AFBE982AD638B96958903126E8683DD8745A88CF4BC72",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/deliverable-tracking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "76E264282012F06CC0D6424C8B2BAB2EF36DE947F4FE7C0F37ED378FA7DD59F6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/deliverable-tracking/SKILL.md",
+      "red-blue-team-suite/skills/deliverable-tracking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

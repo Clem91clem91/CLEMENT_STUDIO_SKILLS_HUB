@@ -1,0 +1,47 @@
+{
+  "category": "orchestration",
+  "conflicts": [],
+  "content_path": "skills/orchestration/clement.agent-orchestration.db91fa689e0d/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Agent Orchestration, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1738,
+  "id": "clement.agent-orchestration.db91fa689e0d",
+  "keywords": [
+    "agent",
+    "agent-orchestration",
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "orchestration",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "agent-orchestration",
+  "schema_version": "1.0.0",
+  "sha256": "DB91FA689E0D330B0BF59C5357913152F3C1EE892280024C52F61BC3C55411C7",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/agent-orchestration/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "57300D1CBE444FBDD9FD46665DB33A55B4644D6F7644359E5A4C6D2FB1556B94",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/agent-orchestration/SKILL.md",
+      "red-blue-team-suite/skills/agent-orchestration/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

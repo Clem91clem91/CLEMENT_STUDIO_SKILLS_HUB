@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.concise-explanation.636c1897df85/SKILL.md",
+  "dependencies": [],
+  "description": "Uses concise explanation to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1365,
+  "id": "clement.concise-explanation.636c1897df85",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "concise",
+    "concise-explanation",
+    "create",
+    "explanation",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "concise-explanation",
+  "schema_version": "1.0.0",
+  "sha256": "636C1897DF85000E8F3C09DA986CA17B8A59F4502985C6F315066C16FAD48A33",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/concise-explanation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "ED732BFDC3B95C840FDC3FDE754DCCBCCE875172A66B619A488245A7777DFA82",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/concise-explanation/SKILL.md",
+      "red-blue-team-suite/skills/concise-explanation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.polars-data-processing.912140b9c836/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Polars Data Processing, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1440,
+  "id": "clement.polars-data-processing.912140b9c836",
+  "keywords": [
+    "and",
+    "built",
+    "data",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "polars",
+    "polars-data-processing",
+    "processing",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "polars-data-processing",
+  "schema_version": "1.0.0",
+  "sha256": "912140B9C83627F28CF325BD0B55FC3F4138CE54B7EBCC3C3DE8F85E52C11D70",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/polars-data-processing/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B415BFC10B44B1E7CA55DE381F8A125611AA49905F74762D0A513BD9D2B9C7E5",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/polars-data-processing/SKILL.md",
+      "red-blue-team-suite/skills/polars-data-processing/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

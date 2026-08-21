@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.imagination-expansion.a52c7656f44d/SKILL.md",
+  "dependencies": [],
+  "description": "Uses imagination expansion to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1383,
+  "id": "clement.imagination-expansion.a52c7656f44d",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "expansion",
+    "fit",
+    "generate",
+    "imagination",
+    "imagination-expansion",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "imagination-expansion",
+  "schema_version": "1.0.0",
+  "sha256": "A52C7656F44DB9F000AA320254B75E90C1526152BB6779B5A95F5072E62C2C2B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/imagination-expansion/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "1A88A7CFF58D3A3B56F0B1BB934757E0EFD04FBEBAA5561E03A0E05847CED591",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/imagination-expansion/SKILL.md",
+      "red-blue-team-suite/skills/imagination-expansion/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

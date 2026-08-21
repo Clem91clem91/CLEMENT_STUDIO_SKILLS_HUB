@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.qdrant-vector-database.5b7dbc13bda5/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Qdrant Vector Database, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1440,
+  "id": "clement.qdrant-vector-database.5b7dbc13bda5",
+  "keywords": [
+    "and",
+    "built",
+    "database",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "qdrant",
+    "qdrant-vector-database",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "vector",
+    "verification",
+    "with"
+  ],
+  "name": "qdrant-vector-database",
+  "schema_version": "1.0.0",
+  "sha256": "5B7DBC13BDA5DDEB89271492BD9504576DAFE7FC9634C2C190AE470EEBD66EA6",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/qdrant-vector-database/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "358CF7990C55DBF3C5E71EC7599AB91D5A1E52C4B38B07E89199C73FC400F3B4",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/qdrant-vector-database/SKILL.md",
+      "red-blue-team-suite/skills/qdrant-vector-database/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

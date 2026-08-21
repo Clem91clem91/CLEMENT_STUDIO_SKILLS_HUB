@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.brand-concept-creation.531a2120612f/SKILL.md",
+  "dependencies": [],
+  "description": "Uses brand concept creation to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1380,
+  "id": "clement.brand-concept-creation.531a2120612f",
+  "keywords": [
+    "and",
+    "audience",
+    "brand",
+    "brand-concept-creation",
+    "brief",
+    "concept",
+    "concepts",
+    "constraints",
+    "creation",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "brand-concept-creation",
+  "schema_version": "1.0.0",
+  "sha256": "531A2120612F375C993659C9EE1E8A6414B8FFC73C3617C12E223FDA28B7EB51",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/brand-concept-creation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "FBA8380B28C2797789B7B1B38DD0EB8EFB0CBA53883602C51C3506C74E57751E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/brand-concept-creation/SKILL.md",
+      "red-blue-team-suite/skills/brand-concept-creation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

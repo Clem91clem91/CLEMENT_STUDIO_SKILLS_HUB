@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.microservices-architecture.8888ddcb49ec/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Microservices Architecture, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1459,
+  "id": "clement.microservices-architecture.8888ddcb49ec",
+  "keywords": [
+    "and",
+    "architecture",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "microservices",
+    "microservices-architecture",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "microservices-architecture",
+  "schema_version": "1.0.0",
+  "sha256": "8888DDCB49EC30D8E75308525F9F8690F1A5A7239AB3FC87F53ED960B8EF3C37",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/microservices-architecture/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "190757A3EDC676D44F20D7B7FDC3F1395B5418C3881B3C84E2F66D92FC26182D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/microservices-architecture/SKILL.md",
+      "red-blue-team-suite/skills/microservices-architecture/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

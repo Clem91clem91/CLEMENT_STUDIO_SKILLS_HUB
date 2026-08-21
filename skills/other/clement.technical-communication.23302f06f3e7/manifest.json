@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.technical-communication.23302f06f3e7/SKILL.md",
+  "dependencies": [],
+  "description": "Uses technical communication to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1373,
+  "id": "clement.technical-communication.23302f06f3e7",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "technical",
+    "technical-communication",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "technical-communication",
+  "schema_version": "1.0.0",
+  "sha256": "23302F06F3E7E01BEBD0844B540116D6669F90AAF8701F1E5EC864917EA5C0EF",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/technical-communication/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "81733D6CB33C38718F224552719E2DE2912459A6BD3A5F902FE37EC9EEA84363",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/technical-communication/SKILL.md",
+      "red-blue-team-suite/skills/technical-communication/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

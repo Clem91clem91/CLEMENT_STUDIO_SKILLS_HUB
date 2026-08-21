@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.progress-tracking.71deba42993b/SKILL.md",
+  "dependencies": [],
+  "description": "Applies progress tracking to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1399,
+  "id": "clement.progress-tracking.71deba42993b",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "progress-tracking",
+    "quality",
+    "structured",
+    "to",
+    "tracking",
+    "work"
+  ],
+  "name": "progress-tracking",
+  "schema_version": "1.0.0",
+  "sha256": "71DEBA42993B8DBAF7CB5C69EB9CCA5D749CCD30EA585E3AD7547A9F9810D956",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/progress-tracking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "55A223AB52346BB123DB51DD59A0BDF832D58C321E3A8BFA57156E125E7F51F6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/progress-tracking/SKILL.md",
+      "red-blue-team-suite/skills/progress-tracking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

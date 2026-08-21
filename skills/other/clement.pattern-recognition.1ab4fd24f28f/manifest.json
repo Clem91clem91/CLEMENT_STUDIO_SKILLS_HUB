@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.pattern-recognition.1ab4fd24f28f/SKILL.md",
+  "dependencies": [],
+  "description": "Uses pattern recognition as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1382,
+  "id": "clement.pattern-recognition.1ab4fd24f28f",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "pattern",
+    "pattern-recognition",
+    "protocol",
+    "quality",
+    "reasoning",
+    "recognition",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "pattern-recognition",
+  "schema_version": "1.0.0",
+  "sha256": "1AB4FD24F28FA5107EF31895B3DD857B56051B944DE8FC4476A9C6B580B7B521",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/pattern-recognition/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "375836F808FBD9D2824606DEDE7D04162DD4C3F9BA5EB1F20BD5D88E93DA05A1",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/pattern-recognition/SKILL.md",
+      "red-blue-team-suite/skills/pattern-recognition/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

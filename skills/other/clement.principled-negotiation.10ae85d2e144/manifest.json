@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.principled-negotiation.10ae85d2e144/SKILL.md",
+  "dependencies": [],
+  "description": "Applies principled negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1423,
+  "id": "clement.principled-negotiation.10ae85d2e144",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "principled",
+    "principled-negotiation",
+    "risk",
+    "to"
+  ],
+  "name": "principled-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "10AE85D2E144274E577918E265528019F7D628A21C07D2318BCEF39D03AC8542",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/principled-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "11AD2D5A5FBD3A563FA657BFF5EEBB0D0BB57BB11FAC8B11D7308E9C288502A1",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/principled-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/principled-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

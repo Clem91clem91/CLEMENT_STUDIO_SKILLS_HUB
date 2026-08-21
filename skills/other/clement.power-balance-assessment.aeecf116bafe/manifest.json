@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.power-balance-assessment.aeecf116bafe/SKILL.md",
+  "dependencies": [],
+  "description": "Applies power balance assessment to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1427,
+  "id": "clement.power-balance-assessment.aeecf116bafe",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "assessment",
+    "balance",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "other",
+    "packages",
+    "power",
+    "power-balance-assessment",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "power-balance-assessment",
+  "schema_version": "1.0.0",
+  "sha256": "AEECF116BAFE9165BEC4114BE36FE2AAED0E6FB5CF839656DD092C7D76466EEE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/power-balance-assessment/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "185B4CEB168A0C6BAE45C378DD0D024C0A025DAAAE78F3AD39A7A2929B2E1096",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/power-balance-assessment/SKILL.md",
+      "red-blue-team-suite/skills/power-balance-assessment/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

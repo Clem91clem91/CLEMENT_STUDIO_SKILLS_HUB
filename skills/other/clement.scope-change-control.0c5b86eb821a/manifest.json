@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.scope-change-control.0c5b86eb821a/SKILL.md",
+  "dependencies": [],
+  "description": "Applies scope change control to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1410,
+  "id": "clement.scope-change-control.0c5b86eb821a",
+  "keywords": [
+    "and",
+    "applies",
+    "change",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "scope",
+    "scope-change-control",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "scope-change-control",
+  "schema_version": "1.0.0",
+  "sha256": "0C5B86EB821AF41D389F0D374801A8E24BA192BDFE84BA2667039EE06AB26B7F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/scope-change-control/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8A95F3ED21A839FA73C6597338B34832A6463FAB8F38B65F38D64F02132D9259",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/scope-change-control/SKILL.md",
+      "red-blue-team-suite/skills/scope-change-control/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

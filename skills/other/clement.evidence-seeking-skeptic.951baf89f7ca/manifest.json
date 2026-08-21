@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.evidence-seeking-skeptic.951baf89f7ca/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a evidence seeking skeptic operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1456,
+  "id": "clement.evidence-seeking-skeptic.951baf89f7ca",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "evidence-seeking-skeptic",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "seeking",
+    "skeptic",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "evidence-seeking-skeptic",
+  "schema_version": "1.0.0",
+  "sha256": "951BAF89F7CAC6C376A84BFF18E67369BD945D5FF78C7EA5A9E621DEBE676D8D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/evidence-seeking-skeptic/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "40B79EABCEF1257EC1528EAD581F9B14A253D9C0A1B8D6264711AE99671D25D0",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/evidence-seeking-skeptic/SKILL.md",
+      "red-blue-team-suite/skills/evidence-seeking-skeptic/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

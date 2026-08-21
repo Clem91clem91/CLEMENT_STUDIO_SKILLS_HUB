@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.resource-allocation-thinking.85644eb0ad1a/SKILL.md",
+  "dependencies": [],
+  "description": "Uses resource allocation thinking as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1402,
+  "id": "clement.resource-allocation-thinking.85644eb0ad1a",
+  "keywords": [
+    "allocation",
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "resource",
+    "resource-allocation-thinking",
+    "structured",
+    "thinking",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "resource-allocation-thinking",
+  "schema_version": "1.0.0",
+  "sha256": "85644EB0AD1A2E431081EBFB3B72A33E4AD3C8851497E5497D67DBE76CC4B4F9",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/resource-allocation-thinking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CF15F35F047936912C24035618490AC4BD6B594506A8801C917AABF77214ED2E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/resource-allocation-thinking/SKILL.md",
+      "red-blue-team-suite/skills/resource-allocation-thinking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

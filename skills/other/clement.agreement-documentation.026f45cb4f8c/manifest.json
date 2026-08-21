@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.agreement-documentation.026f45cb4f8c/SKILL.md",
+  "dependencies": [],
+  "description": "Applies agreement documentation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1425,
+  "id": "clement.agreement-documentation.026f45cb4f8c",
+  "keywords": [
+    "agreement",
+    "agreement-documentation",
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "documentation",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "agreement-documentation",
+  "schema_version": "1.0.0",
+  "sha256": "026F45CB4F8C87A38CDD29DCFE89E99D54D8EC683367B79305F12760F01D3ADB",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/agreement-documentation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "2A33466043E503C60E419E6A307E39857AF928F36692D242B7990EBA519D9926",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/agreement-documentation/SKILL.md",
+      "red-blue-team-suite/skills/agreement-documentation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

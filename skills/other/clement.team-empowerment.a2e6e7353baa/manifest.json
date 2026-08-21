@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.team-empowerment.a2e6e7353baa/SKILL.md",
+  "dependencies": [],
+  "description": "Uses team empowerment to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1359,
+  "id": "clement.team-empowerment.a2e6e7353baa",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "empowerment",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "team",
+    "team-empowerment",
+    "to",
+    "uses"
+  ],
+  "name": "team-empowerment",
+  "schema_version": "1.0.0",
+  "sha256": "A2E6E7353BAA81E0E050CCE4864E7965C4A9F2B5F7E03EED6A858D685BF4AFCC",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/team-empowerment/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A571B26F88E338964EDF03AB094E9216834B5A3AEF1E1020413368597DE38B5C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/team-empowerment/SKILL.md",
+      "red-blue-team-suite/skills/team-empowerment/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

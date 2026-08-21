@@ -1,0 +1,47 @@
+{
+  "category": "comfyui",
+  "conflicts": [],
+  "content_path": "skills/comfyui/clement.comfyui-workflows.564afb48bd27/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Comfyui Workflows, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1441,
+  "id": "clement.comfyui-workflows.564afb48bd27",
+  "keywords": [
+    "and",
+    "built",
+    "comfyui",
+    "comfyui-workflows",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with",
+    "workflows"
+  ],
+  "name": "comfyui-workflows",
+  "schema_version": "1.0.0",
+  "sha256": "564AFB48BD27675E36212614784BB6E1511AFAED6142204B47721A1B3A99D16A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/comfyui-workflows/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C38B3D8E34D5F1DF7A257E25E68F4642D99384AE9DC98EE6793BFD951AB3828C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/comfyui-workflows/SKILL.md",
+      "red-blue-team-suite/skills/comfyui-workflows/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

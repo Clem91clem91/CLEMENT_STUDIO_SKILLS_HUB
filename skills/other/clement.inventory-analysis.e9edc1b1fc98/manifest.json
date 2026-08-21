@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.inventory-analysis.e9edc1b1fc98/SKILL.md",
+  "dependencies": [],
+  "description": "Performs inventory analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1403,
+  "id": "clement.inventory-analysis.e9edc1b1fc98",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "inventory",
+    "inventory-analysis",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "inventory-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "E9EDC1B1FC98A96DE0774F8E9E3B70DECE94403E70F7AD63920049B784C033A2",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/inventory-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "FE0ED56CDD70FF9E64CF383B1F91C806CDCE010F4423507D3D4D3C69CEC9031E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/inventory-analysis/SKILL.md",
+      "red-blue-team-suite/skills/inventory-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.portfolio-analysis.55521400b122/SKILL.md",
+  "dependencies": [],
+  "description": "Performs portfolio analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1403,
+  "id": "clement.portfolio-analysis.55521400b122",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "portfolio",
+    "portfolio-analysis",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "portfolio-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "55521400B1225865A9AA2D80C02FC9B345DC1D071334BCD04373FBCA9E1CA1F6",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/portfolio-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B0C8E542E3E2A0296C903E877F8D9C5AB3672B678EDC53B6C447E9FB14D319BD",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/portfolio-analysis/SKILL.md",
+      "red-blue-team-suite/skills/portfolio-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

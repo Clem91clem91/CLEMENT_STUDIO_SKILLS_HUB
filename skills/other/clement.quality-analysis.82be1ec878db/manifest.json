@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.quality-analysis.82be1ec878db/SKILL.md",
+  "dependencies": [],
+  "description": "Performs quality analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1399,
+  "id": "clement.quality-analysis.82be1ec878db",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "quality",
+    "quality-analysis",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "quality-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "82BE1EC878DBC8C51EE5620C00F185D8B994B638671E1CB3EAC8AD6A02AA9144",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/quality-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0AC4B5356CFF1E120182D974A7C3256D1AE298E9FCCA69F7C4470B862DF78599",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/quality-analysis/SKILL.md",
+      "red-blue-team-suite/skills/quality-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

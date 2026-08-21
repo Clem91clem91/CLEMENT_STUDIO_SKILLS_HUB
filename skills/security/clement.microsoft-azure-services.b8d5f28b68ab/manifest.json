@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.microsoft-azure-services.b8d5f28b68ab/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Microsoft Azure Services, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1456,
+  "id": "clement.microsoft-azure-services.b8d5f28b68ab",
+  "keywords": [
+    "and",
+    "azure",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "microsoft",
+    "microsoft-azure-services",
+    "operates",
+    "reproducibility",
+    "security",
+    "services",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "microsoft-azure-services",
+  "schema_version": "1.0.0",
+  "sha256": "B8D5F28B68ABEE20FB20D282107EE0D6646E03E2F424A0D04C584EDBA07E786B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/microsoft-azure-services/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B8D24BD0A4EA7F6BAF33C6DBA7D83BE61A94CD7951218861A26C4BD3FE281E99",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/microsoft-azure-services/SKILL.md",
+      "red-blue-team-suite/skills/microsoft-azure-services/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

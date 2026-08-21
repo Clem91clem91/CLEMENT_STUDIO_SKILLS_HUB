@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.term-sheet-negotiation.f62a4d0c96e2/SKILL.md",
+  "dependencies": [],
+  "description": "Applies term sheet negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1423,
+  "id": "clement.term-sheet-negotiation.f62a4d0c96e2",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "sheet",
+    "term",
+    "term-sheet-negotiation",
+    "to"
+  ],
+  "name": "term-sheet-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "F62A4D0C96E2E210CD35916024F5B21E9E3A32A64FA98D0FC23F3E788909CEFE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/term-sheet-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "328248AAB02AC947F05A26AD82724FF7A2E0EB0509B189DA65F96D23A1C79F18",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/term-sheet-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/term-sheet-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

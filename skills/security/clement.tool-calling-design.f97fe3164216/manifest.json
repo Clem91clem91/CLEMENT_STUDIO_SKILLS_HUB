@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.tool-calling-design.f97fe3164216/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Tool Calling Design, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1445,
+  "id": "clement.tool-calling-design.f97fe3164216",
+  "keywords": [
+    "and",
+    "built",
+    "calling",
+    "design",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "tool",
+    "tool-calling-design",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "tool-calling-design",
+  "schema_version": "1.0.0",
+  "sha256": "F97FE31642160C144EC4C46D4EA0F1A0EE1E41E0C835C112EEF62D5DA43BAB51",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/tool-calling-design/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "358038CAE862B9069B04BADFA89D9EE9443DADC111E884DB8C1AE19CC561B120",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/tool-calling-design/SKILL.md",
+      "red-blue-team-suite/skills/tool-calling-design/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

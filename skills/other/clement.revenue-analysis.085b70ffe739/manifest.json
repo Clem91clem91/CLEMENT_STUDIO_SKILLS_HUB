@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.revenue-analysis.085b70ffe739/SKILL.md",
+  "dependencies": [],
+  "description": "Performs revenue analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1399,
+  "id": "clement.revenue-analysis.085b70ffe739",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "revenue",
+    "revenue-analysis",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "revenue-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "085B70FFE739A757C61EAA7B621C150F28AA42A0EDABC3115D6E1A90DBFDECDB",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/revenue-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0E17BFD2DDFEC78AA5A91C4F549E905CFBF70C1AD92C12B8EF6C38923B68A8C5",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/revenue-analysis/SKILL.md",
+      "red-blue-team-suite/skills/revenue-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.capacity-planning.512c46826e1e/SKILL.md",
+  "dependencies": [],
+  "description": "Applies capacity planning to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1404,
+  "id": "clement.capacity-planning.512c46826e1e",
+  "keywords": [
+    "and",
+    "applies",
+    "capacity",
+    "capacity-planning",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "planning",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "capacity-planning",
+  "schema_version": "1.0.0",
+  "sha256": "512C46826E1E0BC3E835422B9311DCD4D8B6D8037F5C29DA9BBC9AE16CAD4EA1",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/capacity-planning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CBABBAEB02F8E9962A9D018164915B65CA01CF0FCF7949134CB948C8AF7B72E6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/capacity-planning/SKILL.md",
+      "red-blue-team-suite/skills/capacity-planning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

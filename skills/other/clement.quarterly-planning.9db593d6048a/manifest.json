@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.quarterly-planning.9db593d6048a/SKILL.md",
+  "dependencies": [],
+  "description": "Applies quarterly planning to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1406,
+  "id": "clement.quarterly-planning.9db593d6048a",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "planning",
+    "progress",
+    "quality",
+    "quarterly",
+    "quarterly-planning",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "quarterly-planning",
+  "schema_version": "1.0.0",
+  "sha256": "9DB593D6048AA950AEA4B98B313E8EC3C9FCD4F48E2137918F132FB7A014CD26",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/quarterly-planning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0DA54D5462F8760C7F44BB2FD32395ACBF61E185E01EC1688DF6901A8DE08806",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/quarterly-planning/SKILL.md",
+      "red-blue-team-suite/skills/quarterly-planning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

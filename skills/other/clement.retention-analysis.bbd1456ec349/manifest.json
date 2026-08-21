@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.retention-analysis.bbd1456ec349/SKILL.md",
+  "dependencies": [],
+  "description": "Performs retention analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1395,
+  "id": "clement.retention-analysis.bbd1456ec349",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "retention",
+    "retention-analysis",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "retention-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "BBD1456EC349A79A980D94E9C7E42D5B29EF69BEB236B70E5844DB8847CF1B19",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/retention-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A25B12607B4B17B1EA2075573FE9345999FEFE85A0FAAAC04A9CDA2D3740C27F",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/retention-analysis/SKILL.md",
+      "red-blue-team-suite/skills/retention-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

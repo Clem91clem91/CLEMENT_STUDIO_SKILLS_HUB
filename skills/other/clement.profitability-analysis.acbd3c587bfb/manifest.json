@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.profitability-analysis.acbd3c587bfb/SKILL.md",
+  "dependencies": [],
+  "description": "Performs profitability analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1411,
+  "id": "clement.profitability-analysis.acbd3c587bfb",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "profitability",
+    "profitability-analysis",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "profitability-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "ACBD3C587BFB57E3AB940740727669E68B5AFCF146EC3C77A1A6C999F10B9E13",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/profitability-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C58927D74491913C8D57853FB40B63998B025DBB719C1089B4B215CB9CC4A51E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/profitability-analysis/SKILL.md",
+      "red-blue-team-suite/skills/profitability-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.verbal-reasoning.34a809c6345a/SKILL.md",
+  "dependencies": [],
+  "description": "Uses verbal reasoning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1376,
+  "id": "clement.verbal-reasoning.34a809c6345a",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses",
+    "verbal",
+    "verbal-reasoning"
+  ],
+  "name": "verbal-reasoning",
+  "schema_version": "1.0.0",
+  "sha256": "34A809C6345A481774B91C435F8EE0BF025BBEC18657AE45076EE85BF469EDB0",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/verbal-reasoning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "F7F3A2A088872593DF96833655FC8E1EFAD6487A2B33C19A8B89793EF8E593B9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/verbal-reasoning/SKILL.md",
+      "red-blue-team-suite/skills/verbal-reasoning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

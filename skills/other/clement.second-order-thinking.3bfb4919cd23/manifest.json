@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.second-order-thinking.3bfb4919cd23/SKILL.md",
+  "dependencies": [],
+  "description": "Uses second order thinking as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1386,
+  "id": "clement.second-order-thinking.3bfb4919cd23",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "order",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "second",
+    "second-order-thinking",
+    "structured",
+    "thinking",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "second-order-thinking",
+  "schema_version": "1.0.0",
+  "sha256": "3BFB4919CD235B273BA139CE78C32EEC4C9C74DC72EA258905426F81768929C7",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/second-order-thinking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "F6BDC00BEE157C71A3052781F581CB3A15A60B548A06566F60A406FCCD22CB39",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/second-order-thinking/SKILL.md",
+      "red-blue-team-suite/skills/second-order-thinking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

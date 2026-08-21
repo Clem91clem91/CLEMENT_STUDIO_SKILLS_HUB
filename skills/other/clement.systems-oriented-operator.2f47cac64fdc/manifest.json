@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.systems-oriented-operator.2f47cac64fdc/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a systems oriented operator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1456,
+  "id": "clement.systems-oriented-operator.2f47cac64fdc",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "operator",
+    "oriented",
+    "other",
+    "preserving",
+    "style",
+    "systems",
+    "systems-oriented-operator",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "systems-oriented-operator",
+  "schema_version": "1.0.0",
+  "sha256": "2F47CAC64FDC8BB27C8F98D010783E521620154E760394A32370C6C3FB894A30",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/systems-oriented-operator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D8931A3000FEC64790138E011A562874836676ECB392E9A00148108E82AA7B45",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/systems-oriented-operator/SKILL.md",
+      "red-blue-team-suite/skills/systems-oriented-operator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

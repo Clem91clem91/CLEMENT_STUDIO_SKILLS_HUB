@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.intellectually-humble-expert.3429e2ae2a0b/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a intellectually humble expert operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1528,
+  "id": "clement.intellectually-humble-expert.3429e2ae2a0b",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "expert",
+    "humble",
+    "intellectually",
+    "intellectually-humble-expert",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "intellectually-humble-expert",
+  "schema_version": "1.0.0",
+  "sha256": "3429E2AE2A0B1CFF7BB75100B658CB478B0AE0430006A53B4B53D89EE47964BE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/intellectually-humble-expert/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "2CBA7C4B0286892727C36AB0AF61EE7535D92ACF8BF2CB9B19CC2D8E68A0D473",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/intellectually-humble-expert/SKILL.md",
+      "red-blue-team-suite/skills/intellectually-humble-expert/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

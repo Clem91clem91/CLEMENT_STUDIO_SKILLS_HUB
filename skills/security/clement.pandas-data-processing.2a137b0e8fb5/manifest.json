@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.pandas-data-processing.2a137b0e8fb5/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Pandas Data Processing, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1440,
+  "id": "clement.pandas-data-processing.2a137b0e8fb5",
+  "keywords": [
+    "and",
+    "built",
+    "data",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "pandas",
+    "pandas-data-processing",
+    "processing",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "pandas-data-processing",
+  "schema_version": "1.0.0",
+  "sha256": "2A137B0E8FB5900EEDA88D3F494B55C35C557FD60549A8B69CA8DEA58B4DEE60",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/pandas-data-processing/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "EDFA94C67C8CC4905DAAB1916FBFCE063BEE867E1DF9476A195E8AB2BFF2F868",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/pandas-data-processing/SKILL.md",
+      "red-blue-team-suite/skills/pandas-data-processing/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

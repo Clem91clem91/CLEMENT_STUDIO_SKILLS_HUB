@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.proposal-writing.e5a7dd467ffd/SKILL.md",
+  "dependencies": [],
+  "description": "Uses proposal writing to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1359,
+  "id": "clement.proposal-writing.e5a7dd467ffd",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "proposal",
+    "proposal-writing",
+    "to",
+    "tone",
+    "uses",
+    "with",
+    "writing"
+  ],
+  "name": "proposal-writing",
+  "schema_version": "1.0.0",
+  "sha256": "E5A7DD467FFDC7061B4BC253C6DCA26D83026F391A98568A509F2EB58163B341",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/proposal-writing/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5D3074D49BF9696EB79363355B2C63EAB2943968A335E90E9B9A007611CCF783",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/proposal-writing/SKILL.md",
+      "red-blue-team-suite/skills/proposal-writing/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

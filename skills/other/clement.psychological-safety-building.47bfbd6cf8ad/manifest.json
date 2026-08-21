@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.psychological-safety-building.47bfbd6cf8ad/SKILL.md",
+  "dependencies": [],
+  "description": "Uses psychological safety building to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1385,
+  "id": "clement.psychological-safety-building.47bfbd6cf8ad",
+  "keywords": [
+    "align",
+    "and",
+    "building",
+    "cadence",
+    "culture",
+    "decisions",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "psychological",
+    "psychological-safety-building",
+    "safety",
+    "to",
+    "uses"
+  ],
+  "name": "psychological-safety-building",
+  "schema_version": "1.0.0",
+  "sha256": "47BFBD6CF8AD3B77E7E803EE54CDC5FF2056B525772763363D73F940274519F0",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/psychological-safety-building/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "3D774FAA9BB7A939B814147CD28951D6C84F98079FD6E295708B7D3F89D430C6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/psychological-safety-building/SKILL.md",
+      "red-blue-team-suite/skills/psychological-safety-building/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

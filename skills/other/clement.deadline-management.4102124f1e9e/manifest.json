@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.deadline-management.4102124f1e9e/SKILL.md",
+  "dependencies": [],
+  "description": "Applies deadline management to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1408,
+  "id": "clement.deadline-management.4102124f1e9e",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "deadline",
+    "deadline-management",
+    "documented",
+    "into",
+    "management",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "deadline-management",
+  "schema_version": "1.0.0",
+  "sha256": "4102124F1E9E4EDF64BCACEA06F191A2A0FF43B9411A98E42F7A05BFC5BA7A62",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/deadline-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "6B83563B949F0A50C5DFDF4FC12607E20C0B707C10F232F2F637F6E5F64AFBDA",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/deadline-management/SKILL.md",
+      "red-blue-team-suite/skills/deadline-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

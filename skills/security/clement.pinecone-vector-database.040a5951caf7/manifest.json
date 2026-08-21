@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.pinecone-vector-database.040a5951caf7/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Pinecone Vector Database, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1444,
+  "id": "clement.pinecone-vector-database.040a5951caf7",
+  "keywords": [
+    "and",
+    "built",
+    "database",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "pinecone",
+    "pinecone-vector-database",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "vector",
+    "verification",
+    "with"
+  ],
+  "name": "pinecone-vector-database",
+  "schema_version": "1.0.0",
+  "sha256": "040A5951CAF772B341817C39FD9A70111A47F81AFDC7A3081D5959D8D9FE8D6C",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/pinecone-vector-database/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4577685BBDFE0E8527789821E4C15FE1482293ECB0C64D69DD4F518DCF29B96F",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/pinecone-vector-database/SKILL.md",
+      "red-blue-team-suite/skills/pinecone-vector-database/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

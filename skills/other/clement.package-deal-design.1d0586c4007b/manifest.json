@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.package-deal-design.1d0586c4007b/SKILL.md",
+  "dependencies": [],
+  "description": "Applies package deal design to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1430,
+  "id": "clement.package-deal-design.1d0586c4007b",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "deal",
+    "design",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "other",
+    "package",
+    "package-deal-design",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "package-deal-design",
+  "schema_version": "1.0.0",
+  "sha256": "1D0586C4007BE9C49C1FA67C9FA9F7BE4AD74DCD8C3D4CD3BDBFB4B7A990836A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/package-deal-design/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "2C10ACC3071153C096FE47B2354FBDE7065F7CC61720DFBE7060F4AE06380162",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/package-deal-design/SKILL.md",
+      "red-blue-team-suite/skills/package-deal-design/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.problem-reframing.b46a454d1ae0/SKILL.md",
+  "dependencies": [],
+  "description": "Uses problem reframing as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1378,
+  "id": "clement.problem-reframing.b46a454d1ae0",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "problem",
+    "problem-reframing",
+    "protocol",
+    "quality",
+    "reasoning",
+    "reframing",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "problem-reframing",
+  "schema_version": "1.0.0",
+  "sha256": "B46A454D1AE0578AB4C7F2E4CABEE59936B93A1EF1ED28BD78EDCDB6D3DCD967",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/problem-reframing/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "747FC82E0C3CD79BBC7E693D9E7FF34003A89886D95477A249E5F7A3396695D9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/problem-reframing/SKILL.md",
+      "red-blue-team-suite/skills/problem-reframing/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.geospatial-analysis.0d7d75ea654b/SKILL.md",
+  "dependencies": [],
+  "description": "Performs geospatial analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1397,
+  "id": "clement.geospatial-analysis.0d7d75ea654b",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "geospatial",
+    "geospatial-analysis",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "geospatial-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "0D7D75EA654B2493D9DFBCE228A52E96F2C7EE2601A7ABACB3D573EA18604936",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/geospatial-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CEED4D71D1629AF34358AE856BC25D01AD2F914C057502A2C555C5F86206E135",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/geospatial-analysis/SKILL.md",
+      "red-blue-team-suite/skills/geospatial-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

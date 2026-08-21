@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.complex-idea-simplification.714b88198091/SKILL.md",
+  "dependencies": [],
+  "description": "Uses complex idea simplification to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1381,
+  "id": "clement.complex-idea-simplification.714b88198091",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "complex",
+    "complex-idea-simplification",
+    "create",
+    "explicit",
+    "feedback",
+    "idea",
+    "loop",
+    "objective",
+    "other",
+    "simplification",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "complex-idea-simplification",
+  "schema_version": "1.0.0",
+  "sha256": "714B8819809178766468770763EAEEA8D9FB52334DF512FFFBDDE6D90A0A5F2B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/complex-idea-simplification/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "6A05845B373E77BC7B61AB0C4EB39E916620A315CCCF4687F3CAEFF67A2558A9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/complex-idea-simplification/SKILL.md",
+      "red-blue-team-suite/skills/complex-idea-simplification/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

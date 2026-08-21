@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.cohort-analysis.4be5b4cb4e4b/SKILL.md",
+  "dependencies": [],
+  "description": "Performs cohort analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1389,
+  "id": "clement.cohort-analysis.4be5b4cb4e4b",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "cohort",
+    "cohort-analysis",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "cohort-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "4BE5B4CB4E4BBC42EB7069744D54AB149210D96E00B08C58EA70DF964BFAE69C",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/cohort-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B6BA19B2D487CB1EFCE0AEEBC9A0FDA3A4D48D445038BF9BB62C4A2720E89F13",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/cohort-analysis/SKILL.md",
+      "red-blue-team-suite/skills/cohort-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

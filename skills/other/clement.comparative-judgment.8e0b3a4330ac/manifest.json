@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.comparative-judgment.8e0b3a4330ac/SKILL.md",
+  "dependencies": [],
+  "description": "Uses comparative judgment as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1384,
+  "id": "clement.comparative-judgment.8e0b3a4330ac",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "comparative",
+    "comparative-judgment",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "judgment",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "comparative-judgment",
+  "schema_version": "1.0.0",
+  "sha256": "8E0B3A4330ACF224F57F859F9D9AE877D41C1E86150981335A3614B4976B7AE0",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/comparative-judgment/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "379087F32E487DBEFD0A02455A925A373A916F8CBD6490AA99AC6CA6D9246B9B",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/comparative-judgment/SKILL.md",
+      "red-blue-team-suite/skills/comparative-judgment/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

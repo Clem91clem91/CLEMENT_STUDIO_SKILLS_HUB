@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.scale-obsessed-operator.c58e3d751f23/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a scale obsessed operator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1454,
+  "id": "clement.scale-obsessed-operator.c58e3d751f23",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "obsessed",
+    "operating",
+    "operator",
+    "other",
+    "preserving",
+    "scale",
+    "scale-obsessed-operator",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "scale-obsessed-operator",
+  "schema_version": "1.0.0",
+  "sha256": "C58E3D751F23B0A10CD943A71CB4229BC19649936F764E1B2F6678233D98171B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/scale-obsessed-operator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CDB25734447ED19ED235988928B117C23061FD72CF3B1AA229F99CECF59A87A1",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/scale-obsessed-operator/SKILL.md",
+      "red-blue-team-suite/skills/scale-obsessed-operator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

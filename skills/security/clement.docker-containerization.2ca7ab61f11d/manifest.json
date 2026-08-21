@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.docker-containerization.2ca7ab61f11d/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Docker Containerization, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1454,
+  "id": "clement.docker-containerization.2ca7ab61f11d",
+  "keywords": [
+    "and",
+    "built",
+    "containerization",
+    "designs",
+    "docker",
+    "docker-containerization",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "docker-containerization",
+  "schema_version": "1.0.0",
+  "sha256": "2CA7AB61F11DC21E2D0BBA03A5E23911257654BDE567187269227F8878B74805",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/docker-containerization/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "44EE1824648D8580B579C74E3AD837C95C4B429763FCAF983AB7301AA1E0B78F",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/docker-containerization/SKILL.md",
+      "red-blue-team-suite/skills/docker-containerization/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

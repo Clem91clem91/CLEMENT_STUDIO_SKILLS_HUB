@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.deep-work-scheduling.eb56e91d1ce9/SKILL.md",
+  "dependencies": [],
+  "description": "Applies deep work scheduling to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1410,
+  "id": "clement.deep-work-scheduling.eb56e91d1ce9",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "deep",
+    "deep-work-scheduling",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "scheduling",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "deep-work-scheduling",
+  "schema_version": "1.0.0",
+  "sha256": "EB56E91D1CE9B41E70E2532F8A37DB4B0A37473117E79056518C0883DDC2BD1D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/deep-work-scheduling/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4D3FDF980EB06224ADB3886550E2E1CDACB6762BAAF0EDAD13C6F6B8F826C152",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/deep-work-scheduling/SKILL.md",
+      "red-blue-team-suite/skills/deep-work-scheduling/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

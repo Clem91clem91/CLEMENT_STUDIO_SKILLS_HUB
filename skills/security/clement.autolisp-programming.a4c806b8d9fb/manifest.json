@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.autolisp-programming.a4c806b8d9fb/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Autolisp Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1444,
+  "id": "clement.autolisp-programming.a4c806b8d9fb",
+  "keywords": [
+    "and",
+    "autolisp",
+    "autolisp-programming",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "autolisp-programming",
+  "schema_version": "1.0.0",
+  "sha256": "A4C806B8D9FB252A61DB6C850172C6709189B8BB00C732BC4A76C85B933B4EE9",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/autolisp-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C86481D656CAFBE38E63704FC95E07519FE64A383A7CBFA32E4BE8BCA95AC8A0",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/autolisp-programming/SKILL.md",
+      "red-blue-team-suite/skills/autolisp-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

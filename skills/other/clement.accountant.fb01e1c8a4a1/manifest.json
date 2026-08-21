@@ -1,0 +1,53 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.accountant.fb01e1c8a4a1/SKILL.md",
+  "dependencies": [],
+  "description": "Applies the Accountant professional role to plan, execute, review, and deliver reliable finance investment work with explicit assumptions, controls, and human escalation where required.",
+  "estimated_context_cost": 1394,
+  "id": "clement.accountant.fb01e1c8a4a1",
+  "keywords": [
+    "accountant",
+    "and",
+    "applies",
+    "assumptions",
+    "controls",
+    "deliver",
+    "escalation",
+    "execute",
+    "explicit",
+    "finance",
+    "human",
+    "investment",
+    "other",
+    "plan",
+    "professional",
+    "reliable",
+    "required",
+    "review",
+    "role",
+    "the",
+    "to",
+    "where",
+    "with",
+    "work"
+  ],
+  "name": "accountant",
+  "schema_version": "1.0.0",
+  "sha256": "FB01E1C8A4A14CE5C50C7A2743BEAC47AF4B343031B6CCD1839707ACECE59A36",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/accountant/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C3433C9A7A9A66E59547E2103B28066204BD143D0C7E109A6BFE7D0E59E33D46",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/accountant/SKILL.md",
+      "red-blue-team-suite/skills/accountant/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

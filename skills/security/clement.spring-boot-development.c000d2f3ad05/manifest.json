@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.spring-boot-development.c000d2f3ad05/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Spring Boot Development, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1454,
+  "id": "clement.spring-boot-development.c000d2f3ad05",
+  "keywords": [
+    "and",
+    "boot",
+    "built",
+    "designs",
+    "development",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "spring",
+    "spring-boot-development",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "spring-boot-development",
+  "schema_version": "1.0.0",
+  "sha256": "C000D2F3AD0596FD8F9862961E0A61B32D67D9D84D8954E12703C98E28208070",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/spring-boot-development/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "68C1DD2E2AED77A8372D74F739E6F26051A62890A3408201577E5F577118844A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/spring-boot-development/SKILL.md",
+      "red-blue-team-suite/skills/spring-boot-development/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

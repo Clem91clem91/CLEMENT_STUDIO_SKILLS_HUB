@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.hypothesis-generation.41af10c3897b/SKILL.md",
+  "dependencies": [],
+  "description": "Uses hypothesis generation as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1386,
+  "id": "clement.hypothesis-generation.41af10c3897b",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "generation",
+    "hypothesis",
+    "hypothesis-generation",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "hypothesis-generation",
+  "schema_version": "1.0.0",
+  "sha256": "41AF10C3897BB0261E72E24C0706D187EA68B7EC519387C8C414FF87F7467A52",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/hypothesis-generation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "558540554114E72DBD5C0EBE716EDEA1A4550A09E4CEF20BFA17B79DC706E997",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/hypothesis-generation/SKILL.md",
+      "red-blue-team-suite/skills/hypothesis-generation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

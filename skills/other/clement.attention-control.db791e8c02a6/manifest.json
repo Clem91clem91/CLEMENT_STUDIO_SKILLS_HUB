@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.attention-control.db791e8c02a6/SKILL.md",
+  "dependencies": [],
+  "description": "Uses attention control as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1380,
+  "id": "clement.attention-control.db791e8c02a6",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "attention",
+    "attention-control",
+    "calibration",
+    "control",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "attention-control",
+  "schema_version": "1.0.0",
+  "sha256": "DB791E8C02A6D6DD3D0E9797F19BC2FFE5FA04626F6AE526429C841C755143EC",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/attention-control/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "48D0463CC9F7CFE04CE4D60EF1D01667D7729B457EE15877190EDF88CC1E9BE6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/attention-control/SKILL.md",
+      "red-blue-team-suite/skills/attention-control/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "documents",
+  "conflicts": [],
+  "content_path": "skills/documents/clement.document-organization.e95e2437c0ce/SKILL.md",
+  "dependencies": [],
+  "description": "Applies document organization to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1412,
+  "id": "clement.document-organization.e95e2437c0ce",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "document",
+    "document-organization",
+    "documented",
+    "documents",
+    "into",
+    "measurable",
+    "objectives",
+    "organization",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "document-organization",
+  "schema_version": "1.0.0",
+  "sha256": "E95E2437C0CE043AFEAA38B20313A6C134604EB729D0E2DC2FBD64860E257D02",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/document-organization/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "68BAD99BC297357C1BFB47AC74C3DEF8A8CCD79FA552C56465E1E9BE5238A457",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/document-organization/SKILL.md",
+      "red-blue-team-suite/skills/document-organization/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.multi-issue-negotiation.eafb69e48c45/SKILL.md",
+  "dependencies": [],
+  "description": "Applies multi issue negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1425,
+  "id": "clement.multi-issue-negotiation.eafb69e48c45",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "issue",
+    "leverage",
+    "multi",
+    "multi-issue-negotiation",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "multi-issue-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "EAFB69E48C45419AE0777D25607CD9FA2A49D208E9BBEAD5AD9F7776EDA08B7A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/multi-issue-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "9D01F4F05561AB662EC4BB5C73579F4674E6EC8F1E1E4BAA8E9DBE1B762D8499",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/multi-issue-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/multi-issue-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

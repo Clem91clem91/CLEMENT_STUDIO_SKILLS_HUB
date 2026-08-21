@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.milestone-planning.8d37cd606943/SKILL.md",
+  "dependencies": [],
+  "description": "Applies milestone planning to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1406,
+  "id": "clement.milestone-planning.8d37cd606943",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "milestone",
+    "milestone-planning",
+    "objectives",
+    "other",
+    "ownership",
+    "planning",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "milestone-planning",
+  "schema_version": "1.0.0",
+  "sha256": "8D37CD606943986EF3D7FCC19777AAF9920B3086DB07C44D47E9F93815A55D67",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/milestone-planning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0A4D1A6206BCB24CE58124C23D3EA96B0FC69C7C5AC124561E2691D033832A52",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/milestone-planning/SKILL.md",
+      "red-blue-team-suite/skills/milestone-planning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

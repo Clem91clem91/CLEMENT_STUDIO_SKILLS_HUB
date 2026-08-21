@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.lora-training.6f38cbde1314/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Lora Training, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1439,
+  "id": "clement.lora-training.6f38cbde1314",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "lora",
+    "lora-training",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "training",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "lora-training",
+  "schema_version": "1.0.0",
+  "sha256": "6F38CBDE131483B2943FECB39BDFFFF152E8232998BCC2180BD4A27C89842E6D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/lora-training/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "4B7F892D377AFFE21586E1055E4DD392811250394A4902EAD5A1408B7BA1F8F1",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/lora-training/SKILL.md",
+      "red-blue-team-suite/skills/lora-training/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

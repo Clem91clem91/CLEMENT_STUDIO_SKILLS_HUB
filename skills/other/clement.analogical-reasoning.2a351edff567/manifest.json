@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.analogical-reasoning.2a351edff567/SKILL.md",
+  "dependencies": [],
+  "description": "Uses analogical reasoning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1384,
+  "id": "clement.analogical-reasoning.2a351edff567",
+  "keywords": [
+    "alternatives",
+    "analogical",
+    "analogical-reasoning",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "analogical-reasoning",
+  "schema_version": "1.0.0",
+  "sha256": "2A351EDFF567879C5DAD7D77503715203A019CC924FA41B616238B5C5E3E4933",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/analogical-reasoning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "28737B4AA654C24FA550B0406BF4AE91719D9D2F92993434E9C446EF3E77ADC5",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/analogical-reasoning/SKILL.md",
+      "red-blue-team-suite/skills/analogical-reasoning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

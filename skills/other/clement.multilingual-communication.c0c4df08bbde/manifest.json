@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.multilingual-communication.c0c4df08bbde/SKILL.md",
+  "dependencies": [],
+  "description": "Uses multilingual communication to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1379,
+  "id": "clement.multilingual-communication.c0c4df08bbde",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "explicit",
+    "feedback",
+    "loop",
+    "multilingual",
+    "multilingual-communication",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "multilingual-communication",
+  "schema_version": "1.0.0",
+  "sha256": "C0C4DF08BBDE378D156D55BE275B401B19452870F93D101C10598BF2472C79F2",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/multilingual-communication/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B3752173075A160048C381E95F569FE696C23454D08420CA2BFBFE70BBD5E0A0",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/multilingual-communication/SKILL.md",
+      "red-blue-team-suite/skills/multilingual-communication/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

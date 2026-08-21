@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.internal-communications.b1c783bc9121/SKILL.md",
+  "dependencies": [],
+  "description": "Uses internal communications to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1373,
+  "id": "clement.internal-communications.b1c783bc9121",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "communications",
+    "create",
+    "explicit",
+    "feedback",
+    "internal",
+    "internal-communications",
+    "loop",
+    "objective",
+    "other",
+    "to",
+    "tone",
+    "uses",
+    "with"
+  ],
+  "name": "internal-communications",
+  "schema_version": "1.0.0",
+  "sha256": "B1C783BC912130E8BDA33C5840498B1F4B56CCCD50DD3ECBBCA16873DFCC1DEE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/internal-communications/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "172F1F3C22F8B1C0CA59451059B45FB8468758F1A40FF2DC3A75DC21AA554A44",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/internal-communications/SKILL.md",
+      "red-blue-team-suite/skills/internal-communications/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

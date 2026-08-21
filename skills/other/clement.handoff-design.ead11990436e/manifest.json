@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.handoff-design.ead11990436e/SKILL.md",
+  "dependencies": [],
+  "description": "Applies handoff design to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1400,
+  "id": "clement.handoff-design.ead11990436e",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "design",
+    "documented",
+    "handoff",
+    "handoff-design",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "handoff-design",
+  "schema_version": "1.0.0",
+  "sha256": "EAD11990436E2078531B1961D8E03AF432B0101988D323F728D1547C49F908A6",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/handoff-design/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "601DACB3489A4D5AB9E5BA9C7A883FD340BD46965B24BBA69F63A5024D3B5DE6",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/handoff-design/SKILL.md",
+      "red-blue-team-suite/skills/handoff-design/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

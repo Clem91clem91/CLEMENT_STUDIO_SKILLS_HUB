@@ -1,0 +1,53 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.actuary.a20119ec498e/SKILL.md",
+  "dependencies": [],
+  "description": "Applies the Actuary professional role to plan, execute, review, and deliver reliable finance investment work with explicit assumptions, controls, and human escalation where required.",
+  "estimated_context_cost": 1451,
+  "id": "clement.actuary.a20119ec498e",
+  "keywords": [
+    "actuary",
+    "and",
+    "applies",
+    "assumptions",
+    "controls",
+    "deliver",
+    "escalation",
+    "execute",
+    "explicit",
+    "finance",
+    "human",
+    "investment",
+    "other",
+    "plan",
+    "professional",
+    "reliable",
+    "required",
+    "review",
+    "role",
+    "the",
+    "to",
+    "where",
+    "with",
+    "work"
+  ],
+  "name": "actuary",
+  "schema_version": "1.0.0",
+  "sha256": "A20119EC498EDA41D0394D0D41428AA9BB293E630D1280A8BC95406881C29BD4",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/actuary/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "31B7A9254BB31FB0D8DAFE4824955E525B4130FF4051F1AF8BBCC3CCE2C3240F",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/actuary/SKILL.md",
+      "red-blue-team-suite/skills/actuary/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

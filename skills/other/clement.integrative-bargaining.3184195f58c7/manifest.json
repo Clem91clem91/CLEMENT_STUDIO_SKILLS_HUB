@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.integrative-bargaining.3184195f58c7/SKILL.md",
+  "dependencies": [],
+  "description": "Applies integrative bargaining to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1423,
+  "id": "clement.integrative-bargaining.3184195f58c7",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "bargaining",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "integrative",
+    "integrative-bargaining",
+    "interests",
+    "leverage",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "integrative-bargaining",
+  "schema_version": "1.0.0",
+  "sha256": "3184195F58C75BC9BF2120DDE21CEDAF19DBDED3AB5689634F60C3553B1B3150",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/integrative-bargaining/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "39DB76769940BCDAC8F45E05ED10FEC06BD6D17B4B61B0FF724CF33CB00E487A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/integrative-bargaining/SKILL.md",
+      "red-blue-team-suite/skills/integrative-bargaining/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

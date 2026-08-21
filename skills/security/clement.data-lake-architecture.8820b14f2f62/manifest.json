@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.data-lake-architecture.8820b14f2f62/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Data Lake Architecture, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1440,
+  "id": "clement.data-lake-architecture.8820b14f2f62",
+  "keywords": [
+    "and",
+    "architecture",
+    "built",
+    "data",
+    "data-lake-architecture",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "lake",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "data-lake-architecture",
+  "schema_version": "1.0.0",
+  "sha256": "8820B14F2F62869B6837B5EF89C105EE0058B3AE2E24FCC83DAB53846C2E7712",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/data-lake-architecture/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D580B12FF29F3ABD064E2A8CFCBAF3CAE5FB347D2458916B66DB6A4F0053C1B5",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/data-lake-architecture/SKILL.md",
+      "red-blue-team-suite/skills/data-lake-architecture/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

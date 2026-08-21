@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.worldbuilding.d56b8beb6b14/SKILL.md",
+  "dependencies": [],
+  "description": "Uses worldbuilding to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1367,
+  "id": "clement.worldbuilding.d56b8beb6b14",
+  "keywords": [
+    "and",
+    "audience",
+    "brief",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "fit",
+    "generate",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses",
+    "worldbuilding"
+  ],
+  "name": "worldbuilding",
+  "schema_version": "1.0.0",
+  "sha256": "D56B8BEB6B141033FFA375BDAA651594BF65D3DFFBC2B52029C93DFE9EA1B07E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/worldbuilding/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "6003DA48B14A7A71C781B02C69F03B74598ABAF1E268067FD453EDA24B4C6E93",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/worldbuilding/SKILL.md",
+      "red-blue-team-suite/skills/worldbuilding/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

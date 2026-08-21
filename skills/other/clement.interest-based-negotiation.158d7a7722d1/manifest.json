@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.interest-based-negotiation.158d7a7722d1/SKILL.md",
+  "dependencies": [],
+  "description": "Applies interest based negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1445,
+  "id": "clement.interest-based-negotiation.158d7a7722d1",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "based",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interest",
+    "interest-based-negotiation",
+    "interests",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "interest-based-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "158D7A7722D126F6F09D7FE31F4AC5A695897FF1E4B0600019D56A1BA403229E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/interest-based-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "EE4AD1A007AF73BCBF3EEA985345E4AF32D5557F7BF5C6A8EA14D06A52506D81",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/interest-based-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/interest-based-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

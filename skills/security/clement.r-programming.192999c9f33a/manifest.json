@@ -1,0 +1,46 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.r-programming.192999c9f33a/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using R Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1430,
+  "id": "clement.r-programming.192999c9f33a",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "programming",
+    "r-programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "r-programming",
+  "schema_version": "1.0.0",
+  "sha256": "192999C9F33AF78B81F4406B62905604F18A2A89F1A501882A6B05A544FD3170",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/r-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "537B73807056A9F88256719E65577F3FC7D8C40CB3BE4268BAC0486CDE605CED",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/r-programming/SKILL.md",
+      "red-blue-team-suite/skills/r-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

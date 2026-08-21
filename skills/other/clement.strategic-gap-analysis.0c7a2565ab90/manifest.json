@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.strategic-gap-analysis.0c7a2565ab90/SKILL.md",
+  "dependencies": [],
+  "description": "Performs strategic gap analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1403,
+  "id": "clement.strategic-gap-analysis.0c7a2565ab90",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "findings",
+    "gap",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "strategic",
+    "strategic-gap-analysis",
+    "through",
+    "traceable"
+  ],
+  "name": "strategic-gap-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "0C7A2565AB905DC91DAC0510951EF681BF74420FE90F0691F94EC7544EFEB4D7",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/strategic-gap-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CADAE748E1EBD3BA54003B21E83555155F64966892A8F82D53611693BB20EC27",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/strategic-gap-analysis/SKILL.md",
+      "red-blue-team-suite/skills/strategic-gap-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.manager-development.8afd86a1b7bb/SKILL.md",
+  "dependencies": [],
+  "description": "Uses manager development to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1368,
+  "id": "clement.manager-development.8afd86a1b7bb",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "development",
+    "manager",
+    "manager-development",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "manager-development",
+  "schema_version": "1.0.0",
+  "sha256": "8AFD86A1B7BB04ACD9C2305129DA7248EB5A00D3742BBE452916923718A4E92B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/manager-development/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D59DFB7EB5545A781D45C79118835DBE9AAEE8EDE76A09042B6565A0E5CB4B18",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/manager-development/SKILL.md",
+      "red-blue-team-suite/skills/manager-development/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

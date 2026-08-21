@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.abductive-reasoning.a9d094ae97f8/SKILL.md",
+  "dependencies": [],
+  "description": "Uses abductive reasoning as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1382,
+  "id": "clement.abductive-reasoning.a9d094ae97f8",
+  "keywords": [
+    "abductive",
+    "abductive-reasoning",
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "abductive-reasoning",
+  "schema_version": "1.0.0",
+  "sha256": "A9D094AE97F809426B80B8C2851C62926B27BB682237C7D66546E1AFF84B556D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/abductive-reasoning/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "FB3A050242099CE00CFB84462B287CD1E0D6F66DC746AA0C7606F9F6E81FEF56",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/abductive-reasoning/SKILL.md",
+      "red-blue-team-suite/skills/abductive-reasoning/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

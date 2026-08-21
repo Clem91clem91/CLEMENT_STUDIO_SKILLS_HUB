@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.culture-shaping-founder.a10fde68ab65/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a culture shaping founder operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1452,
+  "id": "clement.culture-shaping-founder.a10fde68ab65",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "culture",
+    "culture-shaping-founder",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "founder",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "shaping",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "culture-shaping-founder",
+  "schema_version": "1.0.0",
+  "sha256": "A10FDE68AB6541C7139482C2E12FD823EC75D3BAD0BCDE859E86458937E9E314",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/culture-shaping-founder/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "2BFFCAE73A66E612256EFC8F996FA9088E91A2615090D119C08EB560F2CA2A01",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/culture-shaping-founder/SKILL.md",
+      "red-blue-team-suite/skills/culture-shaping-founder/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

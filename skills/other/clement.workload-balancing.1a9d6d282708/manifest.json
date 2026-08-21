@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.workload-balancing.1a9d6d282708/SKILL.md",
+  "dependencies": [],
+  "description": "Applies workload balancing to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1406,
+  "id": "clement.workload-balancing.1a9d6d282708",
+  "keywords": [
+    "and",
+    "applies",
+    "balancing",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work",
+    "workload",
+    "workload-balancing"
+  ],
+  "name": "workload-balancing",
+  "schema_version": "1.0.0",
+  "sha256": "1A9D6D2827080972ED5B943FC694BC80B5298A33FD1F97431966321FD19A1B52",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/workload-balancing/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "9FB62518B402061774F9F7405DAB28A6D1B7552E8F2440D4CE5B80BBF5B37E3B",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/workload-balancing/SKILL.md",
+      "red-blue-team-suite/skills/workload-balancing/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,45 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.ownership-culture-building.707dd666a337/SKILL.md",
+  "dependencies": [],
+  "description": "Uses ownership culture building to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1379,
+  "id": "clement.ownership-culture-building.707dd666a337",
+  "keywords": [
+    "align",
+    "and",
+    "building",
+    "cadence",
+    "culture",
+    "decisions",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "ownership-culture-building",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "ownership-culture-building",
+  "schema_version": "1.0.0",
+  "sha256": "707DD666A3377A09F3A4EAC8622D7D6DDA0392D80359FD94D87B61E3C8A16028",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/ownership-culture-building/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "F7D3F5CFE05D23E1E7FB2433882DEA53CFAEF50431327E8A7DF2B52D2608FB51",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/ownership-culture-building/SKILL.md",
+      "red-blue-team-suite/skills/ownership-culture-building/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

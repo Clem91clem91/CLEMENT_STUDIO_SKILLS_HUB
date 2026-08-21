@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.make-workflow-automation.a26fd7ec4867/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Make Workflow Automation, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1452,
+  "id": "clement.make-workflow-automation.a26fd7ec4867",
+  "keywords": [
+    "and",
+    "automation",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "make",
+    "make-workflow-automation",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with",
+    "workflow"
+  ],
+  "name": "make-workflow-automation",
+  "schema_version": "1.0.0",
+  "sha256": "A26FD7EC48673F07A2DC773CF846EE6E79B9BEA9B5F3A6CE09DA57193C3D89CE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/make-workflow-automation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A8565BBBE3E0F2F7560D86A335EF7BBD343197962B636E57C3632C29493CCEAA",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/make-workflow-automation/SKILL.md",
+      "red-blue-team-suite/skills/make-workflow-automation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

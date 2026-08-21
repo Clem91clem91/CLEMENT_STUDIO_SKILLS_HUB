@@ -1,0 +1,53 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.security-engineer.23f40514083d/SKILL.md",
+  "dependencies": [],
+  "description": "Applies the Security Engineer professional role to plan, execute, review, and deliver reliable cybersecurity work with explicit assumptions, controls, and human escalation where required.",
+  "estimated_context_cost": 1477,
+  "id": "clement.security-engineer.23f40514083d",
+  "keywords": [
+    "and",
+    "applies",
+    "assumptions",
+    "controls",
+    "cybersecurity",
+    "deliver",
+    "engineer",
+    "escalation",
+    "execute",
+    "explicit",
+    "human",
+    "plan",
+    "professional",
+    "reliable",
+    "required",
+    "review",
+    "role",
+    "security",
+    "security-engineer",
+    "the",
+    "to",
+    "where",
+    "with",
+    "work"
+  ],
+  "name": "security-engineer",
+  "schema_version": "1.0.0",
+  "sha256": "23F40514083D70E18228E877D8110865E733A0FDF88645CAEBBB90BCED004E1D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/security-engineer/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "9AF5FA9912667F8F70F19F3D6D9DFB608FDD4F1E882AFCA675B4B545D0A3E7B1",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/security-engineer/SKILL.md",
+      "red-blue-team-suite/skills/security-engineer/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.adobe-after-effects.70f60153d4f8/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Adobe After Effects, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1445,
+  "id": "clement.adobe-after-effects.70f60153d4f8",
+  "keywords": [
+    "adobe",
+    "adobe-after-effects",
+    "after",
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "effects",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "adobe-after-effects",
+  "schema_version": "1.0.0",
+  "sha256": "70F60153D4F85161BF45AE1ED7FAC0879C8AD6E456B6BE1024DE1AA0290375D7",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/adobe-after-effects/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5FE366AE4FAD31B0AC63CFA01C9B0770C14B619CE2829C69744DCFD11659AC90",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/adobe-after-effects/SKILL.md",
+      "red-blue-team-suite/skills/adobe-after-effects/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

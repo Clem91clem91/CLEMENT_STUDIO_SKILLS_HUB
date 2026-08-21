@@ -1,0 +1,48 @@
+{
+  "category": "coding",
+  "conflicts": [],
+  "content_path": "skills/coding/clement.javascript-programming.aabf1f376cf6/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Javascript Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1452,
+  "id": "clement.javascript-programming.aabf1f376cf6",
+  "keywords": [
+    "and",
+    "built",
+    "coding",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "javascript",
+    "javascript-programming",
+    "maintainability",
+    "operates",
+    "programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "javascript-programming",
+  "schema_version": "1.0.0",
+  "sha256": "AABF1F376CF6C3490E349B7F3AC418B52EEE66F84EF3A6B6C7E51BF69DB142F9",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/javascript-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8F93E8D6BBF8A7E90B8A3D07C2E91307993677288AC258EB8FC7B3A654D49278",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/javascript-programming/SKILL.md",
+      "red-blue-team-suite/skills/javascript-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

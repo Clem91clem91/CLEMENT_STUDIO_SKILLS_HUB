@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.future-focused-planner.6f81753c289d/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a future focused planner operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1452,
+  "id": "clement.future-focused-planner.6f81753c289d",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "focused",
+    "future",
+    "future-focused-planner",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "planner",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "future-focused-planner",
+  "schema_version": "1.0.0",
+  "sha256": "6F81753C289D4A66F47454A82A83B8C4D501758AEA6924434B7EC81C8504FD79",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/future-focused-planner/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "AABE45403FCFE1152EA2B2106F361125A021C56BCE2E27352BBC68F99FFF7CF1",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/future-focused-planner/SKILL.md",
+      "red-blue-team-suite/skills/future-focused-planner/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

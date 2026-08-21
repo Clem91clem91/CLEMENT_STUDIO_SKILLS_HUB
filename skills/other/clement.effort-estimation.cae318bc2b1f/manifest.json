@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.effort-estimation.cae318bc2b1f/SKILL.md",
+  "dependencies": [],
+  "description": "Applies effort estimation to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1404,
+  "id": "clement.effort-estimation.cae318bc2b1f",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "effort",
+    "effort-estimation",
+    "estimation",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "effort-estimation",
+  "schema_version": "1.0.0",
+  "sha256": "CAE318BC2B1FED879402EF30920815FB92B567251FC9E3544D077934A62EA1F1",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/effort-estimation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8A0E459D19B546F6C33EC51FF8E60BE162040394A4BAAEC476E61C5BD4D455FE",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/effort-estimation/SKILL.md",
+      "red-blue-team-suite/skills/effort-estimation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.requirements-management.7a12fa114f39/SKILL.md",
+  "dependencies": [],
+  "description": "Applies requirements management to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1416,
+  "id": "clement.requirements-management.7a12fa114f39",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "management",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "requirements",
+    "requirements-management",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "requirements-management",
+  "schema_version": "1.0.0",
+  "sha256": "7A12FA114F39308D17A8B5B47EE06729CEB16540A425A44BE227C0F286417D6D",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/requirements-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "662E806FB2676C3F1D3BA86FA1A50DDECFF3561ED9F3BED65EDD109A3D21E90D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/requirements-management/SKILL.md",
+      "red-blue-team-suite/skills/requirements-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

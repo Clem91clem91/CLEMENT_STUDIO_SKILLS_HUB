@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.escalation-path-design.b9c3a49a8707/SKILL.md",
+  "dependencies": [],
+  "description": "Applies escalation path design to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1416,
+  "id": "clement.escalation-path-design.b9c3a49a8707",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "design",
+    "documented",
+    "escalation",
+    "escalation-path-design",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "path",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "escalation-path-design",
+  "schema_version": "1.0.0",
+  "sha256": "B9C3A49A87078FB5D18A6F319BAACD92A71516E563BF8180AB86956CF7B6DDA8",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/escalation-path-design/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D4CE3F86E2437515333BACACF2161F3B5A5266CE4C51DEC63AEA3263DD181913",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/escalation-path-design/SKILL.md",
+      "red-blue-team-suite/skills/escalation-path-design/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

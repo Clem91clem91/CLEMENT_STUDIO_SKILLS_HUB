@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.innovation-leadership.3d7e56d3919f/SKILL.md",
+  "dependencies": [],
+  "description": "Uses innovation leadership to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1372,
+  "id": "clement.innovation-leadership.3d7e56d3919f",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "innovation",
+    "innovation-leadership",
+    "leadership",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "innovation-leadership",
+  "schema_version": "1.0.0",
+  "sha256": "3D7E56D3919F71B638DC93EF755863D51E0A449939120B60268AF40B438E1717",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/innovation-leadership/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "42CB1BDB346660AD9E23A2F0920DA0ED74A13CCE6FF66656D959736090A8ED2D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/innovation-leadership/SKILL.md",
+      "red-blue-team-suite/skills/innovation-leadership/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

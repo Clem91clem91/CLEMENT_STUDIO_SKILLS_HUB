@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.release-readiness-check.a836262eb146/SKILL.md",
+  "dependencies": [],
+  "description": "Applies release readiness check to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1412,
+  "id": "clement.release-readiness-check.a836262eb146",
+  "keywords": [
+    "and",
+    "applies",
+    "check",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "readiness",
+    "release",
+    "release-readiness-check",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "release-readiness-check",
+  "schema_version": "1.0.0",
+  "sha256": "A836262EB146DC3F71F9BE79D3CFA6ED769A365B4E896C10C29D63772415F3DF",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/release-readiness-check/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C69F96B74C34E3103C059960AD1A203DC142EA042D0AC5A324824129C3716757",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/release-readiness-check/SKILL.md",
+      "red-blue-team-suite/skills/release-readiness-check/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

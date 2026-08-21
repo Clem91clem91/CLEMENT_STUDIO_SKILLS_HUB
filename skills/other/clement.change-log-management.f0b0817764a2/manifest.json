@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.change-log-management.f0b0817764a2/SKILL.md",
+  "dependencies": [],
+  "description": "Applies change log management to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1412,
+  "id": "clement.change-log-management.f0b0817764a2",
+  "keywords": [
+    "and",
+    "applies",
+    "change",
+    "change-log-management",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "log",
+    "management",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "change-log-management",
+  "schema_version": "1.0.0",
+  "sha256": "F0B0817764A23830CF8334FE3DDE2F9B0A5040D24E57BD54D956CD5B8DCB0ECF",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/change-log-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "97F0AEA4AA47F287D67F7B7DC23F1B1703876970D551C8B6CC9BA05F9B267905",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/change-log-management/SKILL.md",
+      "red-blue-team-suite/skills/change-log-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

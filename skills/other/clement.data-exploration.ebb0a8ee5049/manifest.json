@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.data-exploration.ebb0a8ee5049/SKILL.md",
+  "dependencies": [],
+  "description": "Performs data exploration through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1386,
+  "id": "clement.data-exploration.ebb0a8ee5049",
+  "keywords": [
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "data",
+    "data-exploration",
+    "decision-ready",
+    "evidence",
+    "exploration",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "data-exploration",
+  "schema_version": "1.0.0",
+  "sha256": "EBB0A8EE5049360A95235C43970C9CE21B9B5903488B9C5D0992060523A95187",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/data-exploration/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B704CA7449D9DDE34BA2DC741B995777E34265C6A71CA93F0FA207971F8B034E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/data-exploration/SKILL.md",
+      "red-blue-team-suite/skills/data-exploration/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.red-team-thinking.d51a306b8bbf/SKILL.md",
+  "dependencies": [],
+  "description": "Uses red team thinking as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1376,
+  "id": "clement.red-team-thinking.d51a306b8bbf",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "red",
+    "red-team-thinking",
+    "structured",
+    "team",
+    "thinking",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "red-team-thinking",
+  "schema_version": "1.0.0",
+  "sha256": "D51A306B8BBF21CAE067C5B224C7FD97319EE5C69A55801833CD8FD9734C101A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/red-team-thinking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A489319CD3ED021C6A23675856F7BC64B8B68975375C9C51B4E921FD1AE45471",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/red-team-thinking/SKILL.md",
+      "red-blue-team-suite/skills/red-team-thinking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

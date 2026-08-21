@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.self-disciplined-achiever.8e138d9a1b0a/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a self disciplined achiever operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1458,
+  "id": "clement.self-disciplined-achiever.8e138d9a1b0a",
+  "keywords": [
+    "achiever",
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "disciplined",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "self",
+    "self-disciplined-achiever",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "self-disciplined-achiever",
+  "schema_version": "1.0.0",
+  "sha256": "8E138D9A1B0A318B1948C3F90F75DCA4BAECB24125D057C8A95CBE3189889249",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/self-disciplined-achiever/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "62C13EF4FA0667D85DD046169D2C9EF41C219C7B4D62EC36F6964FC5260B1AAD",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/self-disciplined-achiever/SKILL.md",
+      "red-blue-team-suite/skills/self-disciplined-achiever/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

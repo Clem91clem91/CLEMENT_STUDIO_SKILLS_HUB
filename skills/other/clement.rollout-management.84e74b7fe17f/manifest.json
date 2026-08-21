@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.rollout-management.84e74b7fe17f/SKILL.md",
+  "dependencies": [],
+  "description": "Applies rollout management to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1406,
+  "id": "clement.rollout-management.84e74b7fe17f",
+  "keywords": [
+    "and",
+    "applies",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "into",
+    "management",
+    "measurable",
+    "objectives",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "rollout",
+    "rollout-management",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "rollout-management",
+  "schema_version": "1.0.0",
+  "sha256": "84E74B7FE17F6B196CEA269E8AAE4E465406471C4FB94F1B57A0845FF6067A7F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/rollout-management/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "A069DF31D3356A22B71348706A6352C3576BFBBB1417500424176005768EE58E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/rollout-management/SKILL.md",
+      "red-blue-team-suite/skills/rollout-management/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

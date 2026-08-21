@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.trust-building.cc1c7251eddf/SKILL.md",
+  "dependencies": [],
+  "description": "Uses trust building to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1355,
+  "id": "clement.trust-building.cc1c7251eddf",
+  "keywords": [
+    "align",
+    "and",
+    "building",
+    "cadence",
+    "culture",
+    "decisions",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "trust",
+    "trust-building",
+    "uses"
+  ],
+  "name": "trust-building",
+  "schema_version": "1.0.0",
+  "sha256": "CC1C7251EDDF255A3B283FEF4445BCCDEC9C001086D81D98912D1764D46C5857",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/trust-building/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8A56D277F9C405F7A14C30BDB054E4EE2CEA30671B472ADAC93D0E28B361DBD4",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/trust-building/SKILL.md",
+      "red-blue-team-suite/skills/trust-building/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

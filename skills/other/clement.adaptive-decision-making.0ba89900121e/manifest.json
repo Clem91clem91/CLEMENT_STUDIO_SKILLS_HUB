@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.adaptive-decision-making.0ba89900121e/SKILL.md",
+  "dependencies": [],
+  "description": "Uses adaptive decision making as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1392,
+  "id": "clement.adaptive-decision-making.0ba89900121e",
+  "keywords": [
+    "adaptive",
+    "adaptive-decision-making",
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "making",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "adaptive-decision-making",
+  "schema_version": "1.0.0",
+  "sha256": "0BA89900121EBE685C1B4479E5446D822E367E1ADE592C0FA0ED985565C9BAFF",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/adaptive-decision-making/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "DC210EBB966F77E06432D28C666B686A7310D754EB9B00CD98FC21D5F601F7D5",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/adaptive-decision-making/SKILL.md",
+      "red-blue-team-suite/skills/adaptive-decision-making/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.process-respecting-professional.3a904d82d830/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a process respecting professional operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1482,
+  "id": "clement.process-respecting-professional.3a904d82d830",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "process",
+    "process-respecting-professional",
+    "professional",
+    "respecting",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "process-respecting-professional",
+  "schema_version": "1.0.0",
+  "sha256": "3A904D82D830800471DAFE94A170B1D2428E4F4256C1C7E64F2470026EAC2BAE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/process-respecting-professional/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0D50FE00D963C6642F5ABB78234AF8A24F922F69807CFA858CEC06C97942B33E",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/process-respecting-professional/SKILL.md",
+      "red-blue-team-suite/skills/process-respecting-professional/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.global-minded-entrepreneur.bdb37c078efe/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a global minded entrepreneur operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1460,
+  "id": "clement.global-minded-entrepreneur.bdb37c078efe",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "entrepreneur",
+    "ethics",
+    "evidence",
+    "execution",
+    "global",
+    "global-minded-entrepreneur",
+    "intent",
+    "minded",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "global-minded-entrepreneur",
+  "schema_version": "1.0.0",
+  "sha256": "BDB37C078EFEE6D5D97C5F9A5F728E230CFF978464DCCDB3A85C60384A62B717",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/global-minded-entrepreneur/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "99AAB0E21536E67F8F39A053307986371EBEFAB95FDA36ABFA519FE0271F1CC2",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/global-minded-entrepreneur/SKILL.md",
+      "red-blue-team-suite/skills/global-minded-entrepreneur/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.systems-thinking.04b4db7912e5/SKILL.md",
+  "dependencies": [],
+  "description": "Uses systems thinking as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1381,
+  "id": "clement.systems-thinking.04b4db7912e5",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "systems",
+    "systems-thinking",
+    "thinking",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "systems-thinking",
+  "schema_version": "1.0.0",
+  "sha256": "04B4DB7912E515FAC479E8A5EF9688C3C9F817465DED4D5E06EFD569B9BEC64C",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/systems-thinking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D678D085AAA80CE7BB28CA2E2B14FF7C0F64D69DEED5F7B214ABB0E649E675F1",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/systems-thinking/SKILL.md",
+      "red-blue-team-suite/skills/systems-thinking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

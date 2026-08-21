@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.jenkins-automation.951b563212a3/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Jenkins Automation, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1444,
+  "id": "clement.jenkins-automation.951b563212a3",
+  "keywords": [
+    "and",
+    "automation",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "jenkins",
+    "jenkins-automation",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "jenkins-automation",
+  "schema_version": "1.0.0",
+  "sha256": "951B563212A36161E204B0B237A2866262112460C7BE2E8B0CBAB4ECAC85924F",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/jenkins-automation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "ABED67C96C64142DD55AE8A91599AA0BB29D7588C8B443C491A14A4252944F9F",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/jenkins-automation/SKILL.md",
+      "red-blue-team-suite/skills/jenkins-automation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

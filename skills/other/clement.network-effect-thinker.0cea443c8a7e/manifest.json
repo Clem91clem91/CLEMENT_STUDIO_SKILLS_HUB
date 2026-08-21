@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.network-effect-thinker.0cea443c8a7e/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a network effect thinker operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1517,
+  "id": "clement.network-effect-thinker.0cea443c8a7e",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "effect",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "network",
+    "network-effect-thinker",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "thinker",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "network-effect-thinker",
+  "schema_version": "1.0.0",
+  "sha256": "0CEA443C8A7E80DABB52C972DA0B027C0BE2614EDC440B6251044F3B59AC79FD",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/network-effect-thinker/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5879BC817867688AC03DA2EED0E727A54CFD57E0601B2C8C4DBA05FDD2C74C3D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/network-effect-thinker/SKILL.md",
+      "red-blue-team-suite/skills/network-effect-thinker/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

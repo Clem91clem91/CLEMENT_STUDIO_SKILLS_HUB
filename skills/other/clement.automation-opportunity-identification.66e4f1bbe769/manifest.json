@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.automation-opportunity-identification.66e4f1bbe769/SKILL.md",
+  "dependencies": [],
+  "description": "Applies automation opportunity identification to convert objectives into structured work, clear ownership, measurable progress, quality control, and documented completion.",
+  "estimated_context_cost": 1444,
+  "id": "clement.automation-opportunity-identification.66e4f1bbe769",
+  "keywords": [
+    "and",
+    "applies",
+    "ation",
+    "automation",
+    "automation-opportunity-identific",
+    "clear",
+    "completion",
+    "control",
+    "convert",
+    "documented",
+    "identification",
+    "into",
+    "measurable",
+    "objectives",
+    "opportunity",
+    "other",
+    "ownership",
+    "progress",
+    "quality",
+    "structured",
+    "to",
+    "work"
+  ],
+  "name": "automation-opportunity-identification",
+  "schema_version": "1.0.0",
+  "sha256": "66E4F1BBE76984101182FC91514BC11A90BD15C012916C2A47AD51903BD8C3ED",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/automation-opportunity-identification/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "D344962BC5DC91C45B47EE9742CC446090D8FAFBCAF318525B576B37FBA2C615",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/automation-opportunity-identification/SKILL.md",
+      "red-blue-team-suite/skills/automation-opportunity-identification/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

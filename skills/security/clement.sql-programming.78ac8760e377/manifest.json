@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.sql-programming.78ac8760e377/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using SQL Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1426,
+  "id": "clement.sql-programming.78ac8760e377",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "sql",
+    "sql-programming",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "sql-programming",
+  "schema_version": "1.0.0",
+  "sha256": "78AC8760E377113C492054E1D6D3A565ECFEC4232446F09884E20E4CC05E887A",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/sql-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5C7081796F2AA1ED17BEE2FD810434DBDBCC382EDC8F759C6CD7E64E9AB1C6A8",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/sql-programming/SKILL.md",
+      "red-blue-team-suite/skills/sql-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

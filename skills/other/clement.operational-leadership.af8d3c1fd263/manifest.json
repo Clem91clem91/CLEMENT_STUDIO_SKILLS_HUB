@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.operational-leadership.af8d3c1fd263/SKILL.md",
+  "dependencies": [],
+  "description": "Uses operational leadership to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1371,
+  "id": "clement.operational-leadership.af8d3c1fd263",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "leadership",
+    "measurable",
+    "mission",
+    "operating",
+    "operational",
+    "operational-leadership",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "operational-leadership",
+  "schema_version": "1.0.0",
+  "sha256": "AF8D3C1FD263D8E877E94EF56ABC97225D62E3E6351A8B0E4EA1DD7EB53B5D74",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/operational-leadership/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "3E79E05E58966725FBEA6525CFC9C2E1A070F6B31344F5B8AE29E48065291DB9",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/operational-leadership/SKILL.md",
+      "red-blue-team-suite/skills/operational-leadership/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

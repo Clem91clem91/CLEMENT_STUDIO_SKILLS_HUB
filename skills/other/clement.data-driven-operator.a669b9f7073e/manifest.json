@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.data-driven-operator.a669b9f7073e/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a data driven operator operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1435,
+  "id": "clement.data-driven-operator.a669b9f7073e",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "data",
+    "data-driven-operator",
+    "decisions",
+    "driven",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "operator",
+    "other",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "data-driven-operator",
+  "schema_version": "1.0.0",
+  "sha256": "A669B9F7073E3A01FFA97D17A86C95BBBB0735DD76B09BBDD23890D3839E8DEE",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/data-driven-operator/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "594CC46F104A75AD84BA4091CF5ECBC540C5D099DE0535747D256063B686273A",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/data-driven-operator/SKILL.md",
+      "red-blue-team-suite/skills/data-driven-operator/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

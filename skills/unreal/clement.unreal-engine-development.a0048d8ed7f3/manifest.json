@@ -1,0 +1,48 @@
+{
+  "category": "unreal",
+  "conflicts": [],
+  "content_path": "skills/unreal/clement.unreal-engine-development.a0048d8ed7f3/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Unreal Engine Development, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1457,
+  "id": "clement.unreal-engine-development.a0048d8ed7f3",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "development",
+    "documents",
+    "engine",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "unreal",
+    "unreal-engine-development",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "unreal-engine-development",
+  "schema_version": "1.0.0",
+  "sha256": "A0048D8ED7F32751FFFB6F88EF421AE72729065FDE7B53ABD317070D6D4F2FA2",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/unreal-engine-development/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "BBDF203BF4343993ACAEF8805EE50BF1DF531E4E97FA22947CD2B2445DA28543",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/unreal-engine-development/SKILL.md",
+      "red-blue-team-suite/skills/unreal-engine-development/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

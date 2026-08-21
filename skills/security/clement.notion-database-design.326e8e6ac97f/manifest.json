@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.notion-database-design.326e8e6ac97f/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Notion Database Design, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1440,
+  "id": "clement.notion-database-design.326e8e6ac97f",
+  "keywords": [
+    "and",
+    "built",
+    "database",
+    "design",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "notion",
+    "notion-database-design",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "notion-database-design",
+  "schema_version": "1.0.0",
+  "sha256": "326E8E6AC97F10D7D6829BD0893403C6ECB21D08CC1CE456F6A29C54B378E3B5",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/notion-database-design/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "E885606F8FEC058BBE7FBE806D153B3FBE8A1F79EF198453CDFDD9765FE5B388",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/notion-database-design/SKILL.md",
+      "red-blue-team-suite/skills/notion-database-design/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

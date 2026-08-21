@@ -1,0 +1,48 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.question-led-negotiation.4a735363b5d2/SKILL.md",
+  "dependencies": [],
+  "description": "Applies question led negotiation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1427,
+  "id": "clement.question-led-negotiation.4a735363b5d2",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "controls",
+    "ethical",
+    "implementable",
+    "interests",
+    "led",
+    "leverage",
+    "negotiation",
+    "other",
+    "packages",
+    "prepare",
+    "question",
+    "question-led-negotiation",
+    "risk",
+    "to"
+  ],
+  "name": "question-led-negotiation",
+  "schema_version": "1.0.0",
+  "sha256": "4A735363B5D2A27DDA3FFDC17D1EAD658CA185EBFDAF9905C64414E42584914C",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/question-led-negotiation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "C8781A3B6BC93F5ADA93B0FBF528364C65A8C9FBE04C97F5FB2CF6A61DDD2E93",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/question-led-negotiation/SKILL.md",
+      "red-blue-team-suite/skills/question-led-negotiation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

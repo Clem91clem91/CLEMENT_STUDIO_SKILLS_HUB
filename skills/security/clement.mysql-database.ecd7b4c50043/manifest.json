@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.mysql-database.ecd7b4c50043/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Mysql Database, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1424,
+  "id": "clement.mysql-database.ecd7b4c50043",
+  "keywords": [
+    "and",
+    "built",
+    "database",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "mysql",
+    "mysql-database",
+    "operates",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "mysql-database",
+  "schema_version": "1.0.0",
+  "sha256": "ECD7B4C5004361234B6D76FF8ED911D7D7DD54E8CF6D1A38666D9E4A7A02036C",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/mysql-database/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "B6D7894B02E8C061C8D4206482046787EA6CDF55CDF8CD9E428DBB8EF154AB96",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/mysql-database/SKILL.md",
+      "red-blue-team-suite/skills/mysql-database/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

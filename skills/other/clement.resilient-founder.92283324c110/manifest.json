@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.resilient-founder.92283324c110/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a resilient founder operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1442,
+  "id": "clement.resilient-founder.92283324c110",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "founder",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "resilient",
+    "resilient-founder",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "resilient-founder",
+  "schema_version": "1.0.0",
+  "sha256": "92283324C1109F16863DAAF98E34FA8FCD0B0EDE9477331C90E680932423824B",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/resilient-founder/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "88B6A786144673D4B31D9BF7D016D86A4C0DE10334555A4FDB0B09A36F134C3C",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/resilient-founder/SKILL.md",
+      "red-blue-team-suite/skills/resilient-founder/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

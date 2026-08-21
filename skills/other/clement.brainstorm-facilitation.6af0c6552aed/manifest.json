@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.brainstorm-facilitation.6af0c6552aed/SKILL.md",
+  "dependencies": [],
+  "description": "Uses brainstorm facilitation to generate, select, develop, and test original concepts that fit the brief, audience, rights, and execution constraints.",
+  "estimated_context_cost": 1394,
+  "id": "clement.brainstorm-facilitation.6af0c6552aed",
+  "keywords": [
+    "and",
+    "audience",
+    "brainstorm",
+    "brainstorm-facilitation",
+    "brief",
+    "concepts",
+    "constraints",
+    "develop",
+    "execution",
+    "facilitation",
+    "fit",
+    "generate",
+    "original",
+    "other",
+    "rights",
+    "select",
+    "test",
+    "that",
+    "the",
+    "to",
+    "uses"
+  ],
+  "name": "brainstorm-facilitation",
+  "schema_version": "1.0.0",
+  "sha256": "6AF0C6552AEDFAE6DF011E4A5DD5571E3D9FD49142BC0B5CAC46BA9B9619F80E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/brainstorm-facilitation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "2FF2A3DD1EF06A81DAFFBF1788B3860FBDA5A58DBFBF4B6DA4BD667207A014E8",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/brainstorm-facilitation/SKILL.md",
+      "red-blue-team-suite/skills/brainstorm-facilitation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.ambitious-self-starter.ef50e9a30a76/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a ambitious self starter operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1452,
+  "id": "clement.ambitious-self-starter.ef50e9a30a76",
+  "keywords": [
+    "ambitious",
+    "ambitious-self-starter",
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "self",
+    "starter",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "ambitious-self-starter",
+  "schema_version": "1.0.0",
+  "sha256": "EF50E9A30A76A521D1DB63B1C32EBD9501B8DF41FE3B103283014E1F5197D6B3",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/ambitious-self-starter/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "CECCE4D1E97AEEC086F95999EE29E7DFB08A9F488C0894FC9D588A13389E6000",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/ambitious-self-starter/SKILL.md",
+      "red-blue-team-suite/skills/ambitious-self-starter/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

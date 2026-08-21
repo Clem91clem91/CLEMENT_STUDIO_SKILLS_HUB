@@ -1,0 +1,48 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.google-cloud-platform.f0dda2f186d1/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using Google Cloud Platform, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1450,
+  "id": "clement.google-cloud-platform.f0dda2f186d1",
+  "keywords": [
+    "and",
+    "built",
+    "cloud",
+    "designs",
+    "documents",
+    "google",
+    "google-cloud-platform",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "platform",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "google-cloud-platform",
+  "schema_version": "1.0.0",
+  "sha256": "F0DDA2F186D1F0B8DCAAEC146BCC3BCA08069344A9E3B791B0536B4D3C0AB16E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/google-cloud-platform/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "DD2A735488E84BBB4E4D848C5E3923CA13EBDC2DFA648003012108C7D7A39D41",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/google-cloud-platform/SKILL.md",
+      "red-blue-team-suite/skills/google-cloud-platform/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

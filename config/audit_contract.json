@@ -1,0 +1,43 @@
+{
+  "contract_version": "1.0.0",
+  "audit_date": "2026-08-20",
+  "source_root": "C:\\Users\\Shadow\\Documents\\CLEMENT_STUDIO\\09_Drive\\Mega\\skill",
+  "source_snapshot_sha256": "4206D8DC3405EB5E5F17E73911F7940D197DB3D657405F3AD88B1509B74541D5",
+  "report_sha256": "23726C8DD8FEA5D79636DF27E6AB8CF55BDE073138D9D5A60B5F7B455C958E49",
+  "evidence_index_sha256": "588EE8589278517FA66CFA8DF998E00E163C31DF21D6CC2425F6E95AD4775084",
+  "audit_bundle_sha256": "17ABD5B090E4077E28C887A3E2F1B0269FF0DE447718B1746E21780CD1A83F25",
+  "metrics": {
+    "total_skill_files": 1805,
+    "unique_by_sha256": 905,
+    "exact_duplicates": 900,
+    "unique_skill_names": 905,
+    "name_conflicts": 0,
+    "incomplete_skills": 5,
+    "invalid_manifests": 0
+  },
+  "required_inventory_columns": [
+    "SkillName",
+    "NormalizedName",
+    "NameSource",
+    "RootPath",
+    "HasSkill",
+    "SkillPath",
+    "SkillSha256",
+    "HasManifest",
+    "ManifestPath",
+    "ManifestSha256",
+    "ManifestValid",
+    "ManifestNamePresent",
+    "ManifestError",
+    "AuditStatus"
+  ],
+  "excluded_directories": [
+    ".venv",
+    "venv",
+    "site-packages",
+    "tests/fixtures",
+    "__pycache__",
+    ".git"
+  ]
+}
+

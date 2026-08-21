@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.third-order-thinking.785056b391b3/SKILL.md",
+  "dependencies": [],
+  "description": "Uses third order thinking as a structured reasoning protocol to improve framing, evidence use, alternatives, uncertainty calibration, and decision quality.",
+  "estimated_context_cost": 1384,
+  "id": "clement.third-order-thinking.785056b391b3",
+  "keywords": [
+    "alternatives",
+    "and",
+    "as",
+    "calibration",
+    "decision",
+    "evidence",
+    "framing",
+    "improve",
+    "order",
+    "other",
+    "protocol",
+    "quality",
+    "reasoning",
+    "structured",
+    "thinking",
+    "third",
+    "third-order-thinking",
+    "to",
+    "uncertainty",
+    "use",
+    "uses"
+  ],
+  "name": "third-order-thinking",
+  "schema_version": "1.0.0",
+  "sha256": "785056B391B3BA20C798701E207EFBC97A19D67BC69D05AE07B811E4475649B0",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/third-order-thinking/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "3C9570F1E7B1BAFF797BD13174EB3C411FD459768860F1861537D797CE33D003",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/third-order-thinking/SKILL.md",
+      "red-blue-team-suite/skills/third-order-thinking/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

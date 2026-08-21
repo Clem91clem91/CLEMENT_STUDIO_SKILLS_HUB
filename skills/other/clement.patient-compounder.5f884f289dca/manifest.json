@@ -1,0 +1,50 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.patient-compounder.5f884f289dca/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a patient compounder operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1444,
+  "id": "clement.patient-compounder.5f884f289dca",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "compounder",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "patient",
+    "patient-compounder",
+    "preserving",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "patient-compounder",
+  "schema_version": "1.0.0",
+  "sha256": "5F884F289DCA40D392278222C7617D85E2665E76E1DD80842F314993AE935BBD",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/patient-compounder/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "5AF05C069D80EFE6824CBB15038E5AFB496F531A2FC518EDB480A59AC39D92FB",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/patient-compounder/SKILL.md",
+      "red-blue-team-suite/skills/patient-compounder/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

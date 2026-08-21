@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.leadership-resilience.fc8874f15f0a/SKILL.md",
+  "dependencies": [],
+  "description": "Uses leadership resilience to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1369,
+  "id": "clement.leadership-resilience.fc8874f15f0a",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "culture",
+    "decisions",
+    "leadership",
+    "leadership-resilience",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "resilience",
+    "to",
+    "uses"
+  ],
+  "name": "leadership-resilience",
+  "schema_version": "1.0.0",
+  "sha256": "FC8874F15F0A841B4CB8DF9DD48647296655D3C0698C3D6C462D935F8ED5615E",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/leadership-resilience/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "E7E7CB4DE6D86CFAAB545EB8280A26231CFC3FB6BAB40B7EABB06FB0CF52C928",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/leadership-resilience/SKILL.md",
+      "red-blue-team-suite/skills/leadership-resilience/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

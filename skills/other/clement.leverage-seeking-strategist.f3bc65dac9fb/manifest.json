@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.leverage-seeking-strategist.f3bc65dac9fb/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a leverage seeking strategist operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1453,
+  "id": "clement.leverage-seeking-strategist.f3bc65dac9fb",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "leverage",
+    "leverage-seeking-strategist",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "preserving",
+    "seeking",
+    "strategist",
+    "style",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "leverage-seeking-strategist",
+  "schema_version": "1.0.0",
+  "sha256": "F3BC65DAC9FB93C62D421C33DDA7753257812FBF4983A181273C1FFF70EDE972",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/leverage-seeking-strategist/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "661FBB55D5A8D4263885FAF0B2FB40B8063660B6DE8FC13002C6D3072EFFCE27",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/leverage-seeking-strategist/SKILL.md",
+      "red-blue-team-suite/skills/leverage-seeking-strategist/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

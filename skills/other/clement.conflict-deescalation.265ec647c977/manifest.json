@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.conflict-deescalation.265ec647c977/SKILL.md",
+  "dependencies": [],
+  "description": "Applies conflict deescalation to prepare interests, alternatives, leverage, packages, concessions, risk controls, and implementable ethical agreements.",
+  "estimated_context_cost": 1428,
+  "id": "clement.conflict-deescalation.265ec647c977",
+  "keywords": [
+    "agreements",
+    "alternatives",
+    "and",
+    "applies",
+    "concessions",
+    "conflict",
+    "conflict-deescalation",
+    "controls",
+    "deescalation",
+    "ethical",
+    "implementable",
+    "interests",
+    "leverage",
+    "other",
+    "packages",
+    "prepare",
+    "risk",
+    "to"
+  ],
+  "name": "conflict-deescalation",
+  "schema_version": "1.0.0",
+  "sha256": "265EC647C977D45688235097E6D0E6C037ED71FA2A579EE9FD129AA667463967",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/conflict-deescalation/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "0D999C983825D61969459FFF1AED1C62FCA9B31FCE41B6F2F828F9299B7E050B",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/conflict-deescalation/SKILL.md",
+      "red-blue-team-suite/skills/conflict-deescalation/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,47 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.failure-mode-analysis.0ab98fb19419/SKILL.md",
+  "dependencies": [],
+  "description": "Performs failure mode analysis through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1418,
+  "id": "clement.failure-mode-analysis.0ab98fb19419",
+  "keywords": [
+    "analysis",
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "evidence",
+    "failure",
+    "failure-mode-analysis",
+    "findings",
+    "methods",
+    "mode",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "through",
+    "traceable"
+  ],
+  "name": "failure-mode-analysis",
+  "schema_version": "1.0.0",
+  "sha256": "0AB98FB19419090F51B37D748FC7E80AFDE1A18DF16C393D4C14F685268BA076",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/failure-mode-analysis/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "59E3FCE1A475D03F5B8AF2EECD8941B3E7C1F7E79881957F1D68AF39DCA814B0",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/failure-mode-analysis/SKILL.md",
+      "red-blue-team-suite/skills/failure-mode-analysis/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

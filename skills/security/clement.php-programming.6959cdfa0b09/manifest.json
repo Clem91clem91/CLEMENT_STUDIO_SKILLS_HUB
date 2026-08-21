@@ -1,0 +1,47 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "skills/security/clement.php-programming.6959cdfa0b09/SKILL.md",
+  "dependencies": [],
+  "description": "Designs, implements, tests, documents, and operates solutions using PHP Programming, with reproducibility, security, maintainability, and verification built in.",
+  "estimated_context_cost": 1438,
+  "id": "clement.php-programming.6959cdfa0b09",
+  "keywords": [
+    "and",
+    "built",
+    "designs",
+    "documents",
+    "implements",
+    "in",
+    "maintainability",
+    "operates",
+    "php",
+    "php-programming",
+    "programming",
+    "reproducibility",
+    "security",
+    "solutions",
+    "tests",
+    "using",
+    "verification",
+    "with"
+  ],
+  "name": "php-programming",
+  "schema_version": "1.0.0",
+  "sha256": "6959CDFA0B096208403D7C34A64D0F80351E9BDE2F3C1436470239B0DAD76214",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/php-programming/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "05815461BCCCEA56140B5FBB42615FB25892FAD7B3D4B6443D9EF347F348AD7D",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/php-programming/SKILL.md",
+      "red-blue-team-suite/skills/php-programming/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

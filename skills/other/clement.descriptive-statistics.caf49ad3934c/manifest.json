@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.descriptive-statistics.caf49ad3934c/SKILL.md",
+  "dependencies": [],
+  "description": "Performs descriptive statistics through traceable evidence, appropriate methods, robustness checks, calibrated findings, and decision-ready recommendations.",
+  "estimated_context_cost": 1397,
+  "id": "clement.descriptive-statistics.caf49ad3934c",
+  "keywords": [
+    "and",
+    "appropriate",
+    "calibrated",
+    "checks",
+    "decision-ready",
+    "descriptive",
+    "descriptive-statistics",
+    "evidence",
+    "findings",
+    "methods",
+    "other",
+    "performs",
+    "recommendations",
+    "robustness",
+    "statistics",
+    "through",
+    "traceable"
+  ],
+  "name": "descriptive-statistics",
+  "schema_version": "1.0.0",
+  "sha256": "CAF49AD3934CCC333E150E0A2A1CF48A731F1A36198EB144B840EFAD3830BC03",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/descriptive-statistics/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "7AD91181E9316B318B8BA9F0891E6F54E44B949CEB68735B6DB53DCD080BEF13",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/descriptive-statistics/SKILL.md",
+      "red-blue-team-suite/skills/descriptive-statistics/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

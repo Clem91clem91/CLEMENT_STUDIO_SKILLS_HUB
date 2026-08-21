@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.professional-email-writing.c1ec18acd46f/SKILL.md",
+  "dependencies": [],
+  "description": "Uses professional email writing to create clear, accurate, audience-aware communication with an explicit objective, channel, tone, action, and feedback loop.",
+  "estimated_context_cost": 1380,
+  "id": "clement.professional-email-writing.c1ec18acd46f",
+  "keywords": [
+    "accurate",
+    "action",
+    "an",
+    "and",
+    "audience-aware",
+    "channel",
+    "clear",
+    "communication",
+    "create",
+    "email",
+    "explicit",
+    "feedback",
+    "loop",
+    "objective",
+    "other",
+    "professional",
+    "professional-email-writing",
+    "to",
+    "tone",
+    "uses",
+    "with",
+    "writing"
+  ],
+  "name": "professional-email-writing",
+  "schema_version": "1.0.0",
+  "sha256": "C1EC18ACD46F1D4F89CD3802C9BEE97A5B8A533BF6371DEF81E036D9E4DA97B9",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/professional-email-writing/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "90500E4BC5E568D1A98259D79ADAB65AE2BEDB3C3530B95B0C1F664400D58E62",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/professional-email-writing/SKILL.md",
+      "red-blue-team-suite/skills/professional-email-writing/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

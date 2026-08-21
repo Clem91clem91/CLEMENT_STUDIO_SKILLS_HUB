@@ -1,0 +1,46 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.change-leadership.3445ac87d95a/SKILL.md",
+  "dependencies": [],
+  "description": "Uses change leadership to align mission, people, ownership, decisions, operating cadence, culture, and measurable outcomes.",
+  "estimated_context_cost": 1364,
+  "id": "clement.change-leadership.3445ac87d95a",
+  "keywords": [
+    "align",
+    "and",
+    "cadence",
+    "change",
+    "change-leadership",
+    "culture",
+    "decisions",
+    "leadership",
+    "measurable",
+    "mission",
+    "operating",
+    "other",
+    "outcomes",
+    "ownership",
+    "people",
+    "to",
+    "uses"
+  ],
+  "name": "change-leadership",
+  "schema_version": "1.0.0",
+  "sha256": "3445AC87D95ADB1DC6CCA172D6F3E5EB06EB8EA1A843307D35D5B165AAD2EBD8",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/change-leadership/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "8D7BA339FC84078BA9ACFABF8752118743B0308172B39601A61E4CAC4F6D46EA",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/change-leadership/SKILL.md",
+      "red-blue-team-suite/skills/change-leadership/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "other",
+  "conflicts": [],
+  "content_path": "skills/other/clement.ownership-minded-teammate.d12e79a31bc4/SKILL.md",
+  "dependencies": [],
+  "description": "Behavioral modifier that applies a ownership minded teammate operating style to decisions and execution while preserving evidence, ethics, user intent, and non-impersonation.",
+  "estimated_context_cost": 1456,
+  "id": "clement.ownership-minded-teammate.d12e79a31bc4",
+  "keywords": [
+    "and",
+    "applies",
+    "behavioral",
+    "decisions",
+    "ethics",
+    "evidence",
+    "execution",
+    "intent",
+    "minded",
+    "modifier",
+    "non-impersonation",
+    "operating",
+    "other",
+    "ownership",
+    "ownership-minded-teammate",
+    "preserving",
+    "style",
+    "teammate",
+    "that",
+    "to",
+    "user",
+    "while"
+  ],
+  "name": "ownership-minded-teammate",
+  "schema_version": "1.0.0",
+  "sha256": "D12E79A31BC4428D49194252BF83914C935BD8CD850716FB5C7DACB8986E3C96",
+  "source": {
+    "canonical_path": "bibliotheque-900-skills-chatgpt/skills/ownership-minded-teammate/SKILL.md",
+    "library": "bibliotheque-900-skills-chatgpt",
+    "manifest_sha256": "78FCF41B290E429C30732B45015BE420856A72DB1525E11B80E1FF230171D141",
+    "replica_count": 2,
+    "replicas": [
+      "bibliotheque-900-skills-chatgpt/skills/ownership-minded-teammate/SKILL.md",
+      "red-blue-team-suite/skills/ownership-minded-teammate/SKILL.md"
+    ]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": [],
+  "version": "1.0.0"
+}
