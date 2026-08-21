@@ -1,11 +1,14 @@
 name: skills-hub-ci
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
       - develop
       - "feat/**"
+      - "fix/**"
+      - "chore/**"
   pull_request:
     branches:
       - main
@@ -75,3 +78,14 @@ jobs:
             exit 1
           }
           Write-Host "POWERSHELL_PARSE=PASS"
+
+  governance-gate:
+    name: governance-gate
+    if: ${{ always() }}
+    needs: [validate]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enforce CI matrix success
+        shell: bash
+        run: |
+          test "${{ needs.validate.result }}" = "success"
