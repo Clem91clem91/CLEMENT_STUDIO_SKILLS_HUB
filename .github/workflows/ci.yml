@@ -41,8 +41,11 @@ jobs:
           python-version: ${{ matrix.python }}
           cache: pip
 
-      - name: Install package
-        run: python -m pip install --disable-pip-version-check -e .
+      - name: Install package with dev test dependencies
+        run: python -m pip install --disable-pip-version-check -e ".[dev]"
+
+      - name: Verify pytest runtime for Bootstrap compatibility
+        run: python -c "import pytest; print('PYTEST_RUNTIME=PASS')"
 
       - name: Compile package
         run: python -m compileall -q src scripts tests
@@ -50,8 +53,11 @@ jobs:
       - name: Validate repository
         run: python scripts/validate_repository.py --root .
 
-      - name: Run test suite
+      - name: Run canonical unittest suite
         run: python -m unittest discover -s tests -v
+
+      - name: Run Bootstrap-compatible pytest suite
+        run: python -m pytest -q
 
       - name: Parse P0-01 PowerShell installer
         if: runner.os == 'Windows'
@@ -69,4 +75,3 @@ jobs:
             exit 1
           }
           Write-Host "POWERSHELL_PARSE=PASS"
-
