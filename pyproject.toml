@@ -12,6 +12,9 @@ license = {text = "Proprietary"}
 authors = [{name = "CLEMENT STUDIO"}]
 dependencies = []
 
+[project.optional-dependencies]
+dev = ["pytest>=8,<9"]
+
 [project.scripts]
 clement-skills-hub = "clement_skills_hub.cli:main"
 
@@ -23,4 +26,3 @@ where = ["src"]
 
 [tool.setuptools.package-data]
 clement_skills_hub = ["py.typed"]
-
