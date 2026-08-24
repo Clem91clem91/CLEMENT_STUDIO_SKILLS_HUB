@@ -1,0 +1,25 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "native_skills/security/clement.cyber-domain-intelligence.1317d1942c98/SKILL.md",
+  "dependencies": [],
+  "description": "Operational workflow for authorized domain intelligence: correlate DNS, RDAP, TLS, HTTP metadata, reputation, and threat-intelligence evidence into a traceable assessment.",
+  "estimated_context_cost": 1054,
+  "id": "clement.cyber-domain-intelligence.1317d1942c98",
+  "keywords": ["cyber", "domain", "dns", "rdap", "tls", "http", "reputation", "threat-intelligence", "osint", "evidence"],
+  "name": "cyber-domain-intelligence",
+  "schema_version": "1.0.0",
+  "sha256": "1317D1942C98D9D567DBA217B6C81B89BFCC0323DF80C11A3AC5AE78A436B438",
+  "source": {
+    "canonical_path": "native_skills/security/clement.cyber-domain-intelligence.1317d1942c98/SKILL.md",
+    "library": "clement-studio-native",
+    "manifest_sha256": null,
+    "replica_count": 1,
+    "replicas": ["native_skills/security/clement.cyber-domain-intelligence.1317d1942c98/SKILL.md"]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": ["Native operational cyber skill; base certified import registry remains unchanged until explicit certification."],
+  "version": "1.0.0"
+}
