@@ -1,0 +1,25 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "native_skills/security/clement.cyber-incident-triage.45a31ce83bbe/SKILL.md",
+  "dependencies": [],
+  "description": "Operational incident-triage workflow that combines file, domain, IP, web, and threat-intelligence evidence to prioritize containment, investigation, and escalation without destroying evidence.",
+  "estimated_context_cost": 1021,
+  "id": "clement.cyber-incident-triage.45a31ce83bbe",
+  "keywords": ["cyber", "incident", "triage", "containment", "ioc", "timeline", "evidence", "response", "threat-intelligence"],
+  "name": "cyber-incident-triage",
+  "schema_version": "1.0.0",
+  "sha256": "45A31CE83BBE65260F26E3D1C816347C164933182EEE1B7B88E7DE92FF850E3E",
+  "source": {
+    "canonical_path": "native_skills/security/clement.cyber-incident-triage.45a31ce83bbe/SKILL.md",
+    "library": "clement-studio-native",
+    "manifest_sha256": null,
+    "replica_count": 1,
+    "replicas": ["native_skills/security/clement.cyber-incident-triage.45a31ce83bbe/SKILL.md"]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": ["Native operational cyber skill; base certified import registry remains unchanged until explicit certification."],
+  "version": "1.0.0"
+}
