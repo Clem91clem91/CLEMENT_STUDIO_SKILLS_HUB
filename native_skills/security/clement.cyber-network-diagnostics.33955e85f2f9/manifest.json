@@ -1,0 +1,25 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "native_skills/security/clement.cyber-network-diagnostics.33955e85f2f9/SKILL.md",
+  "dependencies": [],
+  "description": "Authorized network-diagnostics workflow for troubleshooting connectivity and defensive posture using minimally invasive observations, explicit scope, and evidence-preserving checks.",
+  "estimated_context_cost": 956,
+  "id": "clement.cyber-network-diagnostics.33955e85f2f9",
+  "keywords": ["cyber", "network", "diagnostics", "dns", "routing", "firewall", "tcp", "tls", "connectivity", "troubleshooting"],
+  "name": "cyber-network-diagnostics",
+  "schema_version": "1.0.0",
+  "sha256": "33955E85F2F9B60D1A28FB2810100C395DD18728DBE53239237F89B043314928",
+  "source": {
+    "canonical_path": "native_skills/security/clement.cyber-network-diagnostics.33955e85f2f9/SKILL.md",
+    "library": "clement-studio-native",
+    "manifest_sha256": null,
+    "replica_count": 1,
+    "replicas": ["native_skills/security/clement.cyber-network-diagnostics.33955e85f2f9/SKILL.md"]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": ["Native operational cyber skill; base certified import registry remains unchanged until explicit certification."],
+  "version": "1.0.0"
+}
