@@ -1,0 +1,25 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "native_skills/security/clement.cyber-threat-intelligence.e77b41e3eb93/SKILL.md",
+  "dependencies": [],
+  "description": "Operational threat-intelligence correlation workflow for authorized indicators, combining reputation, exposure, infrastructure, provenance, confidence, and time-sensitive evidence.",
+  "estimated_context_cost": 955,
+  "id": "clement.cyber-threat-intelligence.e77b41e3eb93",
+  "keywords": ["cyber", "threat-intelligence", "ioc", "reputation", "virustotal", "shodan", "censys", "correlation", "provenance"],
+  "name": "cyber-threat-intelligence",
+  "schema_version": "1.0.0",
+  "sha256": "E77B41E3EB93CA41A5078E4105B32806AB5CE312E5A87A63FD2BEEB3B41AEEF5",
+  "source": {
+    "canonical_path": "native_skills/security/clement.cyber-threat-intelligence.e77b41e3eb93/SKILL.md",
+    "library": "clement-studio-native",
+    "manifest_sha256": null,
+    "replica_count": 1,
+    "replicas": ["native_skills/security/clement.cyber-threat-intelligence.e77b41e3eb93/SKILL.md"]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": ["Native operational cyber skill; base certified import registry remains unchanged until explicit certification."],
+  "version": "1.0.0"
+}
