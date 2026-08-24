@@ -1,0 +1,25 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "native_skills/security/clement.cyber-osint-investigation.13dbb0ca46f3/SKILL.md",
+  "dependencies": [],
+  "description": "Passive cyber-OSINT workflow for authorized investigations, emphasizing source provenance, corroboration, temporal context, privacy minimization, and separation of fact from inference.",
+  "estimated_context_cost": 987,
+  "id": "clement.cyber-osint-investigation.13dbb0ca46f3",
+  "keywords": ["cyber", "osint", "investigation", "provenance", "corroboration", "timeline", "infrastructure", "privacy", "evidence"],
+  "name": "cyber-osint-investigation",
+  "schema_version": "1.0.0",
+  "sha256": "13DBB0CA46F3C49B59BBADB3E8DBE4A813C33DBAC7ACD76C6DE7404B0429E00D",
+  "source": {
+    "canonical_path": "native_skills/security/clement.cyber-osint-investigation.13dbb0ca46f3/SKILL.md",
+    "library": "clement-studio-native",
+    "manifest_sha256": null,
+    "replica_count": 1,
+    "replicas": ["native_skills/security/clement.cyber-osint-investigation.13dbb0ca46f3/SKILL.md"]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": ["Native operational cyber skill; base certified import registry remains unchanged until explicit certification."],
+  "version": "1.0.0"
+}

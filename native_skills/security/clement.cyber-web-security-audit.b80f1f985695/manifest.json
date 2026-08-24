@@ -1,0 +1,25 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "native_skills/security/clement.cyber-web-security-audit.b80f1f985695/SKILL.md",
+  "dependencies": [],
+  "description": "Safe, evidence-driven audit workflow for web-facing security posture using TLS and HTTP metadata, security headers, redirects, and non-destructive observations.",
+  "estimated_context_cost": 1001,
+  "id": "clement.cyber-web-security-audit.b80f1f985695",
+  "keywords": ["cyber", "web", "security", "audit", "tls", "http", "headers", "hsts", "csp", "redirects", "hardening"],
+  "name": "cyber-web-security-audit",
+  "schema_version": "1.0.0",
+  "sha256": "B80F1F9856958455DDFF929280EFABF42EB7B328544AD06776393927205992B1",
+  "source": {
+    "canonical_path": "native_skills/security/clement.cyber-web-security-audit.b80f1f985695/SKILL.md",
+    "library": "clement-studio-native",
+    "manifest_sha256": null,
+    "replica_count": 1,
+    "replicas": ["native_skills/security/clement.cyber-web-security-audit.b80f1f985695/SKILL.md"]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": ["Native operational cyber skill; base certified import registry remains unchanged until explicit certification."],
+  "version": "1.0.0"
+}
