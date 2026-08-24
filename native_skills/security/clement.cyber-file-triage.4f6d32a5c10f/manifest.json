@@ -1,0 +1,25 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "native_skills/security/clement.cyber-file-triage.4f6d32a5c10f/SKILL.md",
+  "dependencies": [],
+  "description": "Non-executing file triage workflow for authorized files: compute hashes, inspect metadata, identify type/signature inconsistencies, and correlate reputation evidence without running untrusted content.",
+  "estimated_context_cost": 977,
+  "id": "clement.cyber-file-triage.4f6d32a5c10f",
+  "keywords": ["cyber", "file", "triage", "hash", "metadata", "malware", "static-analysis", "reputation", "chain-of-custody"],
+  "name": "cyber-file-triage",
+  "schema_version": "1.0.0",
+  "sha256": "4F6D32A5C10F0AB286131A60D90E410CF2D6485CA7782185D8626881E762CFB6",
+  "source": {
+    "canonical_path": "native_skills/security/clement.cyber-file-triage.4f6d32a5c10f/SKILL.md",
+    "library": "clement-studio-native",
+    "manifest_sha256": null,
+    "replica_count": 1,
+    "replicas": ["native_skills/security/clement.cyber-file-triage.4f6d32a5c10f/SKILL.md"]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": ["Native operational cyber skill; base certified import registry remains unchanged until explicit certification."],
+  "version": "1.0.0"
+}
