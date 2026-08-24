@@ -26,17 +26,11 @@
     "id": {"type": "string", "pattern": "^clement\\.[a-z0-9][a-z0-9-]*\\.[a-f0-9]{12}$"},
     "name": {"type": "string", "minLength": 1},
     "version": {"type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+(?:[-+][0-9A-Za-z.-]+)?$"},
-    "status": {
-      "type": "string",
-      "enum": ["ACTIVE", "CANDIDATE", "NEEDS_REVIEW", "DEPRECATED", "ARCHIVED", "CONFLICT", "INCOMPLETE"]
-    },
-    "category": {
-      "type": "string",
-      "enum": ["coding", "documents", "research", "3d", "blender", "unreal", "comfyui", "filesystem", "github", "orchestration", "security", "other"]
-    },
+    "status": {"type": "string", "enum": ["ACTIVE", "CANDIDATE", "NEEDS_REVIEW", "DEPRECATED", "ARCHIVED", "CONFLICT", "INCOMPLETE"]},
+    "category": {"type": "string", "enum": ["coding", "documents", "research", "3d", "blender", "unreal", "comfyui", "filesystem", "github", "orchestration", "security", "other"]},
     "description": {"type": "string"},
     "sha256": {"type": "string", "pattern": "^[A-F0-9]{64}$"},
-    "content_path": {"type": "string", "pattern": "^skills/[a-z0-9-]+/[a-z0-9.-]+/SKILL\\.md$"},
+    "content_path": {"type": "string", "pattern": "^(?:skills|native_skills)/[a-z0-9-]+/[a-z0-9.-]+/SKILL\\.md$"},
     "source": {
       "type": "object",
       "required": ["canonical_path", "library", "replica_count", "replicas", "manifest_sha256"],
@@ -59,4 +53,3 @@
   },
   "additionalProperties": false
 }
-
