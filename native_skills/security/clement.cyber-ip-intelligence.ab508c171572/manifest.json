@@ -1,0 +1,25 @@
+{
+  "category": "security",
+  "conflicts": [],
+  "content_path": "native_skills/security/clement.cyber-ip-intelligence.ab508c171572/SKILL.md",
+  "dependencies": [],
+  "description": "Operational workflow for authorized IP intelligence: correlate reverse DNS, RDAP/ASN, network ownership, exposure, geolocation hints, and threat-intelligence evidence.",
+  "estimated_context_cost": 985,
+  "id": "clement.cyber-ip-intelligence.ab508c171572",
+  "keywords": ["cyber", "ip", "ipv4", "ipv6", "rdap", "asn", "reverse-dns", "geolocation", "shodan", "censys", "threat-intelligence"],
+  "name": "cyber-ip-intelligence",
+  "schema_version": "1.0.0",
+  "sha256": "AB508C1715727593577C6218E95AFB2F6E839C9DFACF36474D3B81FD6277ACCD",
+  "source": {
+    "canonical_path": "native_skills/security/clement.cyber-ip-intelligence.ab508c171572/SKILL.md",
+    "library": "clement-studio-native",
+    "manifest_sha256": null,
+    "replica_count": 1,
+    "replicas": ["native_skills/security/clement.cyber-ip-intelligence.ab508c171572/SKILL.md"]
+  },
+  "status": "CANDIDATE",
+  "unresolved_conflicts": [],
+  "unresolved_dependencies": [],
+  "validation_notes": ["Native operational cyber skill; base certified import registry remains unchanged until explicit certification."],
+  "version": "1.0.0"
+}
