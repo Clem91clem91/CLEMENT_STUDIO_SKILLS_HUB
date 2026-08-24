@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "overrides": {
+    "clement.cybersecurity-analyst.4aa20fe9b6f6": {"category": "security"},
+    "clement.incident-responder.7193756d47a2": {"category": "security"},
+    "clement.network-engineer.59153530c811": {"category": "security"},
+    "clement.penetration-tester.f5e4c13fbd5a": {"category": "security"}
+  }
+}
