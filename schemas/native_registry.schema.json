@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clement-studio.local/schemas/native-registry.schema.json",
+  "title": "CLEMENT STUDIO native skills extension registry",
+  "type": "object",
+  "required": ["registry_version", "kind", "generated_at", "base_registry", "skills"],
+  "properties": {
+    "registry_version": {"type": "string", "const": "1.0.0"},
+    "kind": {"type": "string", "const": "CLEMENT_NATIVE_EXTENSION"},
+    "generated_at": {"type": "string", "minLength": 1},
+    "base_registry": {"type": "string", "const": "registry/skills_registry.json"},
+    "skills": {"type": "array", "items": {"type": "object"}}
+  },
+  "additionalProperties": false
+}
